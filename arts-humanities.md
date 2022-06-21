@@ -1,32 +1,8 @@
 ---
-title: The Arts
+title: Arts and Humanities
 ---
 
-This is the home page for **The Arts** category, which includes *American Literature*, *British Literature*, *European Literature*, *World Literature*, *Theater*, *Opera*, *Musical Theater*, *Music*, *Painting*, *Architecture*, and *Sculpture*.
-
-### American Literature
-
-Sylvia Plath
-- Daddy
-- The Munich Mannequins
-- The Bell Jar: Features Esther Greenwood, who undergoes various treatments for her mental illness.
-- Sylvia is the subject of "The Blue Flannel Suit", a poem by Ted Hughes 
-
-### British Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### European Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### World Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Theater
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
+This is the home page for the **Arts and Humanities** category, which includes *Opera*, *Musical Theater*, *Music*, *Painting*, *Architecture*, *Sculpture*, *Religion and Religious Literature*, *Mythology and Mythological Literature*, *Philosophy*, and *Social Science*.
 
 ### Opera
 
@@ -49,5 +25,21 @@ There is no content yet in this category. [Contribute some!](/contribute/index.h
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
 ### Sculpture
+
+There is no content yet in this category. [Contribute some!](/contribute/index.html)
+
+### Religion and Religious Literature
+
+There is no content yet in this category. [Contribute some!](/contribute/index.html)
+
+### Mythology and Mythological Literature
+
+There is no content yet in this category. [Contribute some!](/contribute/index.html)
+
+### Philosophy
+
+There is no content yet in this category. [Contribute some!](/contribute/index.html)
+
+### Social Science
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
