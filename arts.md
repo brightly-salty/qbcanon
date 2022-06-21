@@ -6,7 +6,11 @@ This is the home page for **The Arts** category, which includes *American Litera
 
 ### American Literature
 
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
+Sylvia Plath
+- Daddy
+- The Munich Mannequins
+- The Bell Jar: Features Esther Greenwood, who undergoes various treatments for her mental illness.
+- Sylvia is the subject of "The Blue Flannel Suit", a poem by Ted Hughes 
 
 ### British Literature
 
