@@ -2,7 +2,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
-
+import           System.FilePath
+import           Data.List (isSuffixOf)
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -15,11 +16,19 @@ main = hakyllWith (defaultConfiguration {destinationDirectory = "docs"}) $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList (["about.md", "contribute.md"] <> categoryPages)) $ do
-        route   $ setExtension "html"
+    match (fromList ["about.md", "contribute.md"]) $ do
+        route   cleanRoute
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
+            >>= cleanIndexUrls
+
+    match ("science.md" .||. "science/*.md" .||. "belief-thought.md" .||. "belief-thought/*.md" .||. "arts.md"  .||. "arts/*.md" .||. "history.md" .||. "history/*.md") $ do
+        route  cleanRoute
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls 
+            >>= cleanIndexUrls
 
     match "index.html" $ do
         route idRoute
@@ -27,8 +36,17 @@ main = hakyllWith (defaultConfiguration {destinationDirectory = "docs"}) $ do
             getResourceBody
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
+                >>= cleanIndexUrls
 
     match "templates/*" $ compile templateBodyCompiler
 
-categoryPages :: [Identifier]
-categoryPages = ["science.md", "belief-thought.md", "arts.md", "history.md"]
+cleanRoute :: Routes
+cleanRoute = customRoute ((\p -> takeDirectory p </> takeBaseName p </> "index.html") . toFilePath)
+
+cleanIndexUrls :: Item String -> Compiler (Item String)
+cleanIndexUrls = pure . fmap (withUrls cleanIndex)
+
+cleanIndex :: String -> String
+cleanIndex url
+  | "index.html" `isSuffixOf` url = take (length url - 10) url
+  | otherwise = url
