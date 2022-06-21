@@ -15,7 +15,7 @@ main = hakyllWith (defaultConfiguration {destinationDirectory = "docs"}) $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["about.md", "contribute.md"]) $ do
+    match (fromList (["about.md", "contribute.md"] <> categoryPages)) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
@@ -29,3 +29,6 @@ main = hakyllWith (defaultConfiguration {destinationDirectory = "docs"}) $ do
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateBodyCompiler
+
+categoryPages :: [Identifier]
+categoryPages = ["science.md", "belief-thought.md", "arts.md", "history.md"]
