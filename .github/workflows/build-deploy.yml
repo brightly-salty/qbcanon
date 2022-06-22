@@ -11,24 +11,22 @@ jobs:
     name: Build and deploy
     runs-on: ubuntu-latest
     env: 
-      CABAL_VERSION: '3.6'
-      GHC_VERSION: '8.10.7'
+      GHC_VERSION: '8.10'
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-haskell@v1
+    - uses: actions/checkout@v3
+    - uses: haskell/actions/setup@v2
       with:
         ghc-version: ${{env.GHC_VERSION}}
-        cabal-version: ${{env.CABAL_VERSION}}
-    - name: 'Run actions/cache@v1: cache cabal store'
-      uses: actions/cache@v1
+    - name: Cache ~/.cabal/packages, ~/.cabal/store and dist-newstyle
+      uses: actions/cache@v3
       with:
-        path: ~/.cabal/store
-        key: cabal-store-${{ runner.OS }}-${{ env.GHC_VERSION }}-${{ hashFiles('cabal.project.freeze') }}
-        restore-keys: |
-          cabal-store-${{ runner.OS }}-${{ env.GHC_VERSION }}-
-          cabal-store-${{ runner.OS }}-
-    - run: cabal update
+        path: |
+          ~/.cabal/packages
+          ~/.cabal/store
+          dist-newstyle
+        key: ${{ runner.os }}-${{ env.GHC_VERSION }}-${{ hashFiles('**/*.cabal', '**/cabal.project', '**/cabal.project.freeze') }}
+        restore-keys: ${{ runner.os }}-${{ env.GHC_VERSION }}-
     - run: cabal build --only-dependencies
     - run: cabal build
     - run: cabal exec site build
