@@ -2,29 +2,14 @@
 title: Literature
 ---
 
-This is the home page for the **Literature** category, which includes *American Literature*, *British Literature*, *European Literature*, *World Literature*, and *Young Reader Literature*.
+This is the home page for the **Literature** category.
 
-### American Literature
+We have organized literature content into five main subcategories:
 
-Sylvia Plath
+- [American Literature](american/index.html) (1.3 / 1.2)
+- [British Literature](british/index.html) (1.2 / 1.2)
+- [European Literature](european/index.html) (0.8 / 0.7)
+- [World Literature](world/index.html) (0.2 / 0.2)
+- [Young Reader Literature](young-reader/index.html) (0.2 / 0.2)
 
-- Daddy
-- The Munich Mannequins
-- The Bell Jar: Features Esther Greenwood, who undergoes various treatments for her mental illness.
-- Sylvia is the subject of "The Blue Flannel Suit", a poem by Ted Hughes
-
-### British Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### European Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### World Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Young Reader Literature
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
+Distribution Note: "Any Literature" is given 0.2 / 0.2 so each of these counts is a slight underestimate.

@@ -23,7 +23,7 @@ main = hakyll $ do
             >>= relativizeUrls
             >>= cleanIndexUrls
 
-    match ("science.md" .||. "science/*.md" .||. "arts-humanities.md" .||. "arts-humanities/*.md" .||. "literature.md"  .||. "literature/*.md" .||. "history.md" .||. "history/*.md") $ do
+    match ("*.md" .||. "**/*.md") $ do
         route  cleanRoute
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext

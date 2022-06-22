@@ -2,81 +2,16 @@
 title: Science
 ---
 
-This is the home page for the **Science** category, which includes *Mathematics*, *Biology*, *Chemistry*, *Physics*, *Earth Science*, *Astronomy*, and *Computer Science*.
+This is the home page for the **Science** category.
 
-### Mathematics
+We have organized science content into seven main subcategories:
 
-**Resources**
+- [Mathematics](math/index.html) (1.8 / 1.7)
+- [Physics](physics/index.html) (1.0 / 1.0)
+- [Biology](biology/index.html) (1.0 / 1.0)
+- [Chemistry](chemistry/index.html) (0.8 / 0.8)
+- [Astronomy](astronomy/index.html) (0.3 / 0.3)
+- [Earth Science](earth/index.html) (0.2 / 0.2)
+- [Computer Science](computer/index.html) (0.2 / 0.2)
 
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Biology
-
-**Resources**
-
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Chemistry
-
-**Resources**
-
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Physics
-
-**Resources**
-
-You Gotta Know...
-
-- [Classes of Particles](https://www.naqt.com/you-gotta-know/classes-of-particles.html)
-- [Circuit Components](https://www.naqt.com/you-gotta-know/circuit-components.html)
-- [20th-Century Physicists](https://www.naqt.com/you-gotta-know/20th-century-physicists.html)
-
-Stanford Culture Guide
-
-- [Particle Physics](https://ai.stanford.edu/~csewell/culture/physics.htm)
-- [Physics](https://ai.stanford.edu/~csewell/culture/physics.htm)
-
-Qwiz5
-- [Electrons](https://www.qwizbowl.com/post/qwiz5-quizbowl-electrons)
-- [Lasers](https://www.qwizbowl.com/post/qwiz5-quizbowl-lasers)
-- [Hooke's Law](https://www.qwizbowl.com/post/qwiz5-quizbowl-hooke)
-- [Bose-Einstein Condensate](https://www.qwizbowl.com/post/qwiz5-quizbowl-bec)
-- [The Michelson-Morley Experiment](https://www.qwizbowl.com/post/qwiz5-quizbowl-michelsonmorley)
-- [Max Plaanck](https://www.qwizbowl.com/post/qwiz5-quizbowl-planck)
-
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Earth Science
-
-**Resources**
-
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Astronomy
-
-**Resources**
-
-[You Gotta Know These Rocket Scientists](https://www.naqt.com/you-gotta-know/rocket-scientists.html)
-
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### Computer Science
-
-**Resources**
-
-**Content**
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
+Distribution Note: "Other Science" and "Any Science" are each given 0.2 / 0.2 so each of the counts above is a slight underestimate.

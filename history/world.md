@@ -1,25 +1,21 @@
 ---
-title: European History
+title: World History
 ---
 
-This is the homepage for the *European History* category.
+This is the homepage for the *World History* category.
 
-### British History (0.4 / 0.5)
-
-There is no content yet in this category. [Contribute some!](/contribute/index.html)
-
-### French History (0.2 / 0.2)
+### Asian History (0.5 / 0.4)
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
-### Russian History (0.2 / 0.2)
+### African History (0.1 / 0.1)
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
-### German History (0.2 / 0.2)
+### South American History (0.1 / 0.1)
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
-### Italian History (0.1 / 0.0)
+### North American History (0.2 / 0.2)
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
