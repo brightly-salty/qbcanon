@@ -1,0 +1,26 @@
+name: hakyll CI
+
+on:
+  push:
+    branches: 
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the stack container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/hakyll -v ${{ github.workspace }}/_site:/srv/hakyll/_site \
+        fpco/stack-build-small:latest /bin/bash -c \
+        "chmod 777 /srv/hakyll && \
+         cd /srv/hakyll && \
+         stack install --allow-different-user && \
+         stack build --allow-different-user --fast && \
+         stack exec site build"
+    - name: list artifacts
+      run: find ${{ github.workspace }}/docs
