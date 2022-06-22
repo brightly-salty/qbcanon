@@ -4,6 +4,54 @@ title: British Literature
 
 This is the homepage for the *British Literature* category.
 
+### Matthew Arnold
+
+"Dover Beach"
+
+Culture and Anarchy
+
+Empedocles on Etna
+
+### Jane Austen
+
+Pride and Prejudice
+
+Sense and Sensibility
+
+Emma
+
+### Charlotte Bronte
+
+Jane Eyre
+
+### Emily Bronte
+
+Wuthering Heights
+
+### Robert Browning
+
+"My Last Duchess"
+
+### Anthony Burgess
+
+A Clockwork Orange
+
+### Geoffrey Chaucer
+
+The Canterbury Tales
+
+### Samuel Taylor Coleridge
+
+The Rime of the Ancient Mariner
+
+### Wilkie Collins
+
+The Woman in White
+
+The Moonstone
+
+### William Congreve
+
 ### Joseph Conrad
 
 Nostromo
@@ -18,6 +66,44 @@ Nostromo
 - The Occidental republic is formed
 - Nostromo decides to keep the buried silver from the ship
 - He marries a Viola daughter, but is shot by their father
+
+Heart of Darkness
+
+Lord Jim
+
+### Daniel Defoe
+
+Robinson Crusoe
+
+### Charles Dickens
+
+A Tale of Two Cities
+
+David Copperfield
+
+Great Expectations
+
+Oliver Twist
+
+Nicholas Nickleby
+
+### John Dryden
+
+All for Love
+
+### T. S. Eliot
+
+"The Waste Land"
+
+- "April is the cruelest month"
+
+"The Love Song of J. Alfred Prufrock"
+
+- Women "come and go / speaking of Michelangelo"
+
+### Henry Fielding
+
+Tom Jones
 
 ### E. M. Forster
 
@@ -76,6 +162,10 @@ A Room with a View
 - She wants to go to Greece with Miss Alans
 - She decides instead to marry George
 
+### Aldous Huxley
+
+Brave New World
+
 ### Kazuo Ishiguro
 
 An Artist of the Floating World
@@ -106,12 +196,30 @@ The Buried Giant
 
 A Pale View of Hills
 
+### Henry James
+
+Daisy Miller
+
+### Ben Johnson
+
+Every Man in His Humour
+
+Volpone
+
 ### Thomas Kyd
 
 The Spanish Tragedy
 
 - Follows Don Andrea, the ghost of a Spanish nobleman who was killed
     by Balthazar after falling in love with Bel-Imperia.
+
+### Christopher Marlowe
+
+The Jew of Malta
+
+Tamburlaine
+
+Doctor Faustus
 
 ### Andrew Marvell
 
@@ -166,3 +274,85 @@ Atonement
     a chocolate factory. Lola is raped, and Robbie is framed for it. He
     goes to fight in World War 2 and has to walk to Dunkirk with a
     shrapnel wound and Corporal Nettle and Corporal Mace.
+
+### John Milton
+
+Paradise Lost
+
+### George Orwell
+
+Nineteen Eighty-Four
+
+Animal Farm
+
+"Shooting an Elephant"
+
+### Thomas Love Peacock
+
+Nightmare Abbey
+
+### Samuel Richardson
+
+Clarissa
+
+### Sir Walter Scott
+
+Ivanhoe
+
+### William Shakespeare
+
+Hamlet
+
+Macbeth
+
+King Lear
+
+Othello
+
+The Tempest
+
+Romeo and Juliet
+
+The Merchant of Venice
+
+A Midsummer Night's Dream
+
+Julius Caesar
+
+Much Ado About Nothing
+
+Twelfth Night
+
+The Taming of the Shrew
+
+### George Bernaard Shaw
+
+Pygmalion
+
+Man and Superman
+
+Mrs. Warren's Profession
+
+### Lawrence Sterne
+
+Tristram Shandy
+
+### Tom Stoppard
+
+Rosencranz & Guildenstern are Dead
+
+Arcadia
+
+### Alfred, Lord Tennyson
+
+"The Charge of the Light Brigade"
+
+### William Thackeray
+
+Vanity Fair
+
+- novel without a hero
+
+### John Webster
+
+The Duchess of Malfi

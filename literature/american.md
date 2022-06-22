@@ -4,6 +4,16 @@ title: American Literature
 
 This is the homepage for the *American Literature* category.
 
+### Louisa May Alcott
+
+Little Women
+
+### Edward Albee
+
+Who's Afraid of Virginia Woolf?
+
+- nothing to do with Virginia Woolf, by the way
+
 ### Ambrose Bierce
 
 Owl Creek
@@ -16,7 +26,17 @@ The Damned Thing
 
 The Death of Halpin Frayser
 
-### ? Burroughs
+### William Cullen Bryant
+
+"Thanatopsis"
+
+"To a Waterfowl"
+
+### John Bunyan
+
+Pilgrim's Progress
+
+### Edgar Rice Burroughs
 
 Naked Lunch
 
@@ -81,6 +101,30 @@ Sapphira and the Slave Girl
 
 - Woman tries to sell a slave because her son likes her.
 
+### Stephen Crane
+
+The Red Badge of Courage
+
+### Theodore Dreiser
+
+An American Tragedy
+
+Sister Carrie
+
+### Ralph Ellison
+
+Invisible Man
+
+### Ralph Waldo Emerson
+
+"Nature"
+
+"Self-Reliance"
+
+### William Faulkner
+
+The Sound and the Fury
+
 ### F. Scott Fitzgerald
 
 Babylon Revisited
@@ -94,6 +138,110 @@ Babylon Revisited
     Charlie
 - Charlie drinks one drink a day to keep his cravings at bay. It turns
     out he locked Helen out in a snowstorm, resulting in her death.
+
+The Great Gatsby
+
+"Winter Dreams"
+
+### Robert Frost
+
+"The Mending Wall"
+
+"Out, Out"
+
+"Nothing Gold Can Stay"
+
+"Birches"
+
+"Fire and Ice"
+
+"The Gift Outright"
+
+- read at Kennedy's inauguration
+
+### Allen Ginsberg
+
+"Howl"
+
+- "I saw the best minds of my generation destroyed by madness"
+
+### Lorraine Hansberry
+
+A Raisin in the Sun
+
+The Sign in Sidney Brustein's Window
+
+### Nathaniel Hawthorne
+
+The Scarlet Letter
+
+The House of Seven Gables
+
+The Blithedale Romance
+
+"The Minister's Black Veil"
+
+"Young Goodman Brown"
+
+### Joseph Heller
+
+Catch-22
+
+### Lilian Hellman
+
+Little Foxes
+
+### Ernest Hemingway
+
+A Farewell to Arms
+
+For Whom the Bell Tolls
+
+The Sun Also Rises
+
+### Washington Irving
+
+"Rip Van Winkle"
+
+"The Legend of Sleepy Hollow"
+
+### Harper Lee
+
+To Kill a Mockingbird
+
+### Jack London
+
+The Call of the Wild
+
+### Herman Melville
+
+Moby Dick
+
+Billy Budd: Foretop Man
+
+### Arthur Miller
+
+The Crucible
+
+Death of a Salesman
+
+All My Sons
+
+### Toni Morrison
+
+Song of Solomon
+
+- Robert Smith puts on blue silk wings and throws himself off the
+    Mercy Hospital
+- Milkman Dead is the first baby born in said hospital
+- He is raised by his aunt Pilate, sisters First Corinthians and
+    Magdalene, and Cousin Hagar.
+- He robs Pilate\'s shack with his friend Guitar, a member of the
+    Seven Days hate group
+- He meets a midwife named Circe who delivered his grandfather
+- He stays in the small town of Shalimar, and hears of his great
+    grandfather, the flying african Solomon.
+- Guitar shoots Pilate
 
 ### Frank Norris
 
@@ -112,23 +260,13 @@ McTeague
     kills Marcus, Trina\'s cousin, but Marcus handcuffs them together.
     He is left in Death Valley.
 
-### Toni Morrison
-
-Song of Solomon
-
-- Robert Smith puts on blue silk wings and throws himself off the
-    Mercy Hospital
-- Milkman Dead is the first baby born in said hospital
-- He is raised by his aunt Pilate, sisters First Corinthians and
-    Magdalene, and Cousin Hagar.
-- He robs Pilate\'s shack with his friend Guitar, a member of the
-    Seven Days hate group
-- He meets a midwife named Circe who delivered his grandfather
-- He stays in the small town of Shalimar, and hears of his great
-    grandfather, the flying african Solomon.
-- Guitar shoots Pilate
-
 ### Eugene O'Neill
+
+Mourning Becomes Electra
+
+The Iceman Cometh
+
+Long Day's Journey Into Night
 
 - Robert Smith puts on blue silk wings and throws himself off the
     Mercy Hospital
@@ -144,13 +282,79 @@ Song of Solomon
 
 ### Sylvia Plath
 
-- Described wearing a mad execution uniform in \"The Blue Flannel
-    Suit\" by Hughes
-- Wrote \"The Munich Mannequins\"
-  - Perfection is terrible, it cannot have children
-  - Orange lollies on silver sticks
+- Described wearing a mad execution uniform in "The Blue Flannel
+    Suit" by Hughes
+
+"The Munich Mannequins"
+
+- Perfection is terrible, it cannot have children
+- Orange lollies on silver sticks
+
+### Edgar Allen Poe
+
+The Raven
+
+The Pit and the Pendulum
+
+The Fall of the House of Usher
+
+Annabel Lee
+
+### Thomas Pynchon
+
+The Crying of Lot 49
+
+Gravity's Rainbow
+
+"Under the Rose"
+
+### J. D. Salinger
+
+The Catcher in the Rye
+
+"A Perfect Day for Bananafish"
+
+"Raise High the Roof Beam, Carpenter"
+
+"Hapworth 16, 1924"
+
+### Upton Sinclair
+
+The Jungle
+
+### John Steinbeck
+
+The Grapes of Wrath
+
+Of Mice and Men
+
+East of Eden
+
+### Harriet Beecher Stowe
+
+Uncle Tom's Cabin
+
+### Henry David Thoreau
+
+Civil Disobedience
+
+Walden
+
+### Mark Twain
+
+The Adventures of Huckleberry Finn
+
+The Adventures of Tom Sawyer
+
+The Celebrated Jumping Frog of Calaveras County
 
 ### Kurt Vonnegut
+
+Slaughterhouse-Five
+
+God Bless You, Mr Rosewater
+
+The Sirens of Titan
 
 Cat's Cradle
 
@@ -198,6 +402,7 @@ Infinite Jest
 
 All the King's Men
 
+- modeled after Huey Long
 - Willie Stark rises in southern politics. He has enemies like Sam
     MacMurfee. Ge is served by Sugar Boy Osheenan and Tiny Duffy
 - Jack Burden works for him after failing to marry Anne Stanton
@@ -221,7 +426,7 @@ All the King's Men
     speak on the farm, which is then burned down by a white mob. We
     learn that Cora's mother Mabel died from a snake bite.
 
-[The Nickel Boys]{.underline}
+The Nickel Boys
 
 - Elwood Curtis attended the Nickel Academy. They find an old
     graveyard on the grounds.
@@ -233,3 +438,40 @@ All the King's Men
 - Turner, his friend, eats soap powder. There is a boxing match
     between Griff and he forgets to throw it and is beaten to death.
 - Jaime poisons Housemaster Earl at Christmas.
+
+### What Whitman
+
+Leaves of Grass
+
+- poetry collection
+
+"When Lilacs Last in Dooryard Bloom'd"
+
+- on Abraham Lincoln's death
+
+"Song of Myself
+
+- "barbaric yawp"
+
+"Beat, Beat Drums!"
+
+"O Captain! My Captain!"
+
+- also on Abraham Lincoln's death
+- uses naval metaphors for the Civil War, with Lincoln as captain of the Union ship
+
+### Thornton Wilder
+
+Our Town
+
+The Bridge of San Luis Rey
+
+### Tennessee Williams
+
+A Streetcar Named Desire
+
+The Glass Menagerie
+
+Cat on a Hot Tin Roof
+
+Night of the Iguana

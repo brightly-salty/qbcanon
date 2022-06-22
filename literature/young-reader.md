@@ -4,8 +4,12 @@ title: Young Reader Literature
 
 This is the homepage for the *Young Reader Literature* category.
 
-### British
+### Lewis Carroll
 
-Lewis Carroll
+Alice's Adventures in Wonderland
 
-- Alice's Adventures in Wonderland
+"Jabberwocky"
+
+### Laura Ingalls Wilder
+
+Little House on the Prairie

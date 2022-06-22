@@ -4,7 +4,21 @@ title: European Literature
 
 This is the homepage for the *European Literature* category.
 
+### Czech Republic
+
+#### Karl Capek
+
+R. U. R.
+
+- originator of term "robot"
+
 ### France
+
+#### Honore de Balzac
+
+The Black Sheep
+
+The Human Comedy
 
 #### Albert Camus
 
@@ -13,7 +27,21 @@ The Plague
 - A bunch of rats die. M. Michel dies. Dr. Rieux and Castel think
     it's the plague
 
-#### Georges Flaubert
+The Stranger
+
+The First Man
+
+The Fall
+
+Exile and the Kingdom
+
+#### Alexandre Dumas
+
+The Three Musketeers
+
+The Count of Monte Cristo
+
+#### Gustave Flaubert
 
 A Sentimental Education
 
@@ -30,6 +58,14 @@ A Sentimental Education
 - He goes back and forth between Rosanette and Madame Arnoux
 
 Salammbo
+
+Madame Bovary
+
+#### Victor Hugo
+
+Les Miserables
+
+The Hunchback of Notre Dame
 
 #### Eugene Ionesco
 
@@ -88,7 +124,17 @@ The Killer
 - Berenger tries to convince the killer to quit killing, but it
     doesn't work
 
+#### Pierre Choderlos de Laclos
+
+Dangerous Liaisons
+
 #### Moliere
+
+The Misanthrope
+
+The Bourgeois Gentleman
+
+The Miser
 
 Tartuffe
 
@@ -127,6 +173,12 @@ The Flies
     death people.
 - The flies become furies
 
+No Exit
+
+- three characters placed in a room while they wait for their eternal punishment
+- they talk and slowly realize that this is their torment
+- "Hell is other people"
+
 #### Stendhal
 
 - pen name
@@ -140,6 +192,16 @@ The Red and The Black
 - M. Pirard sends Julian to be the Marquis de La Mole's Secretary
 - He gets the Marquis's daughter, Mathilde, pregnant.
 - He shoots Madame Renal and is sentenced to death
+
+The Charterhouse of Parma
+
+### Voltaire
+
+Candide
+
+- satirizes Leibniz, who said this was the best of all possible worlds, as Doctor Pangloss
+- then everything bad happens to Candide and he still believes
+- eventually learns after finding El Dorado that he should just "mind his garden" and let the world worry about itself
 
 ### Germany
 
@@ -217,6 +279,8 @@ Dog Years
 - Walter denounces Amsel as a Jew and beats him up. Later, Walter and
     his new friend Prinz hunt nazis
 
+Peeling the Onion
+
 #### Heinrich Heine
 
 Romanzero
@@ -234,7 +298,19 @@ The Castle
 - He wants to meet the official Klamm, but can't. He gets involved
     with Klamm's mistress Frieda.
 
+The Trial
+
+"The Metamorphosis"
+
+"A Country Doctor"
+
+"Jackals and Arabs"
+
 #### Thomas Mann
+
+Death in Venice
+
+The Magic Mountain
 
 - Starts by describing the protagonist as "simpleminded" They talk of
     the Berghof a lot. Hans Castorp is helped by Joachim Ziemssen. He
@@ -288,6 +364,10 @@ The Robbers
 
 ### Ireland
 
+#### Samuel Beckett
+
+Waiting for Godot
+
 #### Oliver Goldsmith
 
 The Vicar of Wakefield
@@ -311,7 +391,66 @@ She Stoops to Conquer
     thrown into a horse pond.
 - Everyone lives happily ever after.
 
+### James Joyce
+
+Ulysses
+
+Dubliners
+
+- "Araby"
+- "The Dead"
+- "Two Gallants"
+
+### Sean O'Casey
+
+The Dublin Trilogy
+
+- The Shadow of a Gunman
+- Juno and the Paycock
+- The Plow and the Stars
+
+### Richard Brinsley Sheridan
+
+The Rivals
+
+### Johnathan Swift
+
+Gulliver's Travels
+
+A Modest Proposal
+
+- satirical essay
+- suggests that starving Irish children should be sold as food
+
+Tale of a Tub
+
+### John Millington Synge
+
+The Playboy of the Western World
+
+### Oscar Wilde
+
+The Importance of Being Earnest
+
+Lady Windermere's Fan
+
+The Picture of Dorian Gray
+
 ### Italy
+
+#### Dante Alghieri
+
+The Divine Comedy
+
+- Inferno
+- Purgatorio
+- Paradiso
+
+#### Boccacio
+
+The Decameron
+
+- Ten Italians tell one tales each night for ten nights (100 tales total) as they hide out from the Black Death
 
 #### Italo Calvino
 
@@ -352,6 +491,8 @@ Right You Are If You Think You Are
 - Lady Frola claims her son in law Mr. Ponza went crazy after the
     death of his wife. Mr. Ponza claims that Lady Frola is crazy.
 
+Six Characters in Search of an Author
+
 ### The Netherlands
 
 #### Dinesen
@@ -365,9 +506,31 @@ Babette's Feast
 - The party is called a satanic sabbath.
 - Everyone is happy?
 
+### Norway
+
+#### Henrik Ibsen
+
+The Enemy of the People
+
+A Doll's House
+
+Hedda Gabler
+
+Peer Gynt
+
+Ghosts
+
 ### Russia
 
 #### Anton Chekhov
+
+The Seagull
+
+The Cherry Orchard
+
+Uncle Vanya
+
+Three Sisters
 
 The Lady with the Dog
 
@@ -382,6 +545,8 @@ The Lady with the Dog
     gynecologist
 
 #### Fyodor Dostoyevsky
+
+Crime and Punishment
 
 - Raskolnikov murders the old pawnbroker woman for money.
 - He's been delirious for multiple days. His student friend Ramuzihin
@@ -403,9 +568,15 @@ The Lower Depths
     are mad at Vaska
 - Everyone sings as the actor kills himself
 
+### Mihkail Lermontov
+
+A Hero of Our Time
+
 #### Vladimir Nabokov
 
 Pale Fire
+
+Lolita
 
 #### Boris Pasternak
 
@@ -423,6 +594,10 @@ Doctor Zhivago
 - Notes: Liberius is cocaine addicted and leads the forest
     brotherhood. Pasha Antipov calls himself General Strelnikov.
 
+### Alexander Pushkin
+
+Eugene Onegin
+
 #### Aleksandr Solzhenitsyn
 
 Cancer Ward
@@ -435,6 +610,14 @@ Cancer Ward
 - Pavel Nikolayevich Rusanov is discharged just because no one likes
     him
 
+#### Leo Tolstoy
+
+Anna Karenina
+
+War and Peace
+
+The Death of Ivan Ilyich
+
 ### Spain
 
 #### Fernando Arrabal
@@ -446,6 +629,10 @@ The Architect and the Emperor of Assyria
 - The Emperor acts out all of the people from his former society after
     a plane crash onto an island. He places a scarecrow on a throne and
     tells his life story to it.
+
+### Miguel Cervantes
+
+Don Quixote
 
 ### Frederico Garcia Lorca
 

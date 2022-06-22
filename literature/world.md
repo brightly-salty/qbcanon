@@ -13,6 +13,25 @@ The Approach to Al-Mu'tasim
 - Written by fictional Bahadur Ali
 - Searches for a person of complete goodness
 
+"The Library of Babel"
+
+"The Aleph"
+
+"On Exactitude in Science"
+
+"Emma Zunz"
+
+"Relic of the Disciplines of Geography"
+
+"The Garden of Forking Paths"
+
+"Tlon, Uqbar, Orbis Tertius"
+
+Ficciones
+
+- "Fictions"
+- Collection of his short stories
+
 ### Australia
 
 #### Patrick White
@@ -29,6 +48,8 @@ The Vivisector
 ### Canada
 
 #### Margaret Atwood
+
+The Handmaid's Tale
 
 The Blind Assassin
 
@@ -60,6 +81,12 @@ The Testaments
     Gilead. Aunt Lydia puts a microdot full of secrets in Daisy's arm,
     and Daisy and Agnes escape to Canada and help topple Gilead.
 - The Epilogue is given by Professor Pieixeto, who analyzes events.
+
+### Chile
+
+#### Pablo Neruda
+
+Twenty Love Poems and a Song of Despair
 
 ### China
 
@@ -95,6 +122,10 @@ Leaf Storm
     burial.
 - The banana company is ruining the town
 - They bury the doctor
+
+One Hundred Years of Solitude
+
+The Man with Enormous Butterfly Wings
 
 ### Cuba
 
@@ -132,6 +163,10 @@ Dirty Havana Trilogy
 ### Egypt
 
 ### Naguib Mahfouz
+
+The Cairo Trilogy
+
+- Palace Walk
 
 Midaq Alley
 
@@ -186,50 +221,6 @@ A Wall of Fire Rising
     balloon.
 
 ### India
-
-#### Rabindranath Tagore
-
-The Home and the World
-
-- Bimala falls for the rebel Sandip and steals her husband Nikhil's
-    money to give to him
-
-#### Arundhati Roy
-
-The Ministry of Utmost Happiness
-
-- Contains Bhartiya's Manifesto and Tilo's Kashmiri-English Alphabet
-- Aftab is born intersex, changes his name to Anjum and becomes a
-    woman
-- Adopts the toddler Zainab. Is assaulted by hindu nationalists after
-    leaving the Khwabgah
-- Lives in a cemetery with Ziauddin and Saddam Hussain
-- Other story line: Tilo goes to architecture school and meets Biplab
-    Dasgupta, Nagaraj Hariharan, and Musa Yeswi
-- Commander Gulrez is killed
-- Tilo marries Naga and aborts Musa's baby. Tilo adopts a baby, names
-    it Miss Jebeen the Second, and hides out in thr cemetery.
-- Ends with them burying a letter from Jebeen's mother and hope for
-    the future
-
-#### Salman Rushdie
-
-Midnight's Children
-
-- Saleem Sinai thinks he is dying, so him and his companion Padma
-    decide to tell his story
-- Flashback to his grandpa Aadam Aziz, who falls in love with Naseem
-    (sheet woman)
-- They have Alia, Mumtaz, Emerald, Mustapha and Hanif
-- Aadam follows Mian Abdullah and harbors Nadir Khan
-- Ahmed and Amina buy a house from William Methwold
-- Wee Willie Winky and Amina's babies are switched by Mary Pereira
-- Saleem's sister is known as the Brass Monkey
-- Saleem has a large nose
-- General Zulfikar overthrows Pakistan
-- Saleem's memory is erased by a falling silver spittoon
-- He lives with Parvati the Witch and Picture Singh
-- He marries Padma at a Chutney factory
 
 #### Jumpha Lahiri
 
@@ -315,7 +306,82 @@ Swami and Friends
 
 The Painter of Signs
 
+#### Arundhati Roy
+
+The Ministry of Utmost Happiness
+
+- Contains Bhartiya's Manifesto and Tilo's Kashmiri-English Alphabet
+- Aftab is born intersex, changes his name to Anjum and becomes a
+    woman
+- Adopts the toddler Zainab. Is assaulted by hindu nationalists after
+    leaving the Khwabgah
+- Lives in a cemetery with Ziauddin and Saddam Hussain
+- Other story line: Tilo goes to architecture school and meets Biplab
+    Dasgupta, Nagaraj Hariharan, and Musa Yeswi
+- Commander Gulrez is killed
+- Tilo marries Naga and aborts Musa's baby. Tilo adopts a baby, names
+    it Miss Jebeen the Second, and hides out in thr cemetery.
+- Ends with them burying a letter from Jebeen's mother and hope for
+    the future
+
+#### Salman Rushdie
+
+Midnight's Children
+
+- Saleem Sinai thinks he is dying, so him and his companion Padma
+    decide to tell his story
+- Flashback to his grandpa Aadam Aziz, who falls in love with Naseem
+    (sheet woman)
+- They have Alia, Mumtaz, Emerald, Mustapha and Hanif
+- Aadam follows Mian Abdullah and harbors Nadir Khan
+- Ahmed and Amina buy a house from William Methwold
+- Wee Willie Winky and Amina's babies are switched by Mary Pereira
+- Saleem's sister is known as the Brass Monkey
+- Saleem has a large nose
+- General Zulfikar overthrows Pakistan
+- Saleem's memory is erased by a falling silver spittoon
+- He lives with Parvati the Witch and Picture Singh
+- He marries Padma at a Chutney factory
+
+#### Vikram Seth
+
+A Suitable Boy
+
+#### Rabindranath Tagore
+
+The Home and the World
+
+- Bimala falls for the rebel Sandip and steals her husband Nikhil's
+    money to give to him
+
 ### Japan
+
+#### Ryunosuke Akutagawa
+
+"In a Grove"
+
+"Rashomon"
+
+#### Yasunari Kawabata
+
+The Sound of the Mountain
+
+Snow Country
+
+"The Beautiful, and Myself"
+
+### Yukio Mishimaa
+
+- committed seppuku after his nationalist coup failed
+
+The Temple of the Golden Pavilion
+
+The Sound of Waves
+
+Sea of Fertility (tetralogy)
+
+- Runaway Horses
+- Spring Snow
 
 #### Haruki Murakami
 
@@ -329,6 +395,14 @@ Sputnik Sweetheart
     a ferris wheel in an alternate universe.
 - K dates the mother of Carrot. Sumire calls K from a phone booth.
     That's it
+
+### Lady Murasaki
+
+The Tale of Genji
+
+### Kenzaburo Oe
+
+A Personal Matter
 
 ### Mexico
 
@@ -344,7 +418,25 @@ Death of Artemio Cruz
 - Lorenzo is sent to run land at Cocuya.
 - Most of his wealth is left to Padilla.
 
+#### Octavio Paz
+
+The Labyrinth of Solitude
+
+The Bow and the Lyre
+
+Sunstone
+
+- 584 lines, one for each day of the Aztec calendar
+
 ### Nigeria
+
+#### Chinua Achebe
+
+Things Fall Apart
+
+"An Image of Africa"
+
+A Man of the People
 
 #### Ngozi Adichie
 
@@ -379,6 +471,22 @@ Americanah
 - She rekindles her relationship with Obinze (who she affectionately
     calls "Ceiling") and he divorces Kosi and goes back to Ifemelu
 
+### Wole Soyinka
+
+The Lion and the Jewel
+
+Death and the King's Horsemen
+
+Madmen and Specialists
+
+The Strong Breed
+
+### Peru
+
+#### Mario Vargas LLosa
+
+The Escape of the Inca
+
 ### Philippines
 
 #### Jose Rizal
@@ -391,6 +499,32 @@ Le Filibusterismo
 
 ### South Africa
 
+#### John Michael Coetzee
+
+Waiting for the Barbarians
+
+Disgrace
+
+The Life and Times of Michael K
+
+The Lives of Animals
+
+The Master of Petersburg
+
+Boyhood
+
+Foe
+
+### Nadine Gordimer
+
+The Conservationist
+
+The Lying Days
+
+Burger's Daughter
+
+July's People
+
 #### Athol Fugard
 
 Master Harold...and the Boys
@@ -402,3 +536,23 @@ Master Harold...and the Boys
     world without collisions
 - His alcoholic, one legged father is returning from the hospital
 - "Little Man, you've had a busy day" is played
+
+#### Alan Paton
+
+Cry the Beloved Country
+
+### Sweden
+
+#### August Strindberg
+
+Miss Julie
+
+The Red Room
+
+The Father
+
+### Turkey
+
+#### Orhan Pamuk
+
+My Name is Red
