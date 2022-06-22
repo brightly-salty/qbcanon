@@ -22,5 +22,8 @@ jobs:
          stack install --allow-different-user && \
          stack build --allow-different-user --fast && \
          stack exec site build"
-    - name: list artifacts
-      run: find ${{ github.workspace }}/docs
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
+      with:
+        branch: gh-pages
+        folder: _site
