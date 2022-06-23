@@ -276,29 +276,145 @@ Co-author of the Communist Manifesto. Supported Marx through the profits from hi
 
 #### Milton Friedman
 
+He was a conservative economist and a member of the Chicago School of economics. He advocated for laissez-faire government policy. He criticized the Phillips Curve with Edmund Phelps because it did account for the natural rate of unemployment.
+
+Capitalism and Freedom
+
+A Monetary History of the United States, 1867-1960
+
+- advocated for monetarism, revised quantity theory of money
+
 #### John Galbraith
+
+He was a Canadian-American liberal economist. He was the ambassador to India in the Kennedy administration. He emphasized public service and limitations of the marketplace.
+
+The Affluent Society
+
+- warns of a widening income disparity within post-WWII America
+- "conventional wisdom", "ideas which are esteemed at any time for their acceptability"
+- "the dependence effect", "the way wants depend on the process by which they are satisfied
+
+The New Industrial State
 
 #### John Hicks
 
+He invented the IS-LM model to create a mathematical model of Keynes' macroeconomic ideas.
+
 #### John Maynard Keynes
 
-#### Thomas Malthus
+A liberal economist. He is the namesake of the Keynesian cross which plots aggregate income and aggregate expenditure and of the Keynesian beauty contest. He argued that aggregate demand, not aggregate supply, shapes the economy, which is opposed by supply-side economics. He argued that prices and wages take time to adjust to market changes, making them "sticky".
+
+The General Theory of Employment, Interest, and Money
+
+- judged most of classical economic analysis to be a special case, gave a general theory
+- advocated for deficit spending to increase aggregate demand during prolonged recessions like the Great Depression
+  - inspired FDR and modern monetary policy
+- Absolute income hypothesis
+- introduced the MPC curve
+- introduced liquidity preference: people prefer cash to securities
+
+The Economic Consequences of Peace
+
+- Argued against the Treaty of Versailles' large war reparations for Germany
+- resigned from the Paris Peace COnference
+
+Treatise on Probability
+
+- established the logical relationist theory of probability
+
+Tract on Monetary Reform
+
+- supported the Cambridge cash-balance theory of money
 
 #### Alfred Marshall
 
+Principles of Economics
+
+- introduced consumer surplus, quasi-rent, demand curves and elasticity
+
 #### Karl Marx
+
+Das Kapital
+
+- extended the labor theory of value to create a theory of surplus value
+- "Commodity fetishism"
+- later sections organized and published by Engels after Marx's death
+- defended economic materialism
+
+The Communist Manifesto
+
+- co-written by Engels
+- "A specter is haunting Europe"
+- all history is the "history of class struggle"
+- "workers of the world, unite!"
+- outlines the distinctions between the ruling bourgeoisie and the working proletariat
+- explains problems with capitalism
 
 #### Vilfredo Pareto
 
+He introduced the concept of "indifference curves".
+
+He invented the 80/20 principle, also known as the "law of the vital few", which most generally states that most effects stem from a few causes, but originally held that "80% of the land in Italy was owned by 20% of the population".
+
+He is the namesake of the Pareto chart, which is a chart that contains both bars and a line graph.
+
+He created the concept of Pareto efficiency or Pareto optimality, which is a condition in which no individual can be better off without making another worse off. By the first theorem of welfare economics, Pareto efficiency holds for any competitive equilibrium. The Kaldor-Hicks criterion generalizes Pareto efficiency to allow for compensation of lost utility.
+
+Manual of Political Economy
+
+Circulation of the Elites
+
 #### Edmund Phelps
+
+He criticized the Philips Curve with Milton Friedman because it did not account for the natural rate of unemployment. He quantified the natural rate of unemployment with his NAIRU model. He was the originator of the Hysteresis hypothesis.
 
 #### Francois Quesnay
 
+He was the leader of the Physiocrats, which were the first systematic school of economic thought. He thought that laissez-faire policies are economically and morally righteous and that land is the ultimate source of all wealth.
+
 #### David Ricardo
+
+He was an English economist known for introducing many important economic concepts, including the theory of comparative advantage and the Iron Law of Wages.
+
+Principles of Political Economy and Taxation
+
+- Theory of comparative advantage
+  - every pair of potential trading partners can benefit by trade if they are producing at least two goods
+  - this result is true for every pair, no matter how unproductive one of the parties might be
+  - each party should specialize in what it doest best and then trade for everything else
+  - used example of Britain's cloth industry and Portugal's wine industry
+- attempted to justify unfettered international trade through the above
 
 #### Adam Smith
 
+A Scottish economist, founder of the Classical School of economics.
+
+An inquiry into the nature and causes of the Wealth of Nations
+
+- describes an invisible hand that guides markets
+  - producers and consumers acting in their own narrow interest will create an overall benefit to society
+- critiques mercantilism
+- monopolies lead to increased prices
+- superiority of industry over agriculture
+- described potato-eaters as stronger and more beautiful than bread-eaters
+- introduced labor theory of value and comparative advantage
+- first chapter uses the pin-making industry to model division of labor
+
+The Theory of Moral Sentiments
+
+- Divided systems of morality into categories of nature and motive
+- compatible self-interest and ethics (invisible hand)
+- developed theoretical basis for sympathy based on Hume
+
+Lectures of Jurisprudence
+
 #### Thorstein Veblen
+
+The Theory of the Leisure Class
+
+- "conspicuous consumption": the leisure class spends just to display its wealth
+- likened the ostentation of the rich to the Darwinian proofs of virility found in the animal kingdom (deer antlers or peacock tails, for example)
+- "pecuniary emulation": people pursue social status by acquiring money because they see that high-status people happen to have a lot of money
 
 ### Psychology
 
