@@ -378,7 +378,6 @@ A psychologist who introduced the concept of cognitive dissonance in his book *W
 
 #### Abraham Maslow
 
-
 #### Stanley Milgram
 
 #### Ivan Pavlov
@@ -497,21 +496,123 @@ The Elementary Forms of Religious Life
 
 #### James Frazer
 
+A Scottish anthropologist who primarily studied mythology and comparative religion.
+
+The Golden Bough
+
+- Comparative religion and mythology
+- analyzed a wide range of myths that center on the death and rebirth of a solar deity
+- originally included crucifixion of Jesus as one among many of these myths
+- tremendous impact on psychology and literature
+- evolution of ideas from magic to religion and culminating in science
+- title refers to a gift given to Proserpine by Aeneas so that he could enter the underworld in the *Aeneid*
+
 #### Clifford Geertz
+
+An anthropologist
+
+The Interpretation of Culture
+
+- symbolic anthropology
+- "thick description", Geertz's method of analyzing behavior within its social context
+
+"Deep Play: Notes on the Balinese Cockfight"
+
+- cockfighting as a symbolic display of a certain kind of masculinity
 
 #### Jane Goodall
 
+She was a British primatologist who worked with chimpanzees in Gombe Stream National Park in Tanzania. She worked with Louis Leakey at Olduvai Gorge.
+
+In the Shadow of Man
+
+- chimpanzees can use tools, insert grass into termite holes to "fish" for termites
+
 #### Thor Heyerdahl
+
+He demonstrated the possibility that ancient people could have migrated around the globe using only primitive rafts. He sailed across the Pacific Ocean from Peru to the Tuamotu Islands on a balsa-wood raft named Kon-Tiki (after the Incan sun god Kon-Tiki Viracocha). He also built two papyrus boats, Ra (which failed) and Ra II (which succeeded) to sail across the Atlantic.
 
 #### Claude Levi-Strauss
 
+A French anthropologist. He was the chair of social anthropology at the College de France 1959-1982.
+
+The Savage Mind
+
+"The Elementary Structures of Kinship"
+
+- fieldwork with the Nambikwara people of Brazil
+
+Tristes Tropiques
+
+Tetralogy about world mythology
+
+- The Raw and the Cooked
+
+Structural Anthropology
+
+- applied the structuralist methods of linguist Ferdinand te Saussure to anthropology
+- studied cultures as sets of binary oppositiions
+
 #### Bronislaw Malinowski
+
+A Polish anthropologist who studied at the London School of Economics. He published several works while in exile in Papau New Guinea.
+
+Argonauts of the Western Pacific
+
+- "kula ring" gift exchanges found in the Trobriand Islands
+- "The Departure of an Overseas Expedition"
+
+Coral Gardens and their Magic
+
+- use of magic in agriculture
+
+Sex and Repression in Savage Society
+
+- contra Freud, Oedipus complex is not a universal element of human culture
 
 #### Margaret Mead
 
+An anthropologist, married to anthropologist Gregory Bateson. They co-wrote *Balinese Character*, a photographic study of life in Bali.
+
+Coming of Age in Samoa
+
+- about the sexual development of young girls on the Samoan island of Ta'u
+- interviewed 68 girls and documented the relative lack of sexual mores that led to a culture of premarital promiscuity
+- describes the taupou system of institutionalized virginity among high-ranking women
+- *The Fateful Hoaxing of Margaret Mead: The Making and Unmaking of an Anthropological Myth* by Derek Freeman
+  - published five years after Mead's death
+  - claims much of the work was based on the made-up stories of two teenagers, who deceived Mead into believing they practiced casual premarital sex
+
+Sex and Temperament in Three Primitive Societies
+
+- three tribes in New Guinea
+  - Arapesh, patriarchal
+  - Mundugumor, aggressive
+  - Tchambuli, semi-matriarchal
+
+Growing Up in New Guinea
+
+A Rap on Race
+
+- a transcription of a series of conservations she had with writer James Baldwin about racial issues
+
+Male and Female
+
+- about gender roles, pretty obviously
+
+Blackberry Winter
+
+- her autobiography
+
 #### Alfred Radcliffe-Brown
 
+The anthropologist who founded structural functionalism, which focuses on identifying the groups within a society and the rules and customs that define the relationships between people. He did fieldwork in the Andaman Islands and Western Australia, where he studied the social organization of Australian tribes. He taught at the University of Chicago and founded the Institute of Social and Cultural Anthropology at Oxford.
+
 #### Edward Said
+
+A Columbia University professor of anthropology.
+
+Orientalism
 
 ### Linguistics
 
@@ -528,4 +629,20 @@ Syntactic Structures
 
 #### Steven Pinker
 
+A Canadian-American linguist and cognitive scientist. Contra Geoffrey Sampson, he believes that there is a natural language instinct.
+
+The Better Angels of Our Nature
+
+- explored the long-term decline in violence across history
+
+Enlightenment Now
+
+The Stuff of Thought
+
+The Language Instinct
+
 #### Benjamin Lee Whorf
+
+A linguist best known for the controversial and doubted Sapir-Whorf Hypothesis, which he supported by claiming that the Hopi perceive time differently from English speakers because their language deals with tense differently.
+
+"The Relation of Habitual Thought and Behavior to Language"
