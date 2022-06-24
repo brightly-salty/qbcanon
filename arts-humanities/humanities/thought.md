@@ -1,5 +1,6 @@
 ---
 title: Thought
+tableOfContents: true
 ---
 
 This is the homepage for the *Thought* category.

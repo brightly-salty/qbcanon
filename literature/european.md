@@ -1,5 +1,6 @@
 ---
 title: European Literature
+tableOfContents: true
 ---
 
 This is the homepage for the *European Literature* category.
@@ -195,7 +196,7 @@ The Red and The Black
 
 The Charterhouse of Parma
 
-### Voltaire
+#### Voltaire
 
 Candide
 
@@ -391,7 +392,7 @@ She Stoops to Conquer
     thrown into a horse pond.
 - Everyone lives happily ever after.
 
-### James Joyce
+#### James Joyce
 
 Ulysses
 
@@ -401,7 +402,7 @@ Dubliners
 - "The Dead"
 - "Two Gallants"
 
-### Sean O'Casey
+#### Sean O'Casey
 
 The Dublin Trilogy
 
@@ -409,11 +410,11 @@ The Dublin Trilogy
 - Juno and the Paycock
 - The Plow and the Stars
 
-### Richard Brinsley Sheridan
+#### Richard Brinsley Sheridan
 
 The Rivals
 
-### Johnathan Swift
+#### Johnathan Swift
 
 Gulliver's Travels
 
@@ -424,11 +425,11 @@ A Modest Proposal
 
 Tale of a Tub
 
-### John Millington Synge
+#### John Millington Synge
 
 The Playboy of the Western World
 
-### Oscar Wilde
+#### Oscar Wilde
 
 The Importance of Being Earnest
 
@@ -568,7 +569,7 @@ The Lower Depths
     are mad at Vaska
 - Everyone sings as the actor kills himself
 
-### Mihkail Lermontov
+#### Mihkail Lermontov
 
 A Hero of Our Time
 
@@ -630,11 +631,11 @@ The Architect and the Emperor of Assyria
     a plane crash onto an island. He places a scarecrow on a throne and
     tells his life story to it.
 
-### Miguel Cervantes
+#### Miguel Cervantes
 
 Don Quixote
 
-### Frederico Garcia Lorca
+#### Frederico Garcia Lorca
 
 Lament for the Death of a Bullfighter
 

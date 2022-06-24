@@ -4,6 +4,11 @@ import           Data.Monoid (mappend)
 import           Hakyll
 import           System.FilePath
 import           Data.List (isSuffixOf)
+import           Text.Pandoc.Options
+import qualified Text.Pandoc.Templates as TP
+import           Data.String (IsString)
+import           Data.Functor.Identity (runIdentity)
+import           Data.Text (Text)
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -23,12 +28,16 @@ main = hakyll $ do
             >>= relativizeUrls
             >>= cleanIndexUrls
 
-    match ("*.md" .||. "**/*.md") $ do
+    match ("science.md" .||. "literature.md" .||. "arts-humanities.md" .||. "history.md" .||. "**/*.md") $ do
         route  cleanRoute
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
-            >>= relativizeUrls 
-            >>= cleanIndexUrls
+        compile $ do
+            underlying <- getUnderlying
+            toc <- getMetadataField underlying "tableOfContents"
+            let writerOptions' = maybe defaultHakyllWriterOptions (const withTOC) toc
+            pandocCompilerWith defaultHakyllReaderOptions writerOptions'
+                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= relativizeUrls 
+                >>= cleanIndexUrls
 
     match "index.html" $ do
         route idRoute
@@ -50,3 +59,15 @@ cleanIndex :: String -> String
 cleanIndex url
   | "index.html" `isSuffixOf` url = take (length url - 10) url
   | otherwise = url
+
+withTOC :: WriterOptions
+withTOC = defaultHakyllWriterOptions
+        {
+            writerNumberSections = False,
+            writerTableOfContents = True,
+            writerTOCDepth = 4,
+            writerTemplate = Just tocTemplate
+        }
+
+tocTemplate :: TP.Template Text
+tocTemplate = either error id $ runIdentity $ TP.compileTemplate "" "<div class='toc'><div class='header'>Table of Contents</div>\n$toc$\n</div>\n$body$"

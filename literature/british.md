@@ -1,5 +1,6 @@
 ---
 title: British Literature
+tableOfContents: true
 ---
 
 This is the homepage for the *British Literature* category.
@@ -231,7 +232,7 @@ To His Coy Mistress
 
 An Haratian Ode Upon Cromwell's return to Ireland
 
-#### W. Somerset Maugham
+### W. Somerset Maugham
 
 Ashenden
 

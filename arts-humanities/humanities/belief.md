@@ -1,5 +1,6 @@
 ---
 title: Belief
+tableOfContents: true
 ---
 
 This is the homepage for the *Belief* category.

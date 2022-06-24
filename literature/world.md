@@ -1,5 +1,6 @@
 ---
 title: World Literature
+tableOfContents: true
 ---
 
 This is the homepage for the *World Literature* category, which includes all literature which is not from the United States nor from Europe.
@@ -156,13 +157,13 @@ Explosion in a Cathedral
 
 The Brief Wondrous Life of Oscar Wao
 
-### Pedro Juan Gutierrez
+#### Pedro Juan Gutierrez
 
 Dirty Havana Trilogy
 
 ### Egypt
 
-### Naguib Mahfouz
+#### Naguib Mahfouz
 
 The Cairo Trilogy
 
@@ -370,7 +371,7 @@ Snow Country
 
 "The Beautiful, and Myself"
 
-### Yukio Mishimaa
+#### Yukio Mishimaa
 
 - committed seppuku after his nationalist coup failed
 
@@ -396,11 +397,11 @@ Sputnik Sweetheart
 - K dates the mother of Carrot. Sumire calls K from a phone booth.
     That's it
 
-### Lady Murasaki
+#### Lady Murasaki
 
 The Tale of Genji
 
-### Kenzaburo Oe
+#### Kenzaburo Oe
 
 A Personal Matter
 
@@ -471,7 +472,7 @@ Americanah
 - She rekindles her relationship with Obinze (who she affectionately
     calls "Ceiling") and he divorces Kosi and goes back to Ifemelu
 
-### Wole Soyinka
+#### Wole Soyinka
 
 The Lion and the Jewel
 
@@ -515,7 +516,7 @@ Boyhood
 
 Foe
 
-### Nadine Gordimer
+#### Nadine Gordimer
 
 The Conservationist
 

@@ -1,5 +1,6 @@
 ---
 title: Young Reader Literature
+tableOfContents: true
 ---
 
 This is the homepage for the *Young Reader Literature* category.

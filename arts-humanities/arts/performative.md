@@ -1,5 +1,6 @@
 ---
 title: Performative Arts
+tableOfContents: true
 ---
 
 This is the homepage for the *Performative Arts* category.
