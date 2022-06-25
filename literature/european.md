@@ -5,15 +5,128 @@ tableOfContents: true
 
 This is the homepage for the *European Literature* category.
 
+### Belgium
+
+#### Maurice Maeterlinck
+
+Pelleas et Melisandre
+
+- King Arkel's grandson Golaud marries Melisandre but she loves his brother Pelleas
+- Golaud kills Pelleas
+
+### Bulgaria
+
+#### Elias Canetti
+
+The Tongue Set Free
+
+The Torch in the Ear
+
+The Tower of Babel
+
+- sinologist Professor Kien marries housekeeper and discovers horrors in the world
+
+Crowds and Power
+
 ### Czech Republic
 
 #### Karl Capek
 
 R. U. R.
 
+- Rossum's Universal Robots
 - originator of term "robot"
 
+#### Jaroslav Seifert
+
+The Nightingale Sings Badly
+
+Put Out the Lights
+
+- about Nazi threat in Prague
+
+### Denmark
+
+#### Hans Christian Anderson
+
+The Improvisatore or Liife in italy
+
+The Ugly Duckling
+
+The Emperor's New Clothes
+
+Little Mermaid
+
+#### Isak Dinesen
+
+Out of Africa
+
+Seven Gothic Tales
+
+Babette's Feast
+
+- Spinsters Phillipa and Martine. French maid Babette. Achille Papin
+    courts Phillipa while the soldier Lorens courts Martine.
+- Babette wins a thousand francs in the lottery. She offers to cook a
+    big meal for a party.
+- The party is called a satanic sabbath.
+- Everyone is happy?
+
+#### Karl Gjellerup
+
+Richard Wagner in His Chief Work
+
+The Pilgrim Kamanoto
+
+#### Johannes Jensen
+
+The Long Journey
+
+- evolution of man
+
+The Fall of the King
+
+#### Henrik Pontoppida
+
+Emmanuel or Children of the Soul
+
+The Promised Land
+
+Does Ridge
+
+### Finland
+
+#### Elias Lonnrott
+
+Kalevala
+
+- national epic
+- origin of world
+- adventures of Kalevala's sons Wainamoinen, Ilmarinen, and Lemminkainen
+
+#### Frans Eemil Sillanpaa
+
+Meek Heritage
+
+Fallen Asleep While Young
+
 ### France
+
+#### Unknown
+
+Chanson de Roland
+
+- written 1000, part of the Cycle de France
+- Charlemagne follows Ganelon's advice to negotiate with Saracen leader Marsile about Saragossa
+- 400000 Saracens ambush 20000 rear guard under Charlemagne's nephew Roland [Hruotland of Brittany] at pass of Roncesvalles
+- despite Olivier's pleas Roland does not sound ivory horn to summon rest of army until only 60 remain
+- blessed by Archbishop Turpin
+- Roland's fiance Aude dies
+- Ganelon quartered
+
+Romance of the Rose
+
+- Lover tries to pick a rosebud
 
 #### Honore de Balzac
 
@@ -21,26 +134,85 @@ The Black Sheep
 
 The Human Comedy
 
+- includes The Wild Ass's Skin [Raphael gets skin that grants wishes but makes the owner grow smaller], Cousin Bette [Lisbeth Fisher destroys her niece's romance], The Country Doctor [kind Dr. Benasssis], Le Pere Goriot [Pere Goriot sacrifices for ungrateful daughters Nucigen and Restaud]
+
+#### Henri Bergson
+
+Creative Evolution
+
+The Creative Mind
+
+Time and Free Will
+
+Matter and Memory
+
+Laughter
+
 #### Albert Camus
+
+- French-Algerian
 
 The Plague
 
-- A bunch of rats die. M. Michel dies. Dr. Rieux and Castel think
-    it's the plague
+- begins with thousands of rats dying
+- Algerian port Oran overcome by plague
+- Doctor Bernard Rieux does his best
 
 The Stranger
+
+- Meursault has affair with Marie, kills an Arab, and is executed
+
+The Myth of Sisyphus
+
+- essay on theory of the absurd
+
+Caligula
+
+The Rebel
+
+- essay on theory of the absurd
 
 The First Man
 
 The Fall
 
+- former Paris lawyer Jean-Baptiste Clamence owns bar in Amsterdam
+- judge-penitent regrets not saving girl on bridge
+- speaks to Van Eyck's Adoration of the Lamb
+
 Exile and the Kingdom
 
-#### Alexandre Dumas
+#### Pierre Corneille
+
+Le Cid
+
+#### Alexandr Dumas the Elder
 
 The Three Musketeers
 
+- 1625-1655 France:
+- D'Artagnan, a Gascon, arrives in Paris on pony and wants to be a guardsman for Louis XIII
+- he duels Athos, Porthos, and Aramis, and is welcomed into fellowship of Three Musketeers
+- many exploits
+- battle Cardinal Richelieu
+- sequels Twenty Years After and The Viscount of Bragelonne
+
 The Count of Monte Cristo
+
+- Restoration France:
+- Edmond Dantes falsely accused and imprisoned
+- flees to Monte Cristo
+
+The Black Tulip
+
+- 1600s Holland political rivalry
+
+#### Alexandr Dumas the Younger
+
+Camilla
+
+- Paris:
+- Marguerite Guatier, Armand Duval
 
 #### Gustave Flaubert
 
@@ -60,13 +232,89 @@ A Sentimental Education
 
 Salammbo
 
+- history of Carthage
+
+A Simple Heart
+
+- portrays life of widow Mademoiselle Aubain's servant Felicite
+
 Madame Bovary
+
+- Emma Bovary is unsatisfied with stupid doctor husband
+- she has aaffairs, incurs debts, and commits suicide
+
+#### Anatole France
+
+- really Jacques Anatole Francois Thibault
+
+The Crime of Sylvester Bonnard
+
+The Mother-of-Pearl Box
+
+Penguin Island
+
+- Breton monk Saint Mael baptizes penguins and tows island back to shore
+
+Thais
+
+- Alexandrian monk Paphnutis converts and loves Thais
+
+#### Roger Martin du Gard
+
+Les Thibaults
+
+- dutiful Antoine and rebellious brother Jacques Thibault die in WWI
+
+The Postman
+
+#### Andre Gide
+
+The Fruits of the Earth
+
+- poems
+
+The Immoralist
+
+- Michel marries Marceline and gets tuberculosis in North Africa
+- he likes young Arab boys
+- friend Menalque tells him to follow passions
+- Marceline gets tuberculosis and dies
+
+Strait is the Gate
+
+- Jerome woos cousin Alissa but she wants to sacrifice her happiness to God
+
+Lafcadio's Adventures
+
+- The Vatican Cellars
+- swindler extorts money by claiming pope was kidnapped
+- Lafcado kills one of three brothers-in-law
+
+The Counterfeiters
+
+- boys Bernard Profitendieu and Oliveir Molinier try to befriend novelist Edouard
+
+The Pastoraly Symphony
+
+- Swiss pastor adopts and loves blind orphan Gertrude who might love Jacques
+- her sight is restored and she commits suicide
 
 #### Victor Hugo
 
 Les Miserables
 
+- Jean Valjean sentenced to five years for stealing bread and nineteen for escaping
+- released and becomes Monsieur Madeleine but sent back to prison by Javert
+- befriends Fantine and rescues her daughter Cosette
+
 The Hunchback of Notre Dame
+
+- Paris:
+- gypsy dancer Esmeralda loves Captain Phoebus
+- evil archdeacon Claude Frollo denounces Esmeralda as a witch
+- deformed bell ringer Quasimodo saves Esmeralda but she is later executed and he kills Claude
+
+Hermani
 
 #### Eugene Ionesco
 
@@ -129,13 +377,82 @@ The Killer
 
 Dangerous Liaisons
 
+#### Guy De Maupassant
+
+The Necklace
+
+The Umbrella
+
+En Famille
+
+Le Rendezvous
+
+Une Vie
+
+Bel-Ami
+
+Pierre et Jean
+
+The Accursed Bread
+
+- Daddy Taille is the main character. Touchard the cooper asks for his
+    daughter Rose's hand.
+- Touchard sings the title song at the wedding dinner. They were going
+    to have the wedding somewhere else, but his estranged daughter Anna
+    comes back and offers a venue and everything paid for.
+- Touchard sings the title song at the wedding dinner. It talks about
+    bread gained dishonestly, specifically by women in a certain
+    profession. Turns out Anna was in that profession. Everyone cries.
+
+#### Fraancois mauriac
+
+Therese Desqueyroux
+
+- Therese Desqueyroux poisons husband  but is acquitted
+
+Genitrix
+
+A Woman of the Pharisees
+
+The Desert of Love
+
+Vipers' Tangle
+
+The Kiss to the Leper
+
+Life of Jesus
+
+The Son of Man
+
+Asmodee
+
 #### Moliere
+
+Les precieuses ridicules
 
 The Misanthrope
 
+- Alceste vows to be honest
+- loves vain Celimene
+- loses court case and abandons society
+
 The Bourgeois Gentleman
 
+- France under Louis XIV:
+- Monsieur Jourdain tries to make hismelf a gentleman, being fleeced by nobleman Dorannte, and forbids daughter's marriage to Cleonte
+
 The Miser
+
+Les Femmes savantes
+
+- Philaminte wants daughter Henriette to marry Trissotin but she loves Clitandre
+- Armande likes science
+- Belise thinks all love her
+
+Le Malade imaginaire
+
+- hypochondriac Argan victimized by doctors Purgon and Difoirus
+- wants daughter to marry Diafoirus' son
 
 Tartuffe
 
@@ -149,20 +466,161 @@ Tartuffe
     documents from Orgon. Tartuffe is going to kick everybody out, but
     the king's soldiers arrive as a deus ex machina.
 
-#### Guy De Maupassant
+#### Michael de Montaigne
 
-The Accursed Bread
+- humanist, "invented" essays
 
-- Daddy Taille is the main character. Touchard the cooper asks for his
-    daughter Rose's hand.
-- Touchard sings the title song at the wedding dinner. They were going
-    to have the wedding somewhere else, but his estranged daughter Anna
-    comes back and offers a venue and everything paid for.
-- Touchard sings the title song at the wedding dinner. It talks about
-    bread gained dishonestly, specifically by women in a certain
-    profession. Turns out Anna was in that profession. Everyone cries.
+Essais
+
+Apology for Raymond Sebond
+
+- Spaniard's attempt to prove God exists
+
+#### Charles de Montesquieu
+
+The Spirit of the Laws
+
+- favors constitutional monarchy
+
+#### Blaise Pascal
+
+Pensees
+
+#### St.-John Perse
+
+Seamarks
+
+Exile
+
+Rains
+
+Winds
+
+#### Marcel Proust
+
+Remembrance of Things Past/In Search of Lost Time
+
+- contrasting Meseglise Way and Guermantes Way in Faubourg St. Germain
+- Swann's daughter marries a Guermantes
+- Swann's Way, Within a Budding Grove, The Guermantes Way, Cities of the Plain, The Captive, The Sweet Cheat Gone, The Past Recaptured
+
+Jean Santeuil
+
+#### Sully Prudhomme
+
+The Destinies
+
+The Empty Endearments
+
+Happiness
+
+#### Francois Rabelais
+
+Gargantua and Pantagruel
+
+- giant Gargantua's son Pantagruel accompanies Panurge on quest to decide if he should marry
+-eventually reach Oracle of the Holy Bottle at Cathay, where the oracle answers "Drink!", meaning all must solve own problems
+
+#### Jean Baptiste Racine
+
+Berenice
+
+- Emperor Titus doesn't marry Berenice of Palestine because the people object
+
+Phedre
+
+- Theseus's wife Phaedra loves stepson Hippolyte who repulses her but nurse Oenone says Hippolyte made advances and Theseus calls Neptune to destroy his son
+- Hippolyte loves Aricie
+
+Esther
+
+- Esther adopted by Mordecai and replaced Vashti as Ahasuerus's wife
+- she saved Israelites from Haman's plot, who was hanged on gallows he built for Mordecai
+
+Mithridate
+
+- Mithridate loves Greek Monime but his son Pharnaces tries to marry her, but she loves his other son Xiphares
+- Pharnaces refuses to marry princess of Parthia
+- Xiphares defeats Romans under Pharnaces
+
+Bajazet
+
+- 1638 Constantinople:
+- sultana Roxane allows Bajazet to be executed when she learns he loves Atalide
+- Roxane is executed and Atalide commits suicide
+
+Britannicus
+
+- Nero poisions Britannicus, his half brother, because he loves Junia
+
+Les Plaideurs
+
+- magistrate Dandin locked up by son but hears cases from attic windows
+- condemns his dog for eating a chicken
+
+Iphigenie in Aulide
+
+- Agamemnon plans to sacrifice daughter Iphigenia to get good winds in harbor but slave-girl Eriphile sacrificed instead
+
+#### Romain Rolland
+
+Jean Christophe
+
+- novel series about German musician Jean Christophe Kraft who travels and criticizes civilization
+
+#### Jean-Jacques Rosseau
+
+The Social Contract
+
+Confessions
+
+Emile
+
+Julie or the New Eloise
+
+#### Edmund Rostand
+
+Cyrano de Bergerac
+
+- soldier Cyrano fears his long nose will dete Roxane
+- he confesses his love for her before dying
+
+#### Marquis de Sade
+
+Justine: The Misfortunes of Virtue
+
+- Justine vexes men and suffers
+- her sister is a happy prostitute
 
 #### Jean-Paul Sartre
+
+Being and Nothingness
+
+- "an essay on phenomenolgical ontology"
+- existentialism
+
+Les Temps Modernes
+
+Dirty Hands
+
+- Proletarian Party sends Hugo to kill Hoederer, whom he sees kissing his wife Jessica
+- Hugo kills him but then feels there was no reason
+
+The Respectful Prostitute
+
+- senator's son Fred get Lizzie to testify against innocent black as scapegoat for cousin Thomas
+
+Nausea
+
+- historian Roquentin and wife Anny feel there is no reason for existing
+
+The Wall
+
+- short stories, including The Wall [Spanish Civil War prisoner lies about location of his leader, but leader moves and he is correct]
+
+The Roads to Freedom
+
+- 3 novels: The Age of Reason [Mathieu], The Reprieve [September 1938 Munich Pact], Troubled Sleep [1940 fall of France]
 
 The Flies
 
@@ -180,6 +638,22 @@ No Exit
 - they talk and slowly realize that this is their torment
 - "Hell is other people"
 
+#### Claude Simon
+
+The Wind
+
+The Grass
+
+The Flanders
+
+- 3 soldiers recall fall of France
+
+The Palace
+
+- Loyalist Frenchman in Spanish Civil War
+
+Historie
+
 #### Stendhal
 
 - pen name
@@ -196,7 +670,33 @@ The Red and The Black
 
 The Charterhouse of Parma
 
+- Fabrizio del Dongo
+
+#### Jules Verne
+
+Around the World in 80 Days
+
+- Phileas Fogg and Passepartout win bet
+
+20000 Leagues Under the Sea
+
+- Nautilus submarine, under Captain Nemo, picks up shipwrecked Professor Aronnax, his servant Conseil, and harpoonist Ned Land
+
+Journey to the Center of the Earth
+
+Five Weeks in a Balloon
+
 #### Voltaire
+
+- pen name, really Francois Marie Arouet
+
+Brutus
+
+Zaire
+
+La Henriade
+
+- assassination of Henry III and struggle of Henry of Navarre to obtain throne
 
 Candide
 
@@ -204,7 +704,38 @@ Candide
 - then everything bad happens to Candide and he still believes
 - eventually learns after finding El Dorado that he should just "mind his garden" and let the world worry about itself
 
+#### Emile Zola
+
+The Dram Shop
+
+Earth
+
+J'accuse
+
+- open letter to French President in Aurore denouncing Dreyfus affair, who was pardoned by the Cour de Cassation when Major Esterhazy was found guilty
+
+Les Rougon-Macquart
+
+- 20 novels about Rogon-Macquart family in Second Empire
+- includes Nana [Gervaise's daughter Nana becomes prostitute], Germinal [coal workers Etienne Lantier and the Meheu family strike in 1884], L'Assommoir, and La Terre
+
 ### Germany
+
+#### Unknown
+
+Lay of Hildebrand epic
+
+- Hildebrand, follower of Theodoric the Great, tries to stop combat with son Hadubrand
+
+King Rother epic
+
+Gudrun
+
+- Hetel courts Irish King Hagen's daughter Hilde
+
+The Nibelungenlied
+
+- Hagen tells Burgundian kings about Siegfried, who helps Gunther court Iceland Queen Brunhild in exchange for marrying his sister Kriemhild
 
 #### Bertolt Brecht
 
@@ -292,6 +823,8 @@ Die Lorelei
 
 #### Franz Kafka
 
+- originally Czech
+
 The Castle
 
 - K is a land surveyor. No one respects him. He has two assistants,
@@ -299,9 +832,17 @@ The Castle
 - He wants to meet the official Klamm, but can't. He gets involved
     with Klamm's mistress Frieda.
 
+Amerika
+
+- Karl Rossman, a social misfit
+
 The Trial
 
+- bank assessor Joseph K is executed for an unknown crime by mysterious legal authority
+
 "The Metamorphosis"
+
+- Gregor Samsa awakens as a huge insect
 
 "A Country Doctor"
 
@@ -496,16 +1037,11 @@ Six Characters in Search of an Author
 
 ### The Netherlands
 
-#### Dinesen
+#### Louis Couperus
 
-Babette's Feast
+The Book of the Small Souls
 
-- Spinsters Phillipa and Martine. French maid Babette. Achille Papin
-    courts Phillipa while the soldier Lorens courts Martine.
-- Babette wins a thousand francs in the lottery. She offers to cook a
-    big meal for a party.
-- The party is called a satanic sabbath.
-- Everyone is happy?
+- Van Lowes spend Sundays at Granny's
 
 ### Norway
 
@@ -595,7 +1131,7 @@ Doctor Zhivago
 - Notes: Liberius is cocaine addicted and leads the forest
     brotherhood. Pasha Antipov calls himself General Strelnikov.
 
-### Alexander Pushkin
+#### Alexander Pushkin
 
 Eugene Onegin
 

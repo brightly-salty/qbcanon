@@ -9,6 +9,8 @@ This is the homepage for the *World Literature* category, which includes all lit
 
 #### Jorge Luis Borges
 
+- ultraismo
+
 The Approach to Al-Mu'tasim
 
 - Written by fictional Bahadur Ali
@@ -16,7 +18,7 @@ The Approach to Al-Mu'tasim
 
 "The Library of Babel"
 
-"The Aleph"
+"El Aleph"
 
 "On Exactitude in Science"
 
@@ -33,9 +35,63 @@ Ficciones
 - "Fictions"
 - Collection of his short stories
 
+Labyrinths
+
+- collection of short stories involving the common concept of labyrinths
+
+#### Ricardo Guiraldes
+
+Don Segundo Sombra
+
+- boy goes on odyssey with ranch worker Don Segundo Sombra and learns gaucho code of honor
+
+#### Jose Hernandez
+
+Martin Fierro
+
+- Martin Fierro tells of life as Guacho and flight with friend Cruz into native territory
+
+#### Manuel Puig
+
+The Kiss of the Spider Woman
+
+#### Manuel Ugarte
+
+- militant
+
+The Future of Latin America
+
+The Destiny of a Continent
+
 ### Australia
 
 #### Patrick White
+
+Happy Valley
+
+- scathing analysis of Australian town
+
+The Tree of Man
+
+- dairy farming family
+
+Voss
+
+- man disappears into Australian interior
+
+The Eye of the Storm
+
+- heirs disrupt woman's death
+
+The Cockatoos
+
+A Fringe of Leaves
+
+The Twyborn Affair
+
+Flaws in the Glass
+
+Memoirs of Many in One
 
 Riders in the Chariot
 
@@ -49,6 +105,18 @@ The Vivisector
 ### Canada
 
 #### Margaret Atwood
+
+The Circle Game
+
+The Edible Woman
+
+Surfacing
+
+Lady Oracle
+
+Life Before Man
+
+Dancing Girls
 
 The Handmaid's Tale
 
@@ -83,13 +151,182 @@ The Testaments
     and Daisy and Agnes escape to Canada and help topple Gilead.
 - The Epilogue is given by Professor Pieixeto, who analyzes events.
 
+#### Earle Birney
+
+David and Other Poems
+
+Now Is Time
+
+Turvey
+
+Down the Long Table
+
 ### Chile
+
+#### Isabel Allende
+
+#### Alfonso de Ercilla y Zuniga
+
+La Araucana
+
+- about Spain's conquest of Chile
+
+#### Gabriela Mistral
+
+- 1945 Nobel
+
+Sonnets of Death
+
+Desolation
+
+Tenderness
+
+Destruction
+
+The Wine Press
 
 #### Pablo Neruda
 
 Twenty Love Poems and a Song of Despair
 
+Canto General
+
+Residencia en la tierra
+
+Anillos
+
+The Heights of Macchu Picchu
+
+Elemental Odes
+
 ### China
+
+#### Unknown
+
+Five Classics
+
+- Confucian canon established in Han dynasty
+- Book of Odes
+  - Shih ching
+  - 305 songs
+- Book of Changes
+  - I ching
+  - Changes of Chou
+  - 65 hexagrams used for fortune-telling
+  - edited by Confucius
+- Book of Rites
+  - Li chi
+  - texts about ritual and behavior
+- Book of Documents
+  - shu ching
+  - history dating to first half of Chou dynasty
+- Spring and Autumn Annals
+  - Ch'un ch'iu
+  - chronicle of Lu feudal state 722-481 BC
+  - dry
+
+The Golden Lotus
+
+- story of Hsi-men Ch'ing and his six wives
+
+#### Wu Ch'eng-en
+
+Journey to the West
+
+- Buddhist priest Hsuan-tsang, with 3 magic helpers including a comic monkey, goes to India searching for holy scriptures
+
+#### Ssu-ma Chi'en
+
+Shih chi
+
+- history
+
+#### Pa Chin
+
+The Family
+
+#### Chuang Chou
+
+Chuang Tzu
+
+- Taoist text
+- includes Butterfly Dream of Chuang Tzu
+
+#### Po Chu-i
+
+The Lute Song
+
+The Song of Everlasting Regret
+
+#### Tu Fu
+
+- Confucian scholar
+- wrote about An Lu-shan Rebellion
+
+#### Ts'ao Hsueh-ch'in
+
+The Dream of the Red Chamber
+
+- The Story of the Stone
+- autobiographical
+- describes decline of Chia family
+
+#### Lu Hsun
+
+- doctor
+
+Selected Stories of Lu Hsun
+
+A Brief History of Chinese Fiction
+
+#### Lo Kuan-chung
+
+Romance of the Three Kingdoms
+
+The Outlaws of the Marsh
+
+- The Water Margin
+
+#### Li Po
+
+- Turkic origin
+- poet
+- exiled for role in An Lu-shan Rebellion
+- may have died embracing moon's reflection
+- exuberant and unconventional
+
+#### Lao She
+
+Rickshaw Boy
+
+#### Hu Shih
+
+- started 1920s literary revolution
+- studied at Columbia
+
+China's Place in the Present World Struggle
+
+Collected Essays
+
+#### Lao Tzu
+
+Tao Te Ching
+
+- 81 paragraphs
+- advocates following the Way, or Tao
+- established Taoism
+
+#### Wang Wei
+
+- Buddhist poet
+
+#### Gao Xingjian
+
+Soul Mountain
+
+One Man's Bible
+
+Fujitives
 
 #### Cao Xueqin
 
@@ -107,7 +344,19 @@ Dream of the Red Chamber
 - Phrase "Born in the wrong womb"
 - Opens with a couplet about truth becoming fiction
 
+#### Ch'u Yuan
+
+Elegies of Ch'u
+
+- songs about misfortunes at the court of Chu'u state
+
 ### Colombia
+
+#### Jorge Isaacs
+
+Maria
+
+- romance novel
 
 #### Gabriel Garcia Marquez
 
@@ -126,7 +375,11 @@ Leaf Storm
 
 One Hundred Years of Solitude
 
+- recounts seven generations of Buendias family, which founded isolated Macondo [based on Aracataca]
+
 The Man with Enormous Butterfly Wings
+
+Chronicle of a Death Foretold
 
 ### Cuba
 
@@ -151,6 +404,30 @@ Before Night Falls
 
 Explosion in a Cathedral
 
+#### Julian del Casal
+
+- Parnassian
+
+#### Jose Maria Heredia
+
+Ode to Niagara
+
+#### Jose Marti
+
+Free Verses
+
+Whitman
+
+Emerson
+
+Our America
+
+Bolivar
+
+Inside the Monster
+
+Our Education
+
 ### Dominican Republic
 
 #### Junot Diaz
@@ -164,6 +441,8 @@ Dirty Havana Trilogy
 ### Egypt
 
 #### Naguib Mahfouz
+
+The Children of Gebelawi
 
 The Cairo Trilogy
 
@@ -180,6 +459,12 @@ Midaq Alley
 - Afify rips her teeth from her mouth and faints after the doctor is
     convicted of grave robbing. Abbas is beaten to death after he throws
     a beer glass at Hamida.
+
+### Guatemala
+
+#### Miguel Angel Asturias
+
+El senor presidente
 
 ### Haiti
 
@@ -344,16 +629,42 @@ Midnight's Children
 - He lives with Parvati the Witch and Picture Singh
 - He marries Padma at a Chutney factory
 
+Satanic Verses
+
 #### Vikram Seth
 
 A Suitable Boy
 
 #### Rabindranath Tagore
 
+Ravindrasangeet
+
+- poems set to music
+
+The Gardener
+
+Fireflies
+
+Red Oleanders
+
+Gitanjali
+
+The Golden Boat
+
 The Home and the World
 
 - Bimala falls for the rebel Sandip and steals her husband Nikhil's
     money to give to him
+
+### Israel
+
+#### Shmuel Yosef Agnon
+
+The Bridal Canopy
+
+Days of Awe
+
+A Guest for the Night
 
 ### Japan
 
@@ -363,15 +674,36 @@ The Home and the World
 
 "Rashomon"
 
+#### Matsuo Basho
+
+- haiku
+
+The Narrow Road to the Deep North
+
+The Records of a Travel-Worn Satchel
+
+#### Kama no Chomei
+
+An Account of My Hut
+
+- Buddhist
+- describes natural disasters at Kyoto
+
 #### Yasunari Kawabata
 
 The Sound of the Mountain
 
 Snow Country
 
+The Izu Dancer
+
+Thousand Cranes
+
+Beauty and Sadness
+
 "The Beautiful, and Myself"
 
-#### Yukio Mishimaa
+#### Yukio Mishima
 
 - committed seppuku after his nationalist coup failed
 
@@ -383,6 +715,26 @@ Sea of Fertility (tetralogy)
 
 - Runaway Horses
 - Spring Snow
+
+### Chikamatsu Monzaemon
+
+- kabuki theater
+
+Love Suicides at Sonezaki
+
+Battles of Coxinga
+
+Love Suicide at Amijima
+
+### Zeami Motokiyo
+
+- No drama
+
+Atsumori
+
+The Robe of Feathers
+
+Birds of Sorrow
 
 #### Haruki Murakami
 
@@ -401,17 +753,73 @@ Sputnik Sweetheart
 
 The Tale of Genji
 
+- describes Prince Genji and the women he loves, including Murasaki
+- translated by Arthur Waley
+
 #### Kenzaburo Oe
 
 A Personal Matter
 
+The Catch
+
+Nip the Buds Shoot the Kids
+
+Hiroshima Notes
+
+The Silent Cry
+
+#### Ihara Saikaku
+
+The Life of an Amorous Man
+
+Five Women Who Loved Love
+
+Worldy Mental Calculations
+
+#### Sei Shonagon
+
+The Tosa Diary
+
+- The Pillow-Book of SeiShonagon
+- diary of a lady-in-waiting in late 900s empress's court
+
+### Kenya
+
+#### Ngugi Wa Thiong'O
+
+Weep Not Child
+
+- Njoroge Ngotho deals with Mau-Mau uprising
+
+A Grain of Wheat
+
+- Kenyan independence Mau-Mau uprising
+
+The River Between
+
 ### Mexico
+
+#### Mariano Azuela
+
+Los de abajo
+
+- about Mexican Revolution
+
+#### Laura Esquivel
+
+Like Water for Chocolate
 
 #### Carlos Fuentes
 
+The Old Gringo
+
+Christopher Unborn
+
+The Campaign
+
 Death of Artemio Cruz
 
-- Cruz is the illegitimate son of a hacienda owner. He causes the
+- Mexican political boss Artemio Cruz is the illegitimate son of a hacienda owner. He causes the
     death of his son Lorenzo.
 - He was raised by his uncle Lunero. His love Regina is hung. His
     cellmate Gonzalo Bernal is executed by a firing squad.
@@ -419,15 +827,79 @@ Death of Artemio Cruz
 - Lorenzo is sent to run land at Cocuya.
 - Most of his wealth is left to Padilla.
 
+#### Federico Gamboa
+
+Santa
+
+#### Jose Joaquin Fernandez de Lizardi
+
+El periquillo sarniento
+
 #### Octavio Paz
 
 The Labyrinth of Solitude
+
+- Spanish conquest made Mexico become isolated and obscured by masks
+
+Early Poems
+
+Selected Poems
 
 The Bow and the Lyre
 
 Sunstone
 
 - 584 lines, one for each day of the Aztec calendar
+
+### New Zealand
+
+#### Katherine Mansfield
+
+Bliss
+
+- Bertha Young is happy until she learns husband is unfaithful
+
+A Dill Pickle
+
+- woman meets former lover in restaurant
+- rediscovers his charm and then his faults
+
+The Garden Party
+
+- Laura takes leftover cakes to family of poor worker killed setting up for her family's party
+
+The Dove's Nest
+
+#### Frank Sargeson
+
+That Summer
+
+Conversation with My Uncle
+
+A Man and His Wife
+
+Joy of the Worm
+
+#### Hugh Walpole
+
+Mr. Perrin and Mr. Traill
+
+- at English boarding school, Mr. Perrin tries to murder rival teacher Mr. Traill
+
+The Herries Chronicle
+
+- novel series set in Lake District
+- Rogue Herries, Juith Paris, The Fortress, Vanessa
+
+### Nicaragua
+
+#### Ruben Dario
+
+Azul
+
+Prosas profanas
+
+Cantos de vida y esperanza
 
 ### Nigeria
 
@@ -472,7 +944,29 @@ Americanah
 - She rekindles her relationship with Obinze (who she affectionately
     calls "Ceiling") and he divorces Kosi and goes back to Ifemelu
 
+#### Cyprian Ekwensi
+
+People of the City
+
+- crime reporter and band leader Amusa Sango
+
 #### Wole Soyinka
+
+The Swamp Dwellers
+
+A Play of Giants
+
+Shuttle in the Crypt
+
+The Interpreters
+
+Season of Anatomy
+
+Ake
+
+Isara
+
+The Open Sore of a Continent: A Personal History of the Nigerian Literature
 
 The Lion and the Jewel
 
@@ -497,6 +991,18 @@ Noli Me Tangere
 Mi Ultimo Adios
 
 Le Filibusterismo
+
+### Saint Lucia
+
+- 1992 Nobel
+
+Another Life
+
+Dream on Monkey Mountain
+
+Ti-Jean and His Brothers
+
+Odyssey
 
 ### South Africa
 
@@ -526,6 +1032,10 @@ Burger's Daughter
 
 July's People
 
+The Soft Voice of the Serpent
+
+None to Accompany Me
+
 #### Athol Fugard
 
 Master Harold...and the Boys
@@ -541,6 +1051,8 @@ Master Harold...and the Boys
 #### Alan Paton
 
 Cry the Beloved Country
+
+- Stephen Kumalo searches for son Absalom in Johannesburg slums
 
 ### Sweden
 
