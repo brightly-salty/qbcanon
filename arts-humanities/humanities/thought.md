@@ -256,6 +256,10 @@ Critique of Pure Reason
 
 - described synthetic a priori judgements
 
+Critique of Practical Reason
+
+Critique of Judgement
+
 Groundwork of the Metaphysics of Morals
 
 - introduced the "categorical imperative", which says that one ought to act according to what pure practical reason tells him can be made a universalizable maxim
@@ -311,6 +315,8 @@ The Four Books of Sentences
 
 The Prince
 
+- model prince Cesare borgia, son of Alexander VI
+
 #### John Stuart Mill
 
 A utilitarian political/ethical philosopher and economist.
@@ -331,6 +337,8 @@ On Liberty
 #### Friedrich Nietzsche
 
 A philosopher known for his ideas of an ubermensch and eternal recurrence. He called *amor fati* the formula for greatness in a human being.
+
+The Will to Power
 
 Thus Spoke Zarathustra
 

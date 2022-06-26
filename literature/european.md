@@ -37,6 +37,34 @@ R. U. R.
 - Rossum's Universal Robots
 - originator of term "robot"
 
+
+#### Franz Kafka
+
+- moved to Germany?
+
+The Castle
+
+- K is a land surveyor. No one respects him. He has two assistants,
+    Arthur and Jeremiah
+- He wants to meet the official Klamm, but can't. He gets involved
+    with Klamm's mistress Frieda.
+
+Amerika
+
+- Karl Rossman, a social misfit
+
+The Trial
+
+- bank assessor Joseph K is executed for an unknown crime by mysterious legal authority
+
+"The Metamorphosis"
+
+- Gregor Samsa awakens as a huge insect
+
+"A Country Doctor"
+
+"Jackals and Arabs"
+
 #### Jaroslav Seifert
 
 The Nightingale Sings Badly
@@ -315,63 +343,6 @@ The Hunchback of Notre Dame
 - deformed bell ringer Quasimodo saves Esmeralda but she is later executed and he kills Claude
 
 Hermani
-
-#### Eugene Ionesco
-
-- originally Romanian
-
-Rhinoceros,
-
-Jack, or the Submission
-
-Amedee
-
-The New Tenant
-
-The Future is in eggs
-
-A stroll in the air
-
-Exit the King
-
-Macbett
-
-The Chairs
-
-- Obviously absurdist. Man, woman, chair
-- He tells a story that begins, "Then at Last we Arrived" she takes
-    salt to forget it
-- He hires an orator to tell his story
-- A lady, a colonel, a photo engraver, and Belle all show up. They all
-    need chairs
-- The man and woman throw themselves out the window. The orator speaks
-    unintelligibly, then writes unintelligibly, then leaves.
-
-The Bald Soprano
-
-- The Smiths live in a house where everything is English. They wonder
-    if the oil they bought is good
-- They discuss the dead Bobby Watson. His death date keeps going
-    farther back in time, then he is multiple people, then he is getting
-    married.
-- Mary announces that the Martins have entered
-- The Martins don't know each other, but deduce they are married.
-    Their daughter Alice has one red and one white eye.
-- The Fire Chief arrives
-- Everyone argues
-
-The Lesson
-
-- (Permanently Staged at the Theater de la Huchette in Paris)
-- A man kills his fortieth math student
-
-The Killer
-
-- Berenger finds the Radiant City
-- A killer drowns people after luring them to see a picture of the
-    colonel
-- Berenger tries to convince the killer to quit killing, but it
-    doesn't work
 
 #### Pierre Choderlos de Laclos
 
@@ -737,7 +708,36 @@ The Nibelungenlied
 
 - Hagen tells Burgundian kings about Siegfried, who helps Gunther court Iceland Queen Brunhild in exchange for marrying his sister Kriemhild
 
+#### Heinrich Boll
+
+The Clown
+
+- Hans Schnier and Marie shows audiences their follies through pantomimes
+- Marie leaves him
+
+Traveller if You Come to Spa
+
+Adam Where Art Thou
+
+Billiards at Half-Past Nine
+
 #### Bertolt Brecht
+
+Mother Courage and Her Children
+
+- Mother Courage sells trifles to soldiers during Thirty Years War
+- her 3 kids die
+
+The Threepenny Opera
+
+- Polly Peachum marries robber Macheath
+- music by Kurt Weill
+
+The Life of Galileo
+
+The Rise and Fall of the City of Mahogonny
+
+- city founded by pleasure-seekrs collapses
 
 Saint Joan of the Stockyards
 
@@ -774,6 +774,55 @@ The Good Woman of Setzuan
 
 "To Posterity"
 
+#### Wolfram von Eschenbaach
+
+Parzival
+
+- guileless fool Parzival leaves wife Kondwiramur visits castle of Holy Grail, asks questions which cure Amfortas and becomes king of the Grail
+
+#### Johann von Goethe
+
+Faust
+
+- Mephistopheles and the Lord argue
+- Faust summons a spirit then attempts suicide.
+- He walks around town with Wagner and is followed home by a black
+    poodle. He decides to study the gospel of John
+- The devil bets that he can give him one amazing transcendental
+    moment. The devil convinces a student to pursue women instead of
+    knowledge
+- They go to Auerbach's cellar and run wine out of holes in a table.
+    They then go to a witch's cave where two apes make a potion.
+- He becomes enamored with Gretchen. Meph leaves some jewels in her
+    room
+- He hides in the forest, but eventually goes back to her. She gets
+    pregnant and freaks out. Faust stabs her brother Valentine.
+- He attends Walpurgis Night and meets Lilith
+- Gretchen kills the baby and goes to jail. They attempt to save her,
+    but fail
+
+The Sorrows of Young Werther
+
+- artistic, talented Werther loves Lotte who marries steadier man
+- Werther shoots himself
+
+Gotz von Berlichingen
+
+- 1500s peasent revolt
+
+Iphigenia in Tauris
+
+- Orestes goes to Tauris to rescue statue of Artemis, which Apollo said would cure Orestes' madness
+- high priestess Iphigenia recognizes brother and they escape
+
+Reineke Fuchs
+
+- Reynard the Fox outwits Isengrim the wolf, King Nobel the lion, Sir Bruin the Bear, Tibert the cat, Chanticleer the Cock
+
+Torquato Tasso
+
+- based on 1500s Italian poet
+
 #### Gunter Grass
 
 The Crabwalk
@@ -785,7 +834,7 @@ The Crabwalk
     Gustloff and David Frankfurter. They eventually meet in Schwerin.
     Konny shoots Wolfgang and says "I shot because I am a German"
 
-Tin Drum
+The Tin Drum
 
 - Protagonist leads some terrorists, becomes a nude model, engraves
     headstones, and becomes a jazz drummer
@@ -813,6 +862,41 @@ Dog Years
 
 Peeling the Onion
 
+The Flounder
+
+- 4000 years of women in history
+- narrator married to cook Ilsebill
+
+Cat and Mouse
+
+#### Jacob and Wilhelm Grimm
+
+Grimm's Fairy Tales
+
+- Rapunzel, Hansel and Gretel, and Rumpelstiltskin
+
+#### Gerhart Hauptmann
+
+The Weavers
+
+- based on 1844 Silesian weavers rebellion
+
+Drayman Henschel
+
+- man promises to be faithful to wife's memory but trapped into marrying housekeeper
+
+The Sunken Bell
+
+- bell-maker Heinrich's bell falls into lake and he leaves family for sprite Rautendelein
+
+Rose Bernd
+
+- Rose is engaged to August Kiel but has child by town magistrate and kills it and is arrested
+
+#### Johann Gottfried von Herder
+
+- philosopher of Sturm und Drang movement
+
 #### Heinrich Heine
 
 Romanzero
@@ -821,36 +905,46 @@ Gedichte
 
 Die Lorelei
 
-#### Franz Kafka
+#### Thomas a Kempis
 
-- originally Czech
+The Imitation of Christ
 
-The Castle
+#### Friedrich Maximilian von Klinger
 
-- K is a land surveyor. No one respects him. He has two assistants,
-    Arthur and Jeremiah
-- He wants to meet the official Klamm, but can't. He gets involved
-    with Klamm's mistress Frieda.
-
-Amerika
-
-- Karl Rossman, a social misfit
-
-The Trial
-
-- bank assessor Joseph K is executed for an unknown crime by mysterious legal authority
-
-"The Metamorphosis"
-
-- Gregor Samsa awakens as a huge insect
-
-"A Country Doctor"
-
-"Jackals and Arabs"
+Strum und Drang play
 
 #### Thomas Mann
 
 Death in Venice
+
+- aging writer Gustav von Aschenbach gases on beauty of 14-year-old Tadzio
+- choleric epidemic hits Venice
+
+Buddenbrooks
+
+- Christian and Thomas fail to maintain the estate of their grandfather Johann
+
+The Beloved Returns
+
+- Charlotte Buff visits Geothe
+
+Doctor Faustus
+
+- collapse of composer Adrian Leverkuhn parallels German collapse in WWII, narrated by Serenus Zeitblom
+
+Mario and the Magician
+
+- waiter Mario shoots magician Cippla who humiliated him in trance
+
+Joseph and His Brothers
+
+- 4-novel Bildungroman based on Joseph in Genesis
+
+Tonio Kroger
+
+- Tonio Kroger is ridiculed by schoolmates
+- unrequited love for Hans Hansen and Ingeborg Holm
+- becomes famous writer
 
 The Magic Mountain
 
@@ -864,28 +958,49 @@ The Magic Mountain
     *Ocean Steamships.* The number 7 comes up a lot. He meets Director
     Hofrat Behrens. Frau Stohr can make 28 different fish sauces
 
-#### Johann von Goethe
+#### Theodor Mommsen
 
-Faust
+Romische Geschichte
 
-- Mephistopheles and the Lord argue
-- Faust summons a spirit then attempts suicide.
-- He walks around town with Wagner and is followed home by a black
-    poodle. He decides to study the gospel of John
-- The devil bets that he can give him one amazing transcendental
-    moment. The devil convinces a student to pursue women instead of
-    knowledge
-- They go to Auerbach's cellar and run wine out of holes in a table.
-    They then go to a witch's cave where two apes make a potion.
-- He becomes enamored with Gretchen. Meph leaves some jewels in her
-    room
-- He hides in the forest, but eventually goes back to her. She gets
-    pregnant and freaks out. Faust stabs her brother Valentine.
-- He attends Walpurgis Night and meets Lilith
-- Gretchen kills the baby and goes to jail. They attempt to save her,
-    but fail
+- history of Rome
 
-#### Friedrich Schiller
+#### Erich Maria Remarque
+
+- later moved to the United States
+
+All Quiet on the Western Front
+
+- WWI German trenches
+
+#### Rainer Maria Rilke
+
+Dinggedichte
+
+The Duino Elegies
+
+The Sonnets to Orpheus
+
+#### Hans Sachs
+
+The Nightingale of Wittenberg
+
+- about Martin Luther
+
+Epitaphium
+
+#### Friedrich von Schiller
+
+William Tell
+
+- William Tell is forced to shoot apple off son's head by Gebler because he had not saluted Austrian hat on a pole
+
+Kabale und Liebe
+
+- love of musician's daughter Luise Miller and aristocat Ferdinand von Wlather opposed by his dad
+
+Mary Stuart
+
+On Naive and Sentimental Poetry
 
 The Robbers
 
@@ -903,6 +1018,42 @@ The Robbers
 - Franz strangles himself when Karl arrives. Count Von Moor dies.
     Amalia asks Karl to kill her so she won't be alone and he does.
     Karl has a poor man turn him in.
+
+### Greece
+
+#### Odysseus Elytis
+
+The Axion Esti of Odysseus Elytis
+
+Six and One Regrets for the Sky
+
+#### George Seferis
+
+Turning Point
+
+In the Manner of GS
+
+Helen
+
+Against Whitethorns
+
+### Iceland
+
+#### Seamus Heaney
+
+Death of a Naturalist
+
+Door Into the Dark
+
+#### Halldor Kiljan Laxness
+
+Under the Holy Mountain
+
+The Book of the People
+
+Paradise Reclaimed
+
+Christianity at the Glacier
 
 ### Ireland
 
@@ -982,17 +1133,43 @@ The Picture of Dorian Gray
 
 #### Dante Alghieri
 
-The Divine Comedy
+The Divine Comedy (Inferno, Purgatorio, Paradiso)
 
-- Inferno
-- Purgatorio
-- Paradiso
+- Virgil takes Dante on tour of Hell on Good Friday 1300
+- Beatrice takes Dante from Purgatory to Paradise
+- Inferno:
+  - anteroom for those who did no good or bad, 9 levels:
+  - Limbo for unbaptized but blameless
+  - Paulo and Francesca carnal sinners
+  - City of Dis torments of heretics  - worst for Brutus, Cassius, and Judas
+- Purgatorio:
+  - Virgil guides Dante up mountain where people are cleansed from sins
+  - Matilda conduct Dante to Eden-like garden where Beatrice takes over as guide
+- Paradiso:
+  - 8 heavens of the planets
+  - ninth heaven Primum Mobile with 9 orders of angels
+  - radiant Empyrean River
+  - St. Bernard replaces Beatrice as guide
+
+#### Lodovico Ariosto
+
+Orlando Furiosos
+
+- Charlemagne entrusts Angelica to Duke Namo
+- resuced by Ruggiero
 
 #### Boccacio
 
 The Decameron
 
-- Ten Italians tell one tales each night for ten nights (100 tales total) as they hide out from the Black Death
+- 1348 Florence:
+- 10 nobelemen, 100 stories, including Calandrino and the Heliotrope [Calandrino thinks he has found a stone that can make him invisible], Il Filocolo [travails of Florio and Binacofiore, including Thirteen Questions of Love digression], Il Filostrato [Trojan Troliolo loves Criseida and is helped by Pandaro]
+
+#### Matteo Maria Boirado
+
+Orlando Innamorato
+
+- Angelica sows discord among Charlemagne's paladins
 
 #### Italo Calvino
 
@@ -1007,6 +1184,27 @@ The Nonexistent Knight
 - Agilulf and Rambardo are two paladins of Charlemagne. They meet the
     vagabond Gurdulu.
 
+#### Giosue Carducci
+
+The Hymn to Satan
+
+Juvenilia
+
+#### Collodi
+
+Pinocchio
+
+- puppet comes to life
+- nose grows when he lies
+
+#### Grazia Deledda
+
+Elias Portulu
+
+Ashes
+
+The Mother
+
 #### Umberto Eco
 
 Island of the Day Before
@@ -1019,6 +1217,39 @@ Island of the Day Before
     island, but doesn't return
 - He invents an evil twin, Ferrante. The book ends with him still
     there
+
+#### Daio Fo
+
+Comic Mysteries
+
+Accidental Death of an Anarchist
+
+#### Eugenio Montale
+
+Cuttlefish Bones
+
+The Butterfly of Dinard
+
+Occasions
+
+#### Petrarch
+
+On Illustrious Men
+
+Africa
+
+- hero Scipio Africanus
+- Masinissa loves Sophonisba
+
+Secretum
+
+- love for Laura
+
+Rime
+
+Trionfi
+
+De remediis
 
 #### Luigi Pirandello
 
@@ -1035,6 +1266,20 @@ Right You Are If You Think You Are
 
 Six Characters in Search of an Author
 
+- six persons demand they be permitted to perform the drama implied in their lives
+
+#### Ignazio Silone
+
+Bread and Wine
+
+- Communist hero Pietro Spina disguises self as priest
+- anti-Fascist
+- old priest Don Bendetto
+
+#### Salvatore Quasimodo
+
+To Give and to Have
+
 ### The Netherlands
 
 #### Louis Couperus
@@ -1045,29 +1290,276 @@ The Book of the Small Souls
 
 ### Norway
 
+#### Bjornstjerne Bjornson
+
+Trust and Trial
+
+Arne
+
+A Happy Boy
+
+Sigurd the Bastard trilogy
+
+The Editor
+
+The Bankrupt
+
+Beyond Our Power
+
+In God's Way
+
+#### Knut Hamsun
+
+The Growth of the Soil
+
+Hunger
+
+Pan
+
+Mysteries
+
 #### Henrik Ibsen
 
 The Enemy of the People
 
+- Dr Stockman wants to close tourist spa for repairs
+
+The Master Builder
+
+- architect Halvard Soness, maried to Aline, fears new generation of architects
+- Hilde Wanger inspires him to try to build a castle in the sky but he dies
+
+The Wild Duck
+
+- schoolfriend idealist Gergers Werle tries to free photographer Hjalmar Ekdal from illusions
+- Hjalmar rejects daughter Hedvig believing she is not his
+- Gregers tells Hedvig her dad will accept her if she sacrifices her beloved wild duck bu she shoots self instead
+
 A Doll's House
+
+- Nora Helmer commits forgery to save banker husband Torvald's life
+- she realizes he views her as a doll and leaves him
+- contrasted with Krogstand Kristine Linde
 
 Hedda Gabler
 
+- Hedda Gabler steals book from Eilert Lovberg, who had been reformed by wife Thea Elvsted and became rival of Hedda's husband for professorship, and gives him a gun to commit suicide
+- Judge Brack extorts Hedda and she commits suicide
+- selfless Miss Juliana Tesman
+
 Peer Gynt
+
+- Peer Gynt ships missionaries and idols to China, makes and loses money, saves his life at expense of another in shipwreck
+- Button Molder tries to melt him in his ladle, but is rescued by Soveig
+- Gret Boyg tries to eat him
+- he marries Troll King's daughter
+
+Brand
+
+When We Dead Awaken
+
+- sculptor Rubek meets his model Irene
+- she says they have both been dead for years
+- they go into wild mountains and are swallowed in storm
+
+Rosmersholm
+
+- Rebecca West gets Johannes Rosmer's wife Beata to commit suicide so he can marry her
+- Johannes and Rebecca leap into millrace and die
 
 Ghosts
 
+- widow Helene Alving tells Peter Manders that she will open an orphanage in memory of her late drunken husband
+- son Oswald is dying of hereditary syphilis
+
+John Gabriel Borkman
+
+- Borkman broke engagement to Ella Rentheim because of Hinkel whose help he needed
+- married Ella's sister
+- jailed for misuse of bank money
+
+#### Sigrid Undset
+
+Kristin Lavransdatter
+
+- about a woman's life in 1200s and 1300s Catholic Norway
+
+Saga of Saints
+
+The Snake Pit
+
+In the Wilderness
+
+### Poland
+
+#### Czeslaw Milosz
+
+The Captive Mind
+
+Native Realm
+
+The Usurpers
+
+The Issa Valley
+
+The Witness of Poetry
+
+The Land of Ulro
+
+Bells in Winter
+
+History of Polish Literature
+
+#### Wladyslaw Reymont
+
+The Peasants
+
+The Comedienne
+
+The Promised Land
+
+Rok
+
+#### Henryk Sienkiewicz
+
+Quo Vadis?
+
+- historical novel about first Christians in ancient Rome
+
+With Fire and Sword
+
+- history of Poland 1648-1699
+- war with Ukraine
+- King John III
+
+The Teutonic Knights
+
+Portrait of America
+
+#### Wislawa Szymborska
+
+That's Why We're Alive
+
+View with a Grain of Sand
+
+### Portugal
+
+#### Jose Saramago
+
+Baltasar and Blimunda
+
+The Stone Raft
+
+The Gospel According to Jesus Christ
+
+### Romania
+
+#### Eugene Ionesco
+
+- moved to France, wrote works in French
+
+Rhinoceros,
+
+Jack, or the Submission
+
+Amedee
+
+The New Tenant
+
+The Future is in eggs
+
+A stroll in the air
+
+Exit the King
+
+Macbett
+
+The Chairs
+
+- Obviously absurdist. Man, woman, chair
+- He tells a story that begins, "Then at Last we Arrived" she takes
+    salt to forget it
+- He hires an orator to tell his story
+- A lady, a colonel, a photo engraver, and Belle all show up. They all
+    need chairs
+- The man and woman throw themselves out the window. The orator speaks
+    unintelligibly, then writes unintelligibly, then leaves.
+
+The Bald Soprano
+
+- The Smiths live in a house where everything is English. They wonder
+    if the oil they bought is good
+- They discuss the dead Bobby Watson. His death date keeps going
+    farther back in time, then he is multiple people, then he is getting
+    married.
+- Mary announces that the Martins have entered
+- The Martins don't know each other, but deduce they are married.
+    Their daughter Alice has one red and one white eye.
+- The Fire Chief arrives
+- Everyone argues
+
+The Lesson
+
+- (Permanently Staged at the Theater de la Huchette in Paris)
+- A man kills his fortieth math student
+
+The Killer
+
+- Berenger finds the Radiant City
+- A killer drowns people after luring them to see a picture of the
+    colonel
+- Berenger tries to convince the killer to quit killing, but it
+    doesn't work
+
 ### Russia
+
+#### Unknown
+
+The Igor Tale
+
+- Russian prince battles Polovtsy tribes in 1185
+
+#### Joseph Brodsky
+
+A Halt in the Wilderness
+
+The End of a Lovely Era
+
+#### Ivan Bunin
+
+The Village
+
+Dry Valley
+
+The Gentleman from San Francisco
 
 #### Anton Chekhov
 
 The Seagull
 
+- writer Konstantin Trepliov loves actress Nina Zarechnaya
+- his play is a failure and she takes interest in writer Trigorin, lover of Trepliov's mom Irinia Arkadina
+- Trepliov kills seagull and places it at Nina's feet
+- Trigorin becomes good writer and Nina is cast away by Trigorin
+- Trepliov kills self
+
 The Cherry Orchard
 
-Uncle Vanya
+- Ranevsky family estate sold at auction to Lopakhin who buils houses on it
+
+Uncle Vanya: Scenes from Country Life in Four Acts
+
+- Ivan Voinitsky [Uncle Vanya] manages estate of brother-in-law Professor Aleksandr Serebyakov, who he learns is somewhat a fraud
+- Vanya loves Serebryakov's second wife Elena Andreyevna
+- Serebryakov agrees not to sell the estate Vanya has worked so hard for after he tries to shoot him
 
 Three Sisters
+
+- Andrey Prozorov wants to be professor but wife Natalya Ivanova becomes despotic
+- sister Masha marries schoolmaster Kulygin but has affair with officer Vershinin, who moves away
+- youngest sister Irina marries officer Baron Tuzenbakh who is killed in a duel
+- other sister is Oldga
+- all want to go to Moscow
 
 The Lady with the Dog
 
@@ -1081,15 +1573,118 @@ The Lady with the Dog
 - She regularly visits him in Moscow on pretense of going to see her
     gynecologist
 
+A Dreary Story
+
+- Professor Nikolay Stepanovich and ward Katya review their aimless lives but cannot communicate with each other
+
+My Life
+
+- Poleznev becomes a laborer
+
+Peasants
+
+- long story about somber peasant life
+
+Ward No. 6
+
+- mental hospital head Dr. Andrey Ragin withdraws into private study and alcohol, neglecting patients, except for conversations with Ivan Gromov, and is himself committed and experiences the maltreatment he allowed the patients to undergo
+
 #### Fyodor Dostoyevsky
 
 Crime and Punishment
 
-- Raskolnikov murders the old pawnbroker woman for money.
-- He's been delirious for multiple days. His student friend Ramuzihin
-    helps him out. Nastasya the maid helps too
-- Explosive lieutenant
-- He orders five papers to read at a tavern
+- St. Petersburg:
+- Raskolnikov murders old pawnbroker and her sister
+- his motives are proven false by his conscience
+- turns to prostitute Sonya Marmeladovna, who convinces him to confess to policeman Porfiry Petrovich
+- Raskolnikov and Sonya go to Siberia
+
+The Idiot
+
+- Prince Mishkin pities Nastasya Filipovna, whom Rogozhin loves
+- Mishkin proposes to Aglaya Epanchin
+- Rogozhin tries to murder Mishkin and does kill Natasya
+
+The Possessed
+
+- spiritual nihilist Nikolay Stavrogin commits crimes and infects Shatov and Kirilov with ideas he does not believe
+- Lizaveta Nikolayevna loves Stavrogin but he marries cripple Marya Lebyadkin
+- Pyotr Verkhoven tries to get Stavrogin to join revolution
+- Verkhovensky murders Shatov
+
+The Brothers Karamazov
+
+- Fyodor Pavlovich Karamazov and son Dimitry compete for Grushenka
+- Fyodor is murdered
+- Dmitri [passionate] brought to trial
+- Ivan [intellectual] feels guilty
+- Alyosha [mystical] introduces Zosima
+- Smerdyakov [bastard]
+- Ivan tells Alyosha The Legend of the Grand Inquisitor parable [Jesus is arrested by Inquisition in Seville]
+
+The Double
+
+- government clerk Yakov Petrovich Golyadkin driven mad with another Golyadkin appears and succeeds as he had yearned to
+- helped by servant Petrushka
+
+A Diary of a Writer
+
+- includes The Meek One and The Dream of a Ridiculous Man stories
+
+Notes from the Underground
+
+- recounts adventures of author's life
+
+The Raw Youth
+
+- Versilov's illegitmate son Arkady goes to St. Petersburg but learns his dad is his rival for Katerina Akhmatovo
+- Arkady gets brain fever and is visited by pilgrim Makar Dolgoruky
+- Arkady abandons plan to become Rothschild and make money to get power
+
+The Insulted and Injured
+
+- Vanya loves Natasha Ikhmeneva but helps her woo Alyosha Valkovsky
+- Ivan and Prince Valkovsky debate philosophy
+- Dickens character Nelly appears
+
+The Friend of the Family
+
+- Foma Opsikin rules household by playing on master's guilt
+
+The Gambler
+
+- Aleksey Ivanovich has gambling weakness
+- Polina based on Dostoyevsky's lover
+
+Poor Folk
+
+- drunk clerk Makar Devushkin loves Vavara Dobroselova but she marries wealthy landlord
+
+The Eternal Husband
+
+- Pavel Pavlovich Trusotsky torments wife's ex-lover Aleksey Ivanovich Velchaninov and mistreats his girl
+
+#### Nikolay Gogol
+
+The Overcoat
+
+- St. Petersburg:
+- civil servant Akaky Akakyevich Bashmachkin loves copying documents
+- buys new coat and gains status but coat is stolen and he dies
+
+The Government Inspector
+
+- Russian town:
+- Khelstakov impersonates inspector but escapes before being discovered by postman
+
+Dead Souls
+
+- Pavel Chickhkov buys serfs who have died since last census and mortgages them for land
+- landowners include Manilov, Sobakevich, Korobochka, and Plyushkin
+
+#### Ivan Goncharov
+
+Oblomov
 
 #### Maxim Gorky
 
@@ -1104,6 +1699,20 @@ The Lower Depths
 - Two sisters, one one of which is the landlord Kastilyoff's wife,
     are mad at Vaska
 - Everyone sings as the actor kills himself
+
+Mother
+
+- Pelageya Nilovna becomes involved in Russian Revolution with son Pavel Vlasov
+
+Klim Samgin
+
+#### Leonid Leonov
+
+The Badgers
+
+The Thief
+
+- civil war veteran Mitka Vekshin becomes thief during time of New Economic Policy
 
 #### Mihkail Lermontov
 
@@ -1135,6 +1744,34 @@ Doctor Zhivago
 
 Eugene Onegin
 
+Boris Godunov
+
+- 1598-1605 Russia:
+- Czar Boris Godunov kills Dmitry, the crown prince
+
+The Captain's Daughter
+
+Tales of Belkin
+
+- includes The Stationmaster story
+
+The Bronze Horseman
+
+- flood kills fiancee of Yevgeny and he blames Peter the Great
+
+Little Tragedies
+
+- 4 drams: The Stone Guest, Mozart and Salieri, The Covetous Knight, The Feast during the Plague Year
+
+#### Mihkhail Sholokhov
+
+The Quiet Don
+
+- Cossack Gregor Melekhov is indecisive about Russian Revolution
+- Ivan Bunchuk fights with Bolsheviks but is killed by Melekhov
+
+Virgin Soil Upturned
+
 #### Aleksandr Solzhenitsyn
 
 Cancer Ward
@@ -1147,15 +1784,135 @@ Cancer Ward
 - Pavel Nikolayevich Rusanov is discharged just because no one likes
     him
 
+One Day in the Life of Ivan Denisovich
+
+- Ivan Denisovich survives a day in a Soviet labor camp
+
+The First Circle
+
+- Nerzhin [like Solzhenitsyn] is inmate in sharashka prison where educated people continue research
+- Lev Rubin [like Lev Kopelev] maintains faith in Communism
+
+The Gulag Archipelago
+
+- acronym for Soviet Chief Administration of Corrective Labor Camps
+- literary investigation of prison camps 1918-1956
+
 #### Leo Tolstoy
 
 Anna Karenina
 
+- Anna Karenina leaves husband and child of Count Aleksei Vronsky, the commits suicide by jumping under a train
+- Konstantin and Kitty Levin have a happy marriage
+
 War and Peace
+
+- 1805-1820:
+- Napoleon invades Russia 1812
+- Natasha Rostova is engaged to Prince Andrey Bolkonsky, who struggles to find meaning of life through intellect and calmly accepts death, but marries rake Anatol Kuragin
+- after war, Natasha marries Pierre Bezukhov, who finds peace in living under wisdom of peasant Karatayev
 
 The Death of Ivan Ilyich
 
+The Power of Darkness
+
+- Nikita seduces Marina, poisons Peter, marries his wife Anisya, seduces Anisya's stepdaughter Akulina, and kills their baby
+
+Resurrection
+
+- Prince Nekhlyudov seduced Katyusha Maslova
+- she became prostitute and poisoned a man
+- he serves on jury and marries her since he feels guilty but she refuses
+
+A Confession
+
+What is Art?
+
+- should be simple enough for all to understand
+
+The Cossacks
+
+- Olenin tries to find happiness among wild Cossacks of the Caucasus
+- Maryana and Eroshka
+
+The Death of Ivan Ilyich
+
+- man with cancer ponders death
+
+Sevastopol Stories
+
+- 3 stories about Crimean War Siege in December, May, and August 1855
+
+#### Ivan Turgenev
+
+Fathers and Sons
+
+- nihilist Bazarov opposes aristocrat Pavel Kirsanov
+
+A Month in the Country
+
+- Natalia and her ward Vera love her son's tutor
+
+A Nest of the Gentlefolk
+
+- Fyodor Lavretsky's presumed-dead wife returns as he is aabout to marry Liza Kalitina
+
+On the Eve
+
+- Elena Stakhova scorns scholar Bersenev, sculptor Shubin, and civil servant Kurnatovsky but loves Bulgarian revolutionary Insarov
+
+Rudin
+
+- Dmitry Rudin talks brilliantly but does not take action
+- frightened by love of Natalya Alekseyevna
+- shot during 1848 Paris revolt
+
+Smoke
+
+- Litvinov loves Tanya but is distracted by old lover Irina
+
+A Sportsman's Sketches
+
+- short stories about life on feudal estates in Russia
+
+Virgin Soil
+
+- student Nezhdanov and Marianna join revolution but he realizes he is not fitted for it and kills self
+- she marries Solomin who works for democratic Russia
+
 ### Spain
+
+#### Unknown
+
+Poem of the Cid
+
+Roderick
+
+- slain by Moors under Tarik 711
+- hermit makes him do penance in tomb of snakes
+
+#### Jose Ruiz de Alarcon
+
+- born in Mexico
+- hunchback
+
+The Truth Suspected
+
+- liar Don Garcia loses the woman he loves
+
+Proof of the Promises
+
+The Walls Have Ears
+
+#### Vicente Aleixandre
+
+Reviste de Occidente
+
+Ambito
+
+Twenty Poems
+
+A Longing for the Light
 
 #### Fernando Arrabal
 
@@ -1167,9 +1924,62 @@ The Architect and the Emperor of Assyria
     a plane crash onto an island. He places a scarecrow on a throne and
     tells his life story to it.
 
-#### Miguel Cervantes
+##### Pedro Calderon de la Barca
 
-Don Quixote
+El Alcadae de Zalamea
+
+- Pedro Crespo jails army captain Don Alvaro for violating Pedro's daughter
+- commander Don Lope demands his freedom but he is strangled in prison and King Philip II makes Pedro mayor of Zalamea
+
+El magico prodigioso
+
+- Cipriano makes pact with devil to get Justina to love him
+- she doesn't but he converts to Christianity and both are martyred by governor of Antioch
+
+El gran teatro del mundo
+
+- God presents performance but only he is eternal
+
+#### Jacinto Benavente
+
+Bonds of Interest
+
+The Passion Flower
+
+Senora ama
+
+#### Camillo Jose Cela
+
+The Hive
+
+Mrs. Caldwell Speaks to Her Son
+
+#### Miguel de Cervantes
+
+The History of the Valorous and Wittie Knight-errant Don Quixote of the Mancha
+
+- Alonso Quijano reads chivalric romances and changes name to Don Quixote de la Mancho
+- loves Aldonza Lorenzo, renamed Dulcinea del Toboso
+- acquires squire Sancho Panza and horse Rocinante
+- thinks windmills are giants and sheep armies
+
+Exemplariie Novels
+
+The Travels of Persiles and Sigismunda
+
+#### Esteban Echeverria
+
+Elvira
+
+El Matadero
+
+- denounces Juan Manuel de Rosas dictatorship
+
+#### Juan Ramon Jimenez
+
+Platero and I
+
+Diary of a Recently Married Poet
 
 #### Frederico Garcia Lorca
 
@@ -1202,3 +2012,136 @@ Blood Wedding
 - The Bride and Leonardo have escaped on a horse. A bunch of
     woodcutters, the moon and an old beggar woman who represents death
     narrate the scene. The Bridegroom and Leonardo die.
+
+#### Fernando de Rojas
+
+La Celestina
+
+#### Juan Ruiz
+
+Book of Good Love
+
+#### Miguel de Unamuno
+
+El Cristo de Velazquez
+
+Cancionero
+
+#### Lope de Vega
+
+Fuenteovejuna
+
+- townspeople put Com. Fernan Gomez lord of Fuenteovejuna to death for violating peasant Laurencia
+- king pardons village
+
+Peribanez el comendador de Ocana
+
+- governor of Ocana sends Casilda's husband Peribanez away in army and tries to take her but he returns and kills him
+
+El mejor alcalde el rey
+
+- king orders Don Tello to release Elvira to Sancho, but he refuses so is forced to marry her and then be executed so she inherents property
+
+La Dorotea
+
+- prose romance
+- Dorotea based on actress Elena Osorio
+
+### Sweden
+
+#### Verner von Heidenstram
+
+Dikter
+
+Nya Dikter
+
+#### Eyvind Johnson
+
+Novels of Olof
+
+Krilon
+
+- trilogy
+
+Return to Ithaca
+
+#### Erik Axel Karlfeldt
+
+#### Par Lagerkvist
+
+Barabbas
+
+Pilgrim at Sea
+
+The Sybil
+
+The Dwarf
+
+The Hangman
+
+Guest of Reality
+
+#### Selma Lagerlof
+
+Gosta Berlings Saga
+
+- impulsive young man marries divorced Countess Elizabeth
+
+Jerusalem
+
+- stories about Ingmar family and their farm at Ingmarson
+
+#### Harry Martinson
+
+Cape Farewell
+
+The Road
+
+Aniara
+
+#### Carl Spitteler
+
+Olympian Spring
+
+#### August Strindberg
+
+Miss Julie
+
+The Red Room
+
+The Father
+
+### Switzerland
+
+#### J. D. Wyss
+
+The Swiss Family Robinson
+
+- Swiss clergyman, wife, and 4 sons wrecked on a South Sea island
+
+#### Hermann Hesse
+
+Demian
+
+- Max Demian tells young Emil Sinclair about devil-god Abraxas
+
+Siddhartha
+
+- Siddhartha, a Brahmin, searches for ultimate reality in India
+
+Steppenwolf
+
+- Harry Haller is torn between artistic idealism and inhuman reality
+- ends in magical theatre
+
+Magister Ludi: The Glass Bead Game
+
+- Josef Knecht becomes master of 23rd Centure glass bead game in utopian society
+
+### Yugoslavia
+
+#### Ivo Andric
+
+The Bridge on the Drina
+
+- 350 year history of bridge near Visegrad, Bosnia
