@@ -12,7 +12,7 @@ import           Data.Text (Text)
 
 --------------------------------------------------------------------------------
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith (defaultConfiguration {inMemoryCache = False}) $ do
     match "images/*" $ do
         route   idRoute
         compile copyFileCompiler
@@ -28,7 +28,40 @@ main = hakyll $ do
             >>= relativizeUrls
             >>= cleanIndexUrls
 
-    match ("science.md" .||. "literature.md" .||. "arts-humanities.md" .||. "history.md" .||. "**/*.md") $ do
+    match ("science.md" .||. "science/*.md" .||. "science/**/*.md") $ do
+        route  cleanRoute
+        compile $ do
+            underlying <- getUnderlying
+            toc <- getMetadataField underlying "tableOfContents"
+            let writerOptions' = maybe defaultHakyllWriterOptions (const withTOC) toc
+            pandocCompilerWith defaultHakyllReaderOptions writerOptions'
+                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= relativizeUrls 
+                >>= cleanIndexUrls
+
+    match ("literature.md" .||. "literature/*.md" .||. "literature/**/*.md") $ do
+        route  cleanRoute
+        compile $ do
+            underlying <- getUnderlying
+            toc <- getMetadataField underlying "tableOfContents"
+            let writerOptions' = maybe defaultHakyllWriterOptions (const withTOC) toc
+            pandocCompilerWith defaultHakyllReaderOptions writerOptions'
+                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= relativizeUrls 
+                >>= cleanIndexUrls
+
+    match ("arts-humanities.md" .||. "arts-humanities/*.md" .||. "arts-humanities/**/*.md") $ do
+        route  cleanRoute
+        compile $ do
+            underlying <- getUnderlying
+            toc <- getMetadataField underlying "tableOfContents"
+            let writerOptions' = maybe defaultHakyllWriterOptions (const withTOC) toc
+            pandocCompilerWith defaultHakyllReaderOptions writerOptions'
+                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= relativizeUrls 
+                >>= cleanIndexUrls
+                
+    match ("history.md" .||. "history/*.md" .||. "history/**/*.md") $ do
         route  cleanRoute
         compile $ do
             underlying <- getUnderlying
