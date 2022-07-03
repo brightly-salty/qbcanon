@@ -12,6 +12,17 @@ Authors:
 - [Chuang Chou](chou/index.html)
 - [Po Chu-i](chu-i/index.html)
 - [Tu Fu](fu/index.html)
+- [Ts'ao Hsueh-ch'in](hsueh-ch'in/index.html)
+- [Lu Hsun](hsun/index.html)
+- [Lo Kuan-chung](kuan-chung/index.html)
+- [Li Po](po/index.html)
+- [Lao She](she/index.html)
+- [Hu Shih](shih/index.html)
+- [Lao Tzu](tzu/index.html)
+- [Wang Wei](wei/index.html)
+- [Gao Xingjian](xingjian/index.html)
+- [Cao Xueqin](xueqin/index.html)
+- [Ch'u Yuan](yuan/index.html)
 
 ### Unknown Authorship
 
