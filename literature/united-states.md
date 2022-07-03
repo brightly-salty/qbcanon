@@ -167,6 +167,15 @@ Naked Lunch
 - A son is sent to a person of questionable repute and comes back with
     a pound of flesh
 
+### George Washington Cable
+
+Old Creole Days
+
+The Grandissimes: Astory of Creole Live
+
+- Frowenfeld learns of De Grapion vs Grandissimes family feud
+- African king Bras Coupe tortured to death
+
 ### Truman Capote
 
 Other Voices Other Rooms
@@ -246,6 +255,10 @@ Sapphira and the Slave Girl
 The Wapshot Chronical
 
 Falconer
+
+### Kate O'Flaherty Chopin
+
+The Awakening
 
 ### Winston Churchill
 
@@ -468,6 +481,22 @@ A Raisin in the Sun
 
 The Sign in Sidney Brustein's Window
 
+### Joel Chandler Harris
+
+Uncle Remus: His Songs and Sayings
+
+- black servant tells white boy tales involving Brer Rabbit, Brer Fox, Brer Bear, and Tar Baby
+
+### Bret Harte
+
+The Luck of the Roaring Camp
+
+- miners adopt Thomas Luck, son of dying prostitute Cherokee Sal, but he dies in Kentuck's arms in flood
+
+The Outcast of Poker Flat
+
+- gambler John Oakhurst, two prostitutes, and a drunkard sacrifice themselves in a blizzard to save young eloping couple
+
 ### Nathaniel Hawthorne
 
 The Scarlet Letter
@@ -596,6 +625,10 @@ The Weary Blues
 "Rip Van Winkle"
 
 "The Legend of Sleepy Hollow"
+
+### Sarah Orne Jewett
+
+The Country of the Pointed Firs
 
 ### George Kaufman
 
@@ -775,6 +808,10 @@ Death of a Salesman
 - other characters include wife Linda and sons Biff and Happy
 
 All My Sons
+
+### Joaquin Miller
+
+- poems
 
 ### N. Scott Momaday
 
@@ -974,6 +1011,14 @@ Atlas Shrugged
 
 - railroad worker Dagny Taggart finds government-free utopia at Gat's Gulch, Colorado
 
+### James Whitcomb Riley
+
+Little Orphan Annie
+
+The Raggedy Man
+
+- boy admires farm hand
+
 ### Edwin Arlington Robinson
 
 The Town Down the River
@@ -1069,6 +1114,10 @@ The Jungle
 
 The Magician of Lublin
 
+### Francis Hopkinson Smith
+
+Colenel Carter of Cartersville
+
 ### John Steinbeck
 
 The Grapes of Wrath
@@ -1087,7 +1136,11 @@ The Pearl
 
 ### Harriet Beecher Stowe
 
-Uncle Tom's Cabin
+Uncle Tom's Cabin: Life Among the Lowly
+
+- Vermonter plantation owner Simon Legree beats slave Uncle Tom to death
+- Uncle Tom cared for owner Augustine St. Clare's daughter Little Eva
+- others include mulatto Eliza, impish black child Topsy, Miss Ophelia St. Clare, and slave catcher Marks
 
 ### Henry David Thoreau
 
