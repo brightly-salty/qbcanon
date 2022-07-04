@@ -1,7 +1,7 @@
 ---
-title: To Kill
+title: Seymour Hersh
 ---
 
 An [American](../index.html) author.
 
-### To Kill a Mockingbird
+### My Lai 4

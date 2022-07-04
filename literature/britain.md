@@ -2,7 +2,7 @@
 title: British Literature
 ---
 
-This is the homepage for the *British Literature* category.
+This is the homepage for the *British Literature* category, a subcategory of [Literature](../index.html).
 
 Authors:
 

@@ -14,7 +14,7 @@ Natalia and her ward Vera love her son's tutor
 
 ### A Nest of the Gentlefolk
 
-Fyodor Lavretsky's presumed-dead wife returns as he is aabout to marry Liza Kalitina
+Fyodor Lavretsky's presumed-dead wife returns as he is about to marry Liza Kalitina
 
 ### On the Eve
 

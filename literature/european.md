@@ -2,7 +2,7 @@
 title: European Literature
 ---
 
-This is the homepage for the *European Literature* category.
+This is the homepage for the *European Literature* category, a subcategory of [Literature](../index.html).
 
 - [Belgian Literature](../belgium/index.html)
 - [Bulgarian Literature](../bulgaria/index.html)

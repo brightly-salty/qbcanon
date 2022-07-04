@@ -3,7 +3,7 @@ title: Young Reader Literature
 tableOfContents: true
 ---
 
-This is the homepage for the *Young Reader Literature* category.
+This is the homepage for the *Young Reader Literature* category, a subcategory of [Literature](../index.html).
 
 ### William H. Armstrong
 
@@ -118,3 +118,7 @@ The Once and Future King
 Little House on the Prairie (series)
 
 - move from Big Woods Wisconsin to Great Plains
+
+### L. Frank Baum
+
+The Wonderful Wizard of Oz

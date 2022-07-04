@@ -2,7 +2,7 @@
 title: World Literature
 ---
 
-This is the homepage for the *World Literature* category, which includes all literature which is not from the United States nor from Europe.
+This is the homepage for the *World Literature* category, a subcategory of [Literature](../index.html).
 
 - [Argentinian Literature](../argentina/index.html)
 - [Australian Literature](../australia/index.html)

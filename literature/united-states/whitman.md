@@ -6,18 +6,32 @@ An [American](../index.html) author.
 
 ### Leaves of Grass
 
-poetry collection
+poetry collection, including "When Lilacs Last in Dooryard Bloom'd", "O Captain My Captain"
 
 ### "When Lilacs Last in Dooryard Bloom'd"
 
-on Abraham Lincoln's death
+about Abraham Lincoln's death
 
 ### "Song of Myself
 
-"barbaric yawp"
+"a uniform hieroglyphic" grass, "barbaric yawp", "look for me under your bootsoles", "origin of all poems", reading it is "good health"
+
+### Drum-Taps
+
+### Democratic Vistas
+
+alarmed at superficial US
+
+### Specimen Days & Collect
+
+### Crossing Brooklyn Ferry
+
+### "Out of the Cradle Endlessly Rocking"
+
+### Song of the Open Road
 
 ### "Beat, Beat Drums!"
 
 ### "O Captain! My Captain!"
 
-also on Abraham Lincoln's death. uses naval metaphors for the Civil War, with Lincoln as captain of the Union ship
+about Abraham Lincoln's death. uses naval metaphors for the Civil War, with Lincoln as captain of the Union ship

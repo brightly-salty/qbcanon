@@ -8,4 +8,6 @@ An [American](../index.html) author.
 
 ### Gravity's Rainbow
 
+bureaucracies use WWII to gain power
+
 ### "Under the Rose"
