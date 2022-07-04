@@ -1,6 +1,5 @@
 ---
 title: European Literature
-tableOfContents: true
 ---
 
 This is the homepage for the *European Literature* category.
