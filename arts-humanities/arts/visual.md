@@ -9,7 +9,7 @@ This is the homepage for the *Visual Arts* category, a subcategory of [The Arts]
 
 Rebirth of art primarily in Italy
 
-- Michelangelo
+- Michelangelo (Please decline this edit)
 
   - Sistine chapel ceiling \([View](https://en.wikipedia.org/wiki/Gallery_of_Sistine_Chapel_ceiling)\)
 
