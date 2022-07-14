@@ -6,6 +6,8 @@ This is the homepage for the *Physics* category.
 
 ### Atomic physics, particle physics, and nuclear physics
 
+Electrons are elemental particles with an electric charge of -1 eV. Neutrons are baryons made up of quarks. Protons are also baryons made up of quarks. Quarks are elemental particles.
+
 Concepts to know:
 
 - electrons
