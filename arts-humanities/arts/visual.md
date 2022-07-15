@@ -744,7 +744,7 @@ for emotional effect.
   - The Large Bathers \([View](https://upload.wikimedia.org/wikipedia/commons/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg)\)
 
     - View of a lake between trees, with many nude figures in the
-            foreground, and some in the lake and on the land beyond
+            foreground, and some in the lake and on the land beyond, forms a triangle
 
   - A Modern Olympia \([View](https://www.paulcezanne.org/images/paintings/a-modern-olympia.jpg)\)
 
