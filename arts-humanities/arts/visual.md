@@ -1,9 +1,9 @@
 ---
-title: Visual Arts
+title: Visual Fine Arts
 tableOfContents: true
 ---
 
-This is the homepage for the *Visual Arts* category, a subcategory of [The Arts](../index.html).
+This is the homepage for the *Visual Fine Arts* category, a subcategory of [The Arts](../index.html).
 
 ### The Renaissance
 

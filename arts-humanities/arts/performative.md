@@ -1,9 +1,9 @@
 ---
-title: Performative Arts
+title: Performative Fine Arts
 tableOfContents: true
 ---
 
-This is the homepage for the *Performative Arts* category.
+This is the homepage for the *Performative Fine Arts* category, a subcategory of [The Arts](../index.html).
 
 ### Opera (0.2 / 0.2)
 
