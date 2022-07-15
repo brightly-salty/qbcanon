@@ -110,20 +110,32 @@ Taxons to know:
 - Arthropoda
 ### Biochemical pathways and syntheses 
 Central dogma pathways: 
+
 - replication 
 - transcription 
 - translation 
-- Cellular respiration pathways:
+
+Cellular respiration pathways:
+
 - glycolysis 
 - citric acid cycle 
 - oxidative phosphorylation 
-- Photosynthesis pathways:
+
+Photosynthesis pathways:
+
 - Calvin cycle(dark reactions)
 - Z-scheme(light reactions)
 - C4 plants 
 - C3 plants 
 - CAM plants 
 - photorespiration 
+
+Biomolecule classes:
+
+- Lipids 
+- Proteins 
+- Nucleic Acids 
+- Carbohydrates 
 
 
 
