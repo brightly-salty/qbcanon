@@ -84,13 +84,11 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
     - Symphony no 9, Op. 125, used Friedrich Schiller's Ode to Joy
   - Creatures of Prometheus
 
-  - Fidelio
-
-    - Beethoven's only opera, about a woman (Leonore) who
-            disguises herself as a prison guard
   - Pathétique sonata
 
     - Same name as Tchaikovsky's symphony
+
+  - [Opera](../performative/opera/index.html#ludwig-von-beethoven)
 
 - Brahms
 
@@ -133,16 +131,11 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
 - Wagner
 
-  - The Ring Cycle
-
-    - Includes operas Das Rheingold, Die Walküre, Siegfried, and
-            Götterdämmerung
-  - Tristan and Isolde
-
-    - Ends with the "Liebestod"
   - Ride of the Valkyries
 
-    - Part of Die Walkure
+    - Part of Die Walkure, an opera in the Ring Cycle
+
+  - [Operas](../performative/opera/index.html#richard-wagner)
 
 - Mendelssohn
 
@@ -175,6 +168,8 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - Tone poem
 
+  - [Operas](../performative/opera/index.html#richard-strauss)
+
 - Pachelbel
 
   - Canon in D
@@ -193,25 +188,6 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
             Hunt,"and "Pleasure"
   - (nicknamed "the red priest"
 
-- Verdi
-
-  - Aida
-
-    - Opera about egyptian commander Radames's love for the title
-            Ethiopian princess
-  - La Traviata
-
-    - Opera in which Alfredo woos the courtesan Violetta
-  - Il Trovatore
-
-    - Contains the "Anvil" chorus
-  - Rigoletto
-
-    - The title hunchbacked jester realizes his daughter Gilda is
-            dead instead of the Duke of Mantua, who he hears singing "La
-            donna e mobile"
-  - (Shakespeare-inspired operas like Falstaff and Otello)
-
 - Paganini
 
   - 24 Violin Caprices
@@ -227,50 +203,15 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
         skill, which is now sometimes attributed to Ehlers-Danlos
         Syndrome)
 
-- Monteverdi
-
-  - L'Orfeo
-
-    - Opera in which Eurydice fails to return from the underworld
-  - L'Arianna
-
-    - Opera in which Ariadne repeats "let me die"
-  - The Coronation of Poppea
-
-    - Opera in which Drusilla confesses to protect her lover
-            Ottone, who attempted to kill the future wife of Nero
-  - (one of the earliest opera developers)
-
 - Rossini
 
-  - The Barber of Seville
-
-    - Opera in which Count Almaviva disguises as Lindoro and is
-            sung "Largo al factotum,"marriage of Rosina
   - William Tell Overture
 
   - The Thieving Magpie
 
   - Tancredi
 
-- Puccini
-
-  - Tosca
-
-    - Opera in which the title character kills Baron Scarpia and
-            jumps to her death after discovering that her lover Mario
-            was actually executed
-  - Turandot
-
-    - Unfinished opera in which Calaf attempts to solve riddles to
-            marry the title Chinese princess, which includes Ping, Pong,
-            and Pang as ministers
-  - La Boheme
-
-  - Madama Butterfly
-
-    - opera in which Cio-Cio San commits suicide when Pinkerton
-            arrives in Japan
+  - [Operas](../performative/opera/index.html#gioacchino-rossini)
 
 ### Austrian
 
@@ -303,30 +244,13 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
   - Little and Great G Minor Symphonies
 
     - Only two of his in G Minor
-  - The Magic Flute
-
-    - opera with a quest to rescue the daughter of the Queen of
-            Night, Pamina, Tamino passes the necessary trials, includes
-            the aria "Der Holle Rache"
   - Eine Kleine Nachtmusik
 
     - "A little night music"
-  - Don Giovanni
-
-    - opera whose catalog aria shows Leporello describing the
-            title character's lovers to Donna Elvira. Zerlina ties a
-            character to a chair before leaving to find Masetto, and Don
-            Giovannni is dragged to hell by the Commendatore
-  - The Marriage of Figaro
-
-    - opera in which Cherubino hides in a closet before breaking
-            Antonio's flowerpots. Susanna is about to marry the title
-            character
-
-    - Follows Rossini's The Barber of Seville chronologically
   - Requiem Mass
 
     - Uncompleted, as Mozart died while writing it
+  - [Operas](../performative/opera/index.html#wolfgang-amadeus-mozart)
 
 - Johann Strauss II
 
@@ -335,7 +259,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
     - Waltz
   - The Emperor Waltz
 
-  - (known as the "Waltz King"
+  - (known as the "Waltz King")
 
 - Schoenberg
 
@@ -414,26 +338,6 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - "Neptune, the Mystic"
 
-- Gilbert & Sullivan
-
-  - HMS Pinafore
-
-  - Pirates of Penzance
-
-    - "I am the Very Model of a Modern Major General,""all things
-            vegetable, animal, and mineral"
-
-- Purcell
-
-  - The Fairy-Queen
-
-  - Dido and Aeneas
-
-    - Queen of Carthage kills herself and the trojan hero abandons
-            her, the aria "When I am Laid to Earth" is known as Dido's
-            lament
-  - King Arthur
-
 ### Russian/Soviet
 
 - Tchaikovsky
@@ -442,9 +346,6 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - Celebratory piece that uses a cannon, also has "La
             Marseillais" theme that represents the invading French army
-  - Eugène Onegin
-
-    - Opera (shares a name with Pushkin's novel)
   - Pathétique symphony
 
     - Same name as Beethoven Sonatas
@@ -493,10 +394,6 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - About a witch's sabbath
   - Pictures at an Exhibition
-
-  - Boris Gudonov
-
-    - Opera based on Pushkin's play of the same name
 
 - Stravinsky
 
@@ -585,13 +482,6 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
   - Gymnopedies
 
-- Bizet
-
-  - Carmen
-
-    - Toreador Song
-  - The Pearl Fishers
-
 ### American
 
 - Copland
@@ -669,7 +559,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
     - Opening clarinet gliss
   - An American in Paris
 
-  - Porgy and Bess
+  - [Opera](../performative/opera/index.html#george-gershwin)
 
   - (piano player)
 
@@ -745,7 +635,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
     - Associated with Sedalia, MO
   - The Entertainer
 
-  - (known as the "King of Ragtime"
+  - (known as the "King of Ragtime")
 
   - (piano player)
 
@@ -765,30 +655,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
   - Music for West Side Story
 
-  - Candide
-
-    - Operetta not to be confused with Voltaire's book
-
-- Glass
-
-  - Portrait Trilogy
-
-    - Einstein on the Beach, Satyagraha, Akhnaten
-  - Einstein on the Beach
-
-    - 5 "knee plays"
-  - Satyagraha
-
-    - Sung in sanskrit
-
-- Adams
-
-  - Nixon in China
-
-    - Plane called the Spirit of '6
-  - On the Transmigration of Souls
-
-  - The Death of Klinghoffer
+  - [Opera](../performative/opera/index.html#leonard-bernstein)
 
 - Williams, John
 
