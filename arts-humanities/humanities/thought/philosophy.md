@@ -89,7 +89,7 @@ Poetics
 
 The Organon
 
-- a collection of six of Aristotle's works on logic and dialetic
+- a collection of six of Aristotle's works on logic and dialectic
 - contains *Prior Analytics*, where he invented the syllogism, a form of deductive argument
 
 [For more info...](http://plato.stanford.edu/entries/aristotle/)
@@ -119,9 +119,9 @@ On Crimes and Punishments
 
 ### Jeremy Bentham
 
-Founder of modern utilitarianism. It is "greatest happiness of the greatest number that is the measure of right and wrong"
+Founder of modern utilitarianism. It is the "greatest happiness of the greatest number that is the measure of right and wrong"
 
-#### George Berkley
+### George Berkley
 
 Empiricist
 
@@ -248,7 +248,7 @@ Leviathan
 - life in the state of nature is "solitary, poor, nasty, brutish, and short", a "war of all against all"
 - argued for necessity of a strong sovereign
 
-#### David Hume
+### David Hume
 
 An Empiricist philosopher who disbelieved in miracles.
 
