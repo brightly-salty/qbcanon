@@ -22,15 +22,45 @@ Social Choice and Individual Values
 - Arrow's Impossibility Theorem:
 - the criteria of universal admissibility, unanimity, non-dictatorship, and irrelevance of independent alternatives cannot be satisfied by a rank-order voting system
 
+### Robert Barro
+
+Revived Ricardian equivalence, the idea that a change in taxes does not affect consumer behavior
+
+### Ronald Coase
+
+A Nobel-Prize-winning economist.
+
+The Coase Theorem states that, given no transaction costs, bargaining will efficiently deal with the problem of externalities. It allows initial allocation of property rights to be ignored when arriving at mutually beneficial soultions.
+
+The Coase conjecture states that a monopoly cannot sell above marginal cost since consumers will usually wait for the lowest prices.
+
+He used the case of Struges v. Bridgmanto to illustrate how tort damages should be viewed as a bilateral problem.
+
+"The Problem of Social Cost"
+
+- first outlined the Coase Theorem
+
 ### Friedrich Engels
 
 Co-author of the Communist Manifesto. Supported Marx through the profits from his industrial factory.
 
+He labeled hunting and gathering as the last phase of political innocence.
+
 ### Milton Friedman
 
-One of the most influential economists of the last century, he was a conservative economist and a student of the Chicago School of economics. He advocated for laissez-faire government policy. He criticized the Phillips Curve with Edmund Phelps because it did account for the natural rate of unemployment. See Edmund Phelps for Friedman and Phelps' theory on the natural rate of unemployment.
+One of the most influential economists of the last century, he was a conservative economist and a student of the Chicago School of economics.
 
-One of Friedman's central theories is the permanent income hypothesis. According to the permanent income hypothesis, individuals spend money based on their estimate of their expected long-term average income. This is in contrast to Keynesian theory, which views consumption as dependent on after-tax income. There are policy ramifications or the permanent income hypothesis: if it is true, short-term increases in an individual's income will not substantially change their spending habits.
+He advocated for laissez-faire government policy.
+
+He criticized the Phillips Curve with Edmund Phelps because it did account for the natural rate of unemployment. See [Edmund Phelps](#edmund-phelps) for Friedman and Phelps' theory on the natural rate of unemployment.
+
+The Friedman Rule is monetary policy that would set nominal interest rates to zero.
+
+He argued that licensing doctors resulted in the inflation of their incomes.
+
+One of his central theories is the permanent income hypothesis, which followed from his criticism of the Keynesian consumption function. According to the permanent income hypothesis, individuals spend money based on their estimate of their expected long-term average income. This is in contrast to Keynesian theory, which views consumption as dependent on after-tax income. There are policy ramifications or the permanent income hypothesis: if it is true, short-term increases in an individual's income will not substantially change their spending habits.
+
+He worked with Leonard Savage to theorize that the curve of an individual's utility function differs based on their wealth.
 
 Capitalism and Freedom
 
@@ -57,6 +87,25 @@ The Affluent Society
 - "the dependence effect", "the way wants depend on the process by which they are satisfied
 
 The New Industrial State
+
+### Friedrich von Hayek
+
+Austrian-born economist. He won the 1974 Nobel prize in Economics along with Gunnar Myrdal, primarily for his thesis tying central planning to social stagnation.
+
+The Road to Serfdom
+
+- argued that Nazism and Soviet totalitarianism have their origins in socialism
+- "Two Kinds of Security" chapter
+  - distinguished between minimum sustenance and standard of life
+
+The Constitution of Freedom
+
+- appendix "Why I am Not a Conservative"
+
+"On the Use of Knowledge in Society"
+
+- posited a "division of knowledge"
+- noted that price is a mechanism of communicating information
 
 ### John Hicks
 
@@ -124,6 +173,10 @@ An Inquiry into the Nature and Progress of Rent
 - developed the differential theory of rent, contemporaneously with several colleagues including Ricardo
 - rent is a deduction from the surplus
 
+### Stephen Margolis
+
+Network externalities can be broken down into autarky and synchronization.
+
 ### Alfred Marshall
 
 Principles of Economics
@@ -132,10 +185,12 @@ Principles of Economics
 
 ### Karl Marx
 
-Das Kapital
+Das Kapital ("Capital")
 
 - extended the labor theory of value to create a theory of surplus value
+- divided society into the bourgeoisie and the proletariat
 - "Commodity fetishism"
+  - arises when social relationships between people become objectified into a commodity relation
 - later sections organized and published by Engels after Marx's death
 - defended economic materialism
 
@@ -147,6 +202,10 @@ The Communist Manifesto
 - "workers of the world, unite!"
 - outlines the distinctions between the ruling bourgeoisie and the working proletariat
 - explains problems with capitalism
+
+The German Ideology
+
+Theses on Feuerbach
 
 ### Lewis Henry Morgan
 
@@ -166,7 +225,7 @@ Circulation of the Elites
 
 ### Edmund Phelps
 
-With Milton Friedman, he developed the theory of a natural rate of unemployment. The natural rate of unemployment is an equilibrium in the unemployment level. Friedman and Phelps argued that attempts to decrease unemployment beyond the natural rate would cause inflation. The theory challenged the orthodoxy of the Philips Curve: the theoretical negative relationship between inflation and unemployment. Phelps quantified the natural rate of unemployment with his NAIRU model.
+With Milton Friedman, he developed the theory of a natural rate of unemployment. The natural rate of unemployment is an equilibrium in the unemployment level. Friedman and Phelps argued that attempts to decrease unemployment beyond the natural rate would cause inflation. The theory challenged the orthodoxy of the Philips Curve: the theoretical negative relationship between inflation and unemployment. Phelps quantified the natural rate of unemployment with his NAIRU model (Non-Accelerating Inflation Rate of Unemployment).
 
 He was the originator of the Hysteresis hypothesis.
 
@@ -205,13 +264,25 @@ A Scottish economist, founder of the Classical School of economics.
 An inquiry into the nature and causes of the Wealth of Nations
 
 - describes an invisible hand that guides markets
-  - producers and consumers acting in their own narrow interest will create an overall benefit to society
-- critiques mercantilism
+  - producers and consumers acting in self-interest will create an overall benefit to society
+- Book IV, "Of Systems of Political EconomyO
+  - critiques mercantilism and its protectionist tariffs, keeping of large gold reserves, and other tenets of mercantilism
 - monopolies lead to increased prices
 - superiority of industry over agriculture
 - described potato-eaters as stronger and more beautiful than bread-eaters
 - introduced labor theory of value and comparative advantage
-- first chapter uses the pin-making industry to model division of labor
+- first chapter
+  - uses the example of a pin factory to illustrate that  division of labor
+- final chapters
+  - argue for progressive taxation
+- rent is "the highest which the tenant can afford... in the actual circumstances of the land"
+- third section on the "Progress of Opulence"
+  - after explaining the "natural progress of opulence",
+  - claims the fall of the Roman Empire discouraged agriculture in Europe
+- fourth section
+  - describes the motivations behind establishing colonies
+- one section
+  - describes how the working poor have a mental torpor that make them incapable of "rational conversation", "tender sentiment", or "just judgement"
 
 The Theory of Moral Sentiments
 
@@ -223,8 +294,24 @@ Lectures of Jurisprudence
 
 ### Thorstein Veblen
 
+He critiqued Irving Fisher's The Nature of Capital and Income. He is the namesake for Veblen goods, a class of commodities for which price and demand vary directly, such as luxury items. He established a dichotomy between that which is related to tribal legends of the past ("ceremonial") and that which is related to the technological imperative ("instrumental").
+
+"Why is Economics Not an Evolutionary Science"
+
+- argued against the inclusion of economics as an evolutionary science
+- attributed the question to "a difference of spiritual attitude or point of view"
+
 The Theory of the Leisure Class
 
 - "conspicuous consumption": the leisure class spends just to display its wealth
 - likened the ostentation of the rich to the Darwinian proofs of virility found in the animal kingdom (deer antlers or peacock tails, for example)
 - "pecuniary emulation": people pursue social status by acquiring money because they see that high-status people happen to have a lot of money
+- "predation" and "emulation"
+
+Theory of Business Enterprise
+
+- described a conflict between engineers and businessmen, which built on The Theory of the Leisure Class's framework of "predation" and "emulation"
+
+"The Beginnings of Ownership"
+
+- discussed the seizure of women as slaves

@@ -119,7 +119,11 @@ On Crimes and Punishments
 
 ### Jeremy Bentham
 
-Founder of modern utilitarianism. It is the "greatest happiness of the greatest number that is the measure of right and wrong"
+Founder of modern utilitarianism, saying that it is the "greatest happiness of the greatest number that is the measure of right and wrong." He was a lawyer but he became disillusioned with law after hearing the lectures of William Blackstone, whom he thought ignored the social consequences of law. He was a leading proponent of the classical school of criminology and advocated the use of a new type of prison which he called the "panopticon".
+
+Introduction to the Principles of Morals and Legislation
+
+- his legal and social theory
 
 ### George Berkley
 
@@ -132,6 +136,8 @@ A Treatise Concerning the Principles of Human Knowledge
 ### Edmund Burke
 
 Intellectual founder of modern conservatism
+
+He decried the theory of a social contract by claiming that individual rights must arise organically from a particular set of legal and cultural norms
 
 A Vindication of Natural Society
 
@@ -247,10 +253,13 @@ Leviathan
 
 - life in the state of nature is "solitary, poor, nasty, brutish, and short", a "war of all against all"
 - argued for necessity of a strong sovereign
+- identifies the social contract as a method of overcoming the "war of all against all" in the state of nature
 
 ### David Hume
 
 An Empiricist philosopher who disbelieved in miracles.
+
+He criticized the idea of a social contract by demonstrating that governments always derive authority by tradition
 
 An Enquiry Concerning Human Understanding
 
@@ -283,6 +292,7 @@ The Metaphysics ofMorals
 Perpetual Peace
 
 - outlined a world without a war based on constitutional republics
+- proposed a social contract between nations rather than individuals
 
 ### Soren Kierkegaard
 
@@ -302,7 +312,7 @@ Theodicy
 
 ### John Locke
 
-An English Empiricist philosopher.
+An English Empiricist philosopher known for developing social contract theory with Rousseau.
 
 An Essay Concerning Human Understanding
 
@@ -347,6 +357,14 @@ Principles of Political Economy
 Utilitarianism
 
 On Liberty
+
+- states should only use power to stop one person from harming another, in keeping with the "harm principle"
+- rules are needed to curb a "tyranny of the majority"
+- asks whether non-believers are persecuted by a "Mahomedan" (Muslim) country's ban on eating pork
+- one chapter describes "individuality" as "one of the elements of well-being"
+- claims "an Akbar or a Charlemagne" is needed for immature "barbarians" to rise to civility
+- helped introduce Wilhelm von Humboldt's work to English speakers
+- often notes that people assume their own infallibility in making judgements
 
 ### Friedrich Nietzsche
 
@@ -410,6 +428,7 @@ Socratic Dialogues
   - Socrates' alleged defense during his trial
 - Crito
   - Socrates' imprisonment
+  - Socrates claims that he cannot flee Athenian prison because of his consent to Athenian law
 - Phaedo
   - Socrates' death
 - Symposium
@@ -421,13 +440,18 @@ Socratic Dialogues
 
 An ancient Greek philosopher and mathematician, created the Pythagorean theorem. He theorized about the "music of the spheres". He hated beans.
 
-### Jean-Jacques Rosseau
+### John Rawls
+
+Claimed that a social contract requires the existence of a "veil of ignorance"
+
+### Jean-Jacques Rousseau
 
 A political philosopher from Geneva.
 
 The Social Contract
 
 - "Man is born free, and everywhere he is in chains"
+- the social contract is a contract between people and government, which exchanges liberties for protection
 
 ### Bertrand Russell
 
@@ -508,7 +532,21 @@ He was also a civil engineer and a mathematician. He discovered that if a circle
 
 ### Alexis de Tocqueville
 
+A French visitor to 1830s-era United States.
+
 Democracy in America
+
+- researched with Gustave de Beaumont
+- expanded scope beyond the original subject of prison reform
+- contrasted groups of intrigue with those which "cling to principles rather than to their consequences" to define small and great political parties
+- warned that by concentrating power in "an irresponsible person" constitutional democracies could fall prey to "soft despotism"
+- "Present and Probable Future Conditions of the Indian Tribes" (chapter)
+  - "I myself met with the last of the Iroquois, who were begging alms"
+
+The Old Regime and the Revolution
+
+- analyzed France under Louis XVI
+- written late in his career
 
 ### Lao Tzu
 
