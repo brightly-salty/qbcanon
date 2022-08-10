@@ -4,10 +4,6 @@ title: Jean Paul Sartre
 
 A [French](../index.html) author.
 
-### Being and Nothingness
-
-"an essay on phenomenolgical ontology". existentialism
-
 ### Les Temps Modernes
 
 ### Dirty Hands
@@ -36,4 +32,4 @@ Orestes and The Tutor arrive in Argos, which is swarmed by flies after the death
 
 ### No Exit
 
-three characters placed in a room while they wait for their eternal punishment. they talk and slowly realize that this is their torment. "Hell is other people"
+three characters (including the lesbian Ines and the coward Garcin) placed in a room while they wait for their eternal punishment. they talk and slowly realize that this is their torment. "Hell is other people"
