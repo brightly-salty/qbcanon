@@ -6,156 +6,44 @@ This is the homepage for the *Chemistry* category.
 
 There is no content yet in this category. [Contribute some!](/contribute/index.html)
 
-### Elements and groups of elements
+### Resources
 
-Elements to know:
+[Organic Chemistry Portal](https://www.organic-chemistry.org/)
 
-- oxygen
-- mercury
-- boron
-- iron
-- sulfur
-- aluminum
-- carbon
-- chlorine
-- silicon
-- sodium
-- copper
-- gold
-- hydrogen
-- iodine
-- phosphorus
-- titanium
-- zinc
-- helium
-- nickel
-- nitrogen
-- silver
-- uranium
-- lithium
-- magnesium
-- potassium
+[Periodic Videos: All Chemical Elements in Order Playlist](https://www.youtube.com/playlist?list=PL7A1F4CF36C085DE1)
 
-Groups to know:
+Crash Course:
 
-- halogens
-- noble gases
-- transition metals
+- [Chemistry playlist](https://www.youtube.com/watch?v=FSyAehMdpyI&list=PLG61LF8I_OXoh2mhx2YNY9s4ekXiriMAf)
+- [Organic Chemistry playlist](https://www.youtube.com/watch?v=bSMx0NS0XfY&list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4)
 
-### Molecules
+[Spark Notes Chemistry](https://www.sparknotes.com/chemistry/)
 
-Molecules in the canon:
+Khan Academy:
 
-- ether
-- benzene
-- water
-- carbon dioxide
-- ammonia
-- acetic acid
-- ozone
-- sulfuric acid
-- carboxylic acid
-- carbon monoxide
-- ethanol
-- hydrochloric acid
-- hydrogen peroxide
-- hydrogen gas
-- methane
+- [Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
+- [Organic chemistry](https://www.google.com/url?q=https://www.khanacademy.org/science/organic-chemistry&sa=D&source=docs&ust=1660173743625261&usg=AOvVaw3NJmOkBlSTeqH3z_Yoay5K)
+- [Chemical processes](https://www.khanacademy.org/test-prep/mcat/chemical-processes)
 
-### Concepts
+[Ninja Nerd Organic Chemistry playlist](https://www.youtube.com/playlist?list=PLnuxM19-GHCXTy0Xy5iicwdXtjUWFyUpM) (courtesy of Anna Csiki-Fejer)
 
-Concepts in the canon:
+[Organic Chemistry Supplemental Modules textbook](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry))
 
-- chromatography
-- polymers
-- electronegativity
-- buffer
-- distillation
-- hydrogen bond
-- diffusion
-- entropy
-- equilibrium constant
-- Gibbs free energy
-- crystal
-- free radicals
-- Nernst equation
-- titration
-- volume
-- alcohol
-- enthalpy
-- ideal gases
-- oxidation
-- pH
-- bases
-- colloids
-- combustion
-- electrons
-- heat capacity
-- Lavoisier
-- van der Waals Equation
-- activation energy
-- catalysts
-- electrolysis
-- John Dalton
-- mass spectrometry
-- nuclear magnetic dissonance
-- rate constant
-- aldehyde
-- alkenes
-- alkynes
-- amines
-- Avogadro's number
-- boiling point
-- chirality
-- covalent bond
-- cyclic
-- enzymes
-- esters
-- Le Chatelier's principle
-- Linus Pauling
-- nuclear fusion
-- p orbital
-- phase diagram
-- pressure
-- reduction
-- Arrhenius
-- temperature
-- tetrahedral
-- vapor pressure
-- atomic radius
-- Avogadro
-- Beer's law
-- boiling
-- critical point
-- crystallography
-- density
-- dissolution
-- double bonds
-- electron microscopy
-- energy
-- filtration
-- flourescence
-- Fritz Haber
-- fullerenes
-- Hess's law
-- Ideal Gas law
-- intermolecular forces
-- ionization energy
-- isomerism
-- van't Hoff
-- Gibbs
-- K
-- kinetic theory of gases
-- logarithm
-- melting point
-- osmosis
-- oxidation states
-- polarity
-- Raoult's Law
-- rings
-- semiconductor
-- solubility
-- solvents
-- spectrophotometry
-- spectroscopy
-- surface tensiion
+[Materials Chemistry articles](https://www.compoundchem.com/category/materials-chemistry/)
+
+[SCOP Study Sheet on Acids and Bases](http://scop-qb.org/download/http://scop-qb.org/wp-content/uploads/Acids-and-Bases-Cheat-Sheet.pdf)
+
+NAQT You Gotta Know...
+
+- [These Chemical Elements](https://www.naqt.com/you-gotta-know/chemical-elements.html)
+- [These Chemistry Lab Techniques](https://www.naqt.com/you-gotta-know/chemistry-lab-techniques.html)
+
+[Stanford Culture Guide](https://ai.stanford.edu/~csewell/culture/chemistry.htm)
+
+Qwiz5:
+
+- [Benzene](https://www.qwizbowl.com/post/qwiz5-quizbowl-benzene)
+- [The Ideal Gas Law](https://www.qwizbowl.com/post/qwiz5-quizbowl-idealgas)
+- [The Haber Process](https://www.qwizbowl.com/post/qwiz5-quizbowl-haber)
+- [Ethers](https://www.qwizbowl.com/post/qwiz5-quizbowl-ethers)
+- [The Nernst Equation](https://www.qwizbowl.com/post/qwiz5-quizbowl-nernst)
