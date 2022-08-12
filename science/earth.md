@@ -25,17 +25,17 @@ Crash Course:
 
 [SCOP Study Sheet of Mountains and Volcanoes](http://scop-qb.org/download/http://scop-qb.org/wp-content/uploads/Mountain-and-Volcano-Earth-Science-Cheat-Sheet.pdf)
 
-NAQT You Gotta Know These...
+NAQT You Gotta Know...
 
-- [Active Volcanoes](https://www.naqt.com/you-gotta-know/active-volcanoes.html)
-- [Geologic Time Periods](https://www.naqt.com/you-gotta-know/geologic-time-periods.html)
-- [Rocks and Minerals](https://www.naqt.com/you-gotta-know/rocks-and-minerals.html)
-- [African Bodies of Water](https://www.naqt.com/you-gotta-know/african-bodies-of-water.html)
-- [Asian Rivers](https://www.naqt.com/you-gotta-know/asian-rivers.html)
-- [Deserts](https://www.naqt.com/you-gotta-know/deserts.html)
-- [Mountains](https://www.naqt.com/you-gotta-know/mountains.html)
-- [North American Rivers](https://www.naqt.com/you-gotta-know/north-american-rivers.html)
-- [Western European Rivers](https://www.naqt.com/you-gotta-know/western-european-rivers.html)
+- [These Active Volcanoes](https://www.naqt.com/you-gotta-know/active-volcanoes.html)
+- [These Geologic Time Periods](https://www.naqt.com/you-gotta-know/geologic-time-periods.html)
+- [These Rocks and Minerals](https://www.naqt.com/you-gotta-know/rocks-and-minerals.html)
+- [These African Bodies of Water](https://www.naqt.com/you-gotta-know/african-bodies-of-water.html)
+- [These Asian Rivers](https://www.naqt.com/you-gotta-know/asian-rivers.html)
+- [These Deserts](https://www.naqt.com/you-gotta-know/deserts.html)
+- [These Mountains](https://www.naqt.com/you-gotta-know/mountains.html)
+- [These North American Rivers](https://www.naqt.com/you-gotta-know/north-american-rivers.html)
+- [These Western European Rivers](https://www.naqt.com/you-gotta-know/western-european-rivers.html)
 
 [Stanford Culture Guide](https://ai.stanford.edu/~csewell/culture/geology.htm)
 
