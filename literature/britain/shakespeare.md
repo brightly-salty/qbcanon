@@ -27,3 +27,7 @@ A [British](../index.html) author.
 ### Twelfth Night
 
 ### The Taming of the Shrew
+
+### As You Like It
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-asyoulikeit)

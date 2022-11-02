@@ -47,3 +47,4 @@ Qwiz5:
 - [The Haber Process](https://www.qwizbowl.com/post/qwiz5-quizbowl-haber)
 - [Ethers](https://www.qwizbowl.com/post/qwiz5-quizbowl-ethers)
 - [The Nernst Equation](https://www.qwizbowl.com/post/qwiz5-quizbowl-nernst)
+- [Quartz](https://www.qwizbowl.com/post/qwiz5-quizbowl-quartz)

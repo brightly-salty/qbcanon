@@ -4,6 +4,10 @@ title: William Faulkner
 
 An [American](../index.html) author.
 
+### The Sound and the Fury
+
+There are 4 sections narrated by the Compson family: Benjy. Harvard student Quentin, whose ties with sister Caddy shattered by her loveless marriage. Jason, who keeps money Caddy sends to support daughter Quentin. black cook Dilsey
+
 ### Soldiers' Pay
 
 ### The Reivers
@@ -11,10 +15,6 @@ An [American](../index.html) author.
 ### Sanctuary
 
 Popeye rapes Temple Drake with corn cob and takes her to a Memphis brothel, but she protest him and testifies against Lee Goodwin, defended by Horace Benbow, and Goodwin is lynched
-
-### The Sound and the Fury
-
-4 sections narrated by Compson family: Benjy. Harvard student Quentin, whose ties with sister Caddy shattered by her loveless marriage. Jason, who keeps money Caddy sends to support daughter Quentin. black cook Dilsey
 
 ### The Hamlet - The Town - The Mansion trilogy
 

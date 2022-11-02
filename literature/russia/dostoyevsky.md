@@ -4,6 +4,8 @@ title: Fyodor Dostoyevsky
 
 A [Russian](../index.html) author.
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-dostoevsky)
+
 ### Crime and Punishment
 
 St. Petersburg: Raskolnikov murders old pawnbroker and her sister. his motives are proven false by his conscience. turns to prostitute Sonya Marmeladovna, who convinces him to confess to policeman Porfiry Petrovich. Raskolnikov and Sonya go to Siberia

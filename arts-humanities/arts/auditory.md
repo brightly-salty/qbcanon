@@ -42,6 +42,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - "Hallelujah" chorus, "and he shall reign forever and ever"
   - The Harmonious Blacksmith
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-handel)
 
 - Schubert
 
@@ -319,6 +320,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - Title fisherman is accused of killing his apprentices
   - War Requiem
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-britten)
 
 - Holst
 
@@ -394,6 +396,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 
     - About a witch's sabbath
   - Pictures at an Exhibition
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-mussorgsky)
 
 - Stravinsky
 
@@ -436,6 +439,7 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
 - Berlioz
 
   - Symphonie Fantastique
+    - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-symphoniefantastique)
 
   - The Damnation of Faust
 
@@ -460,6 +464,8 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
   - Daphnis et Chloe
 
   - Gaspard de la Nuit
+
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-ravel)
 
 - Debussy
 
@@ -777,3 +783,4 @@ This is the homepage for the *Auditory Fine Arts* category, a subcategory of [Th
             Hiawatha, a famous cor anglais solo was adapted into the
             song "Goin'Home"
   - Slavonic Dances
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-dvorak)

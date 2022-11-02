@@ -26,4 +26,5 @@ This is the homepage for the *World Literature* category, a subcategory of [Lite
 - [Nigerian Literature](../nigeria/index.html)
 - [Peruvian Literature](../peru/index.html)
 - [South African Literature](../south-africa/index.html)
+- [St. Lucian Literature](../st-lucia/index.html)
 - [Turkic Literature](../turkey/index.html)

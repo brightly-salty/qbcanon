@@ -83,6 +83,7 @@ Rebirth of art primarily in Italy
 
     - Pregnant woman in green dress, "Van Eyck was here" above the
             mirror
+    - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/quizbowl-qwiz5-arnolfini)
 
   - The Ghent Altarpiece \([View](https://upload.wikimedia.org/wikipedia/commons/8/8c/Lamgods_open.jpg)\)
 
@@ -338,6 +339,7 @@ Based on extreme emotional scenes, prized the feeling of the art over the realis
         Saturn Devouring his Son
 
   - "Disasters of War" series
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-goya)
 
 - Turner
 
@@ -365,6 +367,8 @@ Based on extreme emotional scenes, prized the feeling of the art over the realis
 
     - Depicts a scene of many dying on a raft from a voyage off
             the coast of Mauritania
+    
+    - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-raftofthemedusa)
 
   - The Charging Chasseur \([View](https://upload.wikimedia.org/wikipedia/commons/7/7e/GericaultHorseman.jpg)\)
 
@@ -710,6 +714,7 @@ Subsect of impressionism that used small dots to make a full image
             stare at viewer, woman in foreground has a both a dog and a
             monkey on leashes, four men in white rowing a boat in the
             background
+    - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-seurat)
 
 ### Post-Impressionism
 
@@ -853,6 +858,8 @@ Mostly German, based on extreme emotional experiences rather than literal images
 ### Cubism
 
 Showing objects from numerous vantage points at once, breaking perspective, pre-dated by Cézanne
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-cubism)
 
 - Picasso
 
@@ -1233,6 +1240,7 @@ Wanted to explore the unconscious mind through self induced psychosis and dream 
 
     - Shows a man in front of a mirror which reflects the back of
             his head, but a book is reflected correctly
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-magritte)
 
 - Ernst
 
@@ -1443,6 +1451,7 @@ Generally post-modern with a nice amount of conceptual works
 
     - Usonian homes are L-shaped, and Wright coined the term
             "carport"
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-flw)
 
 - Mies van der Rohe
 
@@ -1468,6 +1477,7 @@ Generally post-modern with a nice amount of conceptual works
     - Located in Cleveland, OH
 
   - (died in 2019)
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-pei)
 
 - Wren
 
@@ -1602,6 +1612,7 @@ Generally post-modern with a nice amount of conceptual works
   - Sleeping Muse
 
     - Bronze cast of a sleeping female head
+  - [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-brancusi)
 
 ### Photographers
 

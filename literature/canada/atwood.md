@@ -4,6 +4,10 @@ title: Margaret Atwood
 
 A [Canadian](../index.html) author.
 
+### The Handmaid's Tale
+
+Offred, a handmaid, narrates this novel. Offred sleeps with the chauffeur Nick and plays Scrabble with Serena Joy's husband, "The Commander". Aunt Lydia leads the Red Center. Ofglen hangs herself before the Eyes of God can come after her. The Latin phrase "nōlīte tē bastardēs carborundōrum." is featured.
+
 ### The Circle Game
 
 ### The Edible Woman
@@ -16,7 +20,6 @@ A [Canadian](../index.html) author.
 
 ### Dancing Girls
 
-### The Handmaid's Tale
 
 ### The Blind Assassin
 

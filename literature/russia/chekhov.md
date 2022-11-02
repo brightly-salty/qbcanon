@@ -2,23 +2,27 @@
 title: Anton Chekhov
 ---
 
-A [Russian](../index.html) author.
+A [Russian](../index.html) author. His namesake gun is used to argue that if a gun is seen on the mantle, then it must go off at some point. He told dramatists to "remove everything that has no relevance to the story" in his works on dramatic theory.
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-chekhov)
 
 ### The Seagull
 
-writer Konstantin Trepliov loves actress Nina Zarechnaya. his play is a failure and she takes interest in writer Trigorin, lover of Trepliov's mom Irinia Arkadina. Trepliov kills seagull and places it at Nina's fee. Trigorin becomes good writer and Nina is cast away by Trigorin. Trepliov kills self
+The writer Konstantin Trepliov loves actress Nina Zarechnaya. His play is a failure and she takes interest in the writer Trigorin, the lover of Trepliov's mom Irinia Arkadina. Konstantin Trepliov kills a seagull to impress Nina and places it at Nina's feet. Trigorin becomes a good writer and Nina is cast away by Trigorin. Trepliov kills himself.
 
 ### The Cherry Orchard
 
-Ranevsky family estate sold at auction to Lopakhin who buils houses on it
+Ranevsky family estate is sold at auction to Lopakhin who builds houses on it.
+
+Madame Ranevskaya allows the destruction of the cherry orchard, their family estate.
 
 ### Uncle Vanya: Scenes from Country Life in Four Acts
 
-Ivan Voinitsky [Uncle Vanya] manages estate of brother-in-law Professor Aleksandr Serebyakov, who he learns is somewhat a fraud. Vanya loves Serebryakov's second wife Elena Andreyevna. Serebryakov agrees not to sell the estate Vanya has worked so hard for after he tries to shoot him
+Ivan Voinitsky [Uncle Vanya] manages the estate of brother-in-law Professor Aleksandr Serebyakov, who he learns is somewhat a fraud. Vanya loves Serebryakov's second wife Elena Andreyevna. Serebryakov agrees not to sell the estate Vanya has worked so hard for after he tries to shoot him.
 
 ### Three Sisters
 
-Andrey Prozorov wants to be professor but wife Natalya Ivanova becomes despotic. sister Masha marries schoolmaster Kulygin but has affair with officer Vershinin, who moves away. youngest sister Irina marries officer Baron Tuzenbakh who is killed in a duel. other sister is Oldga. all want to go to Moscow
+Andrey Prozorov wants to be professor but wife Natalya Ivanova becomes despotic. The sister Masha marries the schoolmaster Kulygin but has an affair with the officer Vershinin, who moves away. The youngest sister Irina marries the officer Baron Tuzenbakh who is killed in a duel. The other sister is Oldga. They all want to go to Moscow.
 
 ### The Lady with the Dog
 

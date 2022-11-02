@@ -52,6 +52,8 @@ Zuni Mythology
 
 - doctoral dissertation
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-ruthbenedict)
+
 [For more info...](http://vcencyclopedia.vassar.edu/alumni/ruth-benedict.html)
 
 ### Franz Boas
@@ -70,6 +72,8 @@ The Mind of Primitive Man
 
 - 1911
 - describes a gift-giving ceremony known as the "potlatch"
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-boas)
 
 [For more info...](https://www.magazine.columbia.edu/article/genius-work-how-franz-boas-created-field-cultural-anthropology)
 
@@ -119,6 +123,8 @@ The Elementary Forms of Religious Life
 - uses the rituals of the Aborigine people of Australia as an example
 - argues that religion developed from totemism when the items became sacred which then led to a conception of God
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-durkheim)
+
 ### Norbert Elias
 
 Drew on Marcel Mauss's theory of the "technique of the body" to explain the concept of habitus
@@ -146,6 +152,7 @@ The Golden Bough: A Study in Magic and Religion
 - somewhere
   - Rex Nemorensis, ritual in which the king's successor ritually slays upon ascension
   - connected to the more general concept of a dying and returning king, labeled as the "King of the Wood" ceremony, which is present in both pagan mythology and Christian traditions
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-goldenbough)
 
 [For more info...](https://www.giffordlectures.org/lecturers/james-george-frazer)
 
@@ -280,6 +287,8 @@ Male and Female
 Blackberry Winter
 
 - her autobiography
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-mead)
 
 [For more info...](https://www.britannica.com/biography/Margaret-Mead)
 

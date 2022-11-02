@@ -76,6 +76,8 @@ A Monetary History of the United States, 1867-1960
 - claimed the Great Depression resulted from the Federal Reserve's monetary policies
 - advocated for monetarism, a revised quantity theory of money, which states that the government can ensure economic stability by regulating the amount of money in circulation
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-friedman)
+
 ### John Galbraith
 
 He was a Canadian-American liberal economist. He was the ambassador to India in the Kennedy administration. He emphasized public service and limitations of the marketplace.
@@ -145,6 +147,8 @@ Tract on Monetary Reform
 
 - supported the Cambridge cash-balance theory of money
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-keynes)
+
 ### Thomas Malthus
 
 An English economist noted for his pessimism. He was a major influence on successors like John Maynard Keynes.
@@ -172,6 +176,8 @@ An Inquiry into the Nature and Progress of Rent
 
 - developed the differential theory of rent, contemporaneously with several colleagues including Ricardo
 - rent is a deduction from the surplus
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-malthus)
 
 ### Stephen Margolis
 
@@ -202,6 +208,7 @@ The Communist Manifesto
 - "workers of the world, unite!"
 - outlines the distinctions between the ruling bourgeoisie and the working proletariat
 - explains problems with capitalism
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-communistmanifesto)
 
 The German Ideology
 
@@ -291,6 +298,8 @@ The Theory of Moral Sentiments
 - developed theoretical basis for sympathy based on Hume
 
 Lectures of Jurisprudence
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-ricardo)
 
 ### Thorstein Veblen
 

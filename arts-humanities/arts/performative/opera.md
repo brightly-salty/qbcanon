@@ -45,6 +45,7 @@ Candide
 Carmen
 
 - Toreador Song
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-carmen)
 
 Les pecheurs de perles
 
@@ -61,6 +62,8 @@ Albert Herring
 Peter Grimes
 
 The Turn of the Screw
+
+[See Qwiz5's article for more information]
 
 ### Gaetano Donizetti
 
@@ -153,6 +156,7 @@ Le nozze di Figaro
 - Cherubino hides in a closet before breaking
   Antonio's flowerpots. Susanna is about to marry the title
   character
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-figaro)
 
 Don Giovannni
 
@@ -167,6 +171,7 @@ Die Zauberflote
 - opera with a quest to rescue the daughter of the Queen of
   Night, Pamina, Tamino passes the necessary trials, includes
   the aria "Der Holle Rache"
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-magicflute)
 
 Cosi fan tutte
 
@@ -177,6 +182,8 @@ Cosi fan tutte
 Boris Godunov
 
 - operatic version of Pushkin's play of the same name
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-mussorgsky)
 
 ### Jacques Offenbach
 
@@ -204,6 +211,7 @@ Turandot
 - Unfinished opera in which Calaf attempts to solve riddles to
   marry the title Chinese princess, which includes Ping, Pong,
   and Pang as ministers
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-turandot)
 
 Tosca
 
@@ -285,6 +293,7 @@ Aida
 
 - about Egyptian commander Radames's love for the title
   Ethiopian princess
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-aida)
 
 Rigoletto
 

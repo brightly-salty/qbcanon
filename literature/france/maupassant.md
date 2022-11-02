@@ -2,9 +2,23 @@
 title: Guy de Maupassant
 ---
 
-A [French](../index.html) author.
+A [French](../index.html) author of many short stories.
 
-### The Necklace
+### "The Necklace"
+
+Madame Forestier lets the protagonist borrow the necklace to wear at a ball.
+
+### "The Ball of Fat"
+
+The protagonist, the "ball of fat" (*boule de suif*) shares a picnic basket with her companions in a stage coat. Cornudet whistles Le Marseillase as she weeps at the end.
+
+### "Madamoiselle Fifi"
+
+Villagers suggest that a church bell is bewitched because it rings at random times.
+
+### "Le Horla"
+
+A young man is haunted by "Le Horla", a vampire-like creature after waving at a Brazilian ship.
 
 ### The Umbrella
 

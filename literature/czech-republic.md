@@ -8,4 +8,5 @@ Authors:
 
 - [Karl Capek](capek/index.html)
 - [Franz Kafka](kafka/index.html)
+- [Milan Kundera](kundera/index.html)
 - [Jaroslav Seifert](seifert/index.html)

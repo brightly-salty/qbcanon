@@ -478,6 +478,8 @@ Attempt to Introduce the Concept of Negative Magnitudes into Philosophy
 
 The Only Possible Ground for Demonstration of the Existence of God
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-kant)
+
 ### Soren Kierkegaard
 
 A Danish existentialist philosopher.
@@ -496,6 +498,8 @@ Fear and Trembling
 
 - asks "Is there an Absolute Duty to God?" wrt Abraham's willingness to sacrifice Isaac
 - dread is worse than fear because dread has no object and reflects the emptiness of the self
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-kierkegaard)
 
 ### Gottfried Wilhelm von Leibniz
 

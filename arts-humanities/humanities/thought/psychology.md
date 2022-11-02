@@ -155,6 +155,8 @@ Civilization and its Discontents
 - chronicled the conflict between individuality and society's demand for conformity
 - claims that civilization can only exist by frustrating individual drives
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-freud)
+
 ### Isadore From
 
 Contributed to the creation of a theory of gestalt psychology
@@ -193,6 +195,8 @@ Answer to Job
 The Seven Sermons to the Dead
 
 - interest in Gnosticism and mysticism apparent
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-qwizbowl-jung)
 
 ### Lawrence Kohlberg
 
@@ -287,6 +291,8 @@ Pavlov's dogs
 - Produced the sound of metronome (not bell) and then presented food to the dogs
 - Dogs were trained to salivate whenever they heard the metronome/bell
 - "Conditional reflex"
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-conditioning)
 
 ### Jean Piaget
 
@@ -407,6 +413,7 @@ Stanford Prison Experiment
 - Stopped after six days instead of two weeks when Christina Maslach raised ethical objections, sadism of the guards and growing depression in the prisoners
 - "John Wayne"
 - Many aspects questioned/disputed
+- [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-stanfordprison)
 
 The Lucifer Effect
 

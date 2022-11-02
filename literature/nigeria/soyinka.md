@@ -4,6 +4,8 @@ title: Wole Soyinka
 
 A [Nigerian](../index.html) author.
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-soyinka)
+
 ### The Swamp Dwellers
 
 ### A Play of Giants

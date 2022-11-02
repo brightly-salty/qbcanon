@@ -4,6 +4,8 @@ title: Naguib Mahfouz
 
 A [Egyptian](../index.html) author.
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-mahfouz)
+
 ### The Children of Gebelawi
 
 ### The Cairo Trilogy

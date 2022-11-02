@@ -10,7 +10,7 @@ Max Demian tells young Emil Sinclair about devil-god Abraxas
 
 ### Siddhartha
 
-Siddhartha, a Brahmin, searches for ultimate reality in India
+Siddhartha, a Brahmin, searches for ultimate reality in India. Siddhartha is instructed in the at of love by Kamala, who dies by a snakebite.
 
 ### Steppenwolf
 

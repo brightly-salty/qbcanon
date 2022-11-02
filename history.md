@@ -86,6 +86,7 @@ NAQT You Gotta Know...
 - [These Mexican leaders](https://www.naqt.com/you-gotta-know/mexican-leaders.html)
 - [These modern speeches](https://www.naqt.com/you-gotta-know/modern-speeches.html)
 - [These Napoleonic battles](https://www.naqt.com/you-gotta-know/napoleonic-battles.html)
+- [These people from the French Revolution](https://www.naqt.com/you-gotta-know/people-from-the-french-revolution.html)
 - [These peoples of the early Middle Ages](https://www.naqt.com/you-gotta-know/peoples-of-the-early-middle-ages.html)
 - [These popes](https://www.naqt.com/you-gotta-know/popes.html)
 - [presidential inaugurations](https://www.naqt.com/you-gotta-know/presidential-inaugurations.html)
@@ -101,11 +102,14 @@ NAQT You Gotta Know...
 - [These Supreme Court cases (part 2)](https://www.naqt.com/you-gotta-know/supreme-court-cases-2.html)
 - [These Supreme Court cases concerned with African-Americans](https://www.naqt.com/you-gotta-know/supreme-court-cases-concerned-with-african-americans.html)
 - [These treaties](https://www.naqt.com/you-gotta-know/treaties.html)
+- [These vice presidents who never became president](https://www.naqt.com/you-gotta-know/vice-presidents-who-never-became-president.html)
 - [These World War II battles](https://www.naqt.com/you-gotta-know/world-war-ii-battles.html)
 - [These world's fairs](https://www.naqt.com/you-gotta-know/worlds-fairs.html)
 
 Qwiz5:
 
+- [Maurice Ravel](https://www.qwizbowl.com/post/qwiz5-quizbowl-ravel)
+- [Charlemagne](https://www.qwizbowl.com/post/qwiz5-quizbowl-charlemagne)
 - [The Iroquois Confederacy](https://www.qwizbowl.com/post/qwiz5-quizbowl-iroquois)
 - [Gideon v. Wainwright](https://www.qwizbowl.com/post/qwiz5-quizbowl-gideon)
 - [The Missouri Compromise](https://www.qwizbowl.com/post/qwiz5-quizbowl-missouri-compromise)

@@ -4,7 +4,17 @@ title: Federico Garcia Lorca
 
 A [Spanish](../index.html) author.
 
-### Lament for the Death of a Bullfighter
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-garcialorca)
+
+### "Lament for the Death of a Bullfighter"
+
+Includes sections about "The Spilled Blood" and "The Laid-Out Body", repeating lines like "I don't want to see it!" and "at five in the afternoon."
+
+### The House of Bernada Alba
+
+A play in which only women have speaking roles. Ends with Adela hanging herself after her lover is shot by Bernada Alba, an overbearing matriarch.
+
+### Gypsy Ballads
 
 ### The Death of Tony Camborio
 

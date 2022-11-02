@@ -16,6 +16,8 @@ A horrible doctor dies. The colonel promised to give him a good burial. The bana
 
 Recounts seven generations of Buendias family, which founded isolated Macondo [based on Aracataca].
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-100years)
+
 ### The Man with Enormous Butterfly Wings
 
 ### Chronicle of a Death Foretold

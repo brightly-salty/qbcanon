@@ -6,15 +6,21 @@ An [American](../index.html) author.
 
 ### A Streetcar Named Desire
 
-New Orleans: faded belle Blanche DuBois comes to live with her sister Stella and Stella's husband Stanley Kowalski, who warns a friend not to marry Blanche and then rapes her. streetcars named Desire and Cemetary run on same track
+Blanche DuBois and Stanley Kowalski represent Williams's two visions of the South: declining "old romantic" vs the harsh modern era. Blanche is a Southern belle who lost the family estate, and is forced to move into her sister Stella's New Orleans apartment. Stella's husband Stanley is rough around the edges, but sees through Blanche's artifice. He ruins Blanche's chance to marry his friend Mitch by revealing to Mitch that Blanche was a prostitute. Then, after Blanche confronts Stanley, he rapes her, driving her into sanity.
+
+The drama was developed into a movie, marking the breakthrough performance of method actor Marlon Brando.
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-blanchedubois)
 
 ### The Glass Menagerie
 
-St. Louis: Tom Wingfield narrates. mother Amanda asks Tom to bring a gentleman caller for crippled sister Laura, who has withdrawn to private universe of her glass animals. Laura temporarily emerges into real world when the horn of the glass unicorn breaks
+ Partly based on Williams’ own family, the drama is narrated by Tom Wingfield, who supports his mother Amanda and his crippled sister Laura (who takes refuge from reality in her glass animals). At Amanda’s insistence, Tom brings his friend Jim O’Connor to the house as a "gentleman caller" for Laura. While O’Connor is there, the horn on Laura’s glass unicorn breaks, bringing her into reality, until O’Connor tells the family that he is already engaged. Laura returns to her fantasy world, while Tom abandons the family after fighting with Amanda.
+
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-glassmenagerie)
 
 ### Cat on a Hot Tin Roof
 
-Big Daddy Pollitt is dying of cancer on Mississippi Delta. son Gooper wants inheritance. other son Brick accuses his wife Maggie of causing his friend's death. Maggie says she is pregnant to help Brick get inheritance
+Centers on a fight between two sons, Gooper and Brick, over the estate of their father "Big Daddy" Pollitt, who is dying of cancer. After his friend Skipper dies, ex-football star Brick turns to alcohol and will not have sex with his wife Maggie (“the cat”). Yet Maggie announces to Big Daddy that she is pregnant in an attempt to force a reconciliation with - and win the inheritance for - Brick.
 
 ### Night of the Iguana
 

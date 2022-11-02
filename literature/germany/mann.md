@@ -4,9 +4,11 @@ title: Thomas Mann
 
 A [German](../index.html) author.
 
+[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-mann)
+
 ### Death in Venice
 
-aging writer Gustav von Aschenbach gases on beauty of 14-year-old Tadzio. choleric epidemic hits Venice
+The aging gay writer Gustav von Aschenbach (a stand-in for Thomas Mann) gazes on the beauty of the 14-year-old Polish boy Tadzio. A choleric epidemic hits Venice, and Gustav dies after ignoring it and eating overripe strawberries.
 
 ### Buddenbrooks
 
@@ -18,7 +20,7 @@ Charlotte Buff visits Geothe
 
 ### Doctor Faustus
 
-collapse of composer Adrian Leverkuhn parallels German collapse in WWII, narrated by Serenus Zeitblom
+The collapse of the composer Adrian Leverkuhn parallels German collapse in WWII, narrated by Serenus Zeitblom. Adrian Leverkuhn purposefully contracted syphilis to become a mad genius.
 
 ### Mario and the Magician
 
@@ -26,7 +28,7 @@ waiter Mario shoots magician Cippla who humiliated him in trance
 
 ### Joseph and His Brothers
 
-4-novel Bildungroman based on Joseph in Genesis
+4-novel Bildungroman retelling Geneses from Jacob to Joseph. Thomas Mann thought this was his greatest work.
 
 ### Tonio Kroger
 

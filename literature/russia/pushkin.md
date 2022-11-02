@@ -6,6 +6,8 @@ A [Russian](../index.html) author.
 
 ### Eugene Onegin
 
+A verse novel
+
 ### Boris Godunov
 
 1598-1605 Russia: Czar Boris Godunov kills Dmitry, the crown prince
