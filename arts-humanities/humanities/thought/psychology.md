@@ -245,12 +245,12 @@ A Yale psychologist who performed a number of interesting experiments. He coined
 Shock/Obedience experiment
 
 - After Nazi Adolf Eichmann's high-profile trial
-  - Claimed that the Nazis carrying out the Holocaust did it because they were merely “following orders”
+  - Claimed that the Nazis carrying out the Holocaust did it because they were merely "following orders"
 - At Yale University
 - Tested obedience to authority
-- Ordered “teachers” to test the memories of “learners” an punish them for wrong answers
+- Ordered "teachers" to test the memories of "learners" an punish them for wrong answers
 - Punished with increasingly intense electric shocks to test the teachers' willingness to inflict pain under orders
-- Learners screamed in pain and pleaded with them to stop, experimenter said “please continue”
+- Learners screamed in pain and pleaded with them to stop, experimenter said "please continue"
 - Over 60% of teachers administered shocks so powerful they would have killed the learner if real
 - Used to describe the behavior that occurred at Abu Ghraib prison (like Zimbardo's Stanford Prison Experiment)
 
@@ -259,7 +259,7 @@ Small World experiment
 - Mailed a number of people in Nebraska and Kansas a package, and asked them to send it to a target in Boston
 - If they knew the target directly, they could send it directly to the target. If not, they were to send it to an acquaintance most likely to directly know the target.
 - Of the packages that did make it to Boston, they typically did so in five or six steps
-- Led to the coining of the phrase “six degrees of separation”
+- Led to the coining of the phrase "six degrees of separation"
 - Important early study of social networks
 - "Lost letter" experiment
 - Left around letters addressed to hospitals and Nazis an waited to see which got delivered
@@ -287,7 +287,7 @@ A physiologist who originally studied the digestive tracks of dogs (Novel Prize 
 Pavlov's dogs
 
 - First to study the ways in which unconditioned and neutral stimuli could be linked together through repetition to produce a conditioned response
-- Noticed his dogs began to salivate as soon as they saw the lab assistant who normally fed them - “psychic secretion”
+- Noticed his dogs began to salivate as soon as they saw the lab assistant who normally fed them - "psychic secretion"
 - Produced the sound of metronome (not bell) and then presented food to the dogs
 - Dogs were trained to salivate whenever they heard the metronome/bell
 - "Conditional reflex"

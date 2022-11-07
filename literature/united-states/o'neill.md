@@ -16,7 +16,7 @@ Really a trilogy, consisting of "Homecoming", "The Hunted", and "The Haunted". T
 
 ### The Iceman Cometh
 
- A portrait of drunkenness and hopeless dreams. Regular patrons of the End of the Line Café anticipate the annual arrival of Theodore "Hickey" Hickman, but in 1912 he returns to them sober. After the patrons reveal their "pipe dreams," Hickey implores them to give up those dreams and lead productive lives. The "Iceman" is supposed to represent the “death” found in reality.
+ A portrait of drunkenness and hopeless dreams. Regular patrons of the End of the Line Café anticipate the annual arrival of Theodore "Hickey" Hickman, but in 1912 he returns to them sober. After the patrons reveal their "pipe dreams," Hickey implores them to give up those dreams and lead productive lives. The "Iceman" is supposed to represent the "death" found in reality.
 
 ### Ah, Wilderness
 
