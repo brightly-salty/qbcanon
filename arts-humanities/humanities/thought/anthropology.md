@@ -13,31 +13,36 @@ Some general resources:
 
 ### Ruth Benedict
 
-1887-1948. An anthropologist who was a colleague and friend of Margaret Mead. She was a student of Alfred Kroeber
+1887-1948. An anthropologist who was a colleague and mentor of Margaret Mead. She was a student of Alfred Kroeber. She was snubbed in replacing her mentor, Franz Boas, at Columbia.
 
 Patterns of Culture
 
-- studied the Zuni (New Mexico), Dobu (New Guinea), and Kwaikiutl (Vancouver Island) cultures, which came partly from Boas' fieldwork
-- Culture is "personality writ large"
+- studied the Zuni (New Mexico), Dobu (New Guinea), and Kwaikiutl (Vancouver Island) cultures, which came partly from her mentor Boas' fieldwork
+- culture is "personality writ large" (a riff on Durkheims definition of God as "society writ large")
+- culture is the shared beliefs and eperiences of a people
+- used the analogy of a cup used to drink from "the river of life"
 - promoted cultural relativism
-- contrasted Native American cultures through Nietzsche's terms
+- contrasted Native American cultures through Nietzsche's opposites of "Apollonian" and "Dionysian"
+  - described how worshippers of Apollo emphasize order
 - used information collected by Reo Fortune
 - begins with "Science of Custom"
 
 The Chrysnathenum and the Sword
 
-- requested by the U. S. government
+- requested by the U. S. government while Benedict was consulting for the Offices of War information
 - contrasts World War II-era Japanese and American cultures
 - claims America is a "guilt culture" while Japan is a "shame culture"
 - Described freedom and indulgence in Japan as a U shape, maximized for babies and the old
 - claimed the Japanese consider themselves "debtors to the ages and to the world", owing everything to parents, friends, and employers
 - Benedict was not actually able to visit Japan because of travel restrictions
   - therefore used war propaganda, the diaries of captured soldiers, newspaper clippings, literature, film, and the work of John Embriee
-  - therefore problematic
+  - "anthropology ata distance"
 - chapters
   - "The Dilemma of Virtue"
   - "Repaying One Ten-Thousandth", virtue begins when the process of gratitude becomes active
   - "The Child Learns", discusses the practice of shaking a baby's head and hands to put it through the "motion of manners"
+- held to have shaped American opinions about Japan, but sold just 28,000 copies between 1946 and 1971
+- went back on the best-seller listts when it was translated by the Taiwanese anthropologist Huang Dao-Ling
 
 Zuni Mythology
 
@@ -46,36 +51,68 @@ Zuni Mythology
 "The Races of Mankind"
 
 - with Gene Weltfish
-- an attempt to dispel racism
+- an attempt to dispel racism/counteract racial tension
+- cartoon-illustrated pamphlet
+- opens with "The World is Shrinking" section
+  - opens by describing the "delegates of a hundred nations" at the UN
+- prescribes freedom from fear as a cure for prejudice
+- argued that the size of the brain from biometric head measuring has nothing to do with intelligence, insisting that every race had an equal potential for intelligence
 
 "The Concept of the Guardian Spirit in North America"
 
 - doctoral dissertation
+- the effects of the concept of the guardian spirit were specific to certain tribes
 
-[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-ruthbenedict)
+For more information, see
 
-[For more info...](http://vcencyclopedia.vassar.edu/alumni/ruth-benedict.html)
+- [Qwiz5 article on Benedict](https://www.qwizbowl.com/post/qwiz5-quizbowl-ruthbenedict)
+- [NYT article on Benedict](https://www.nytimes.com/2003/07/19/arts/experts-can-help-rebuild-a-country.html)
+- [VCU's Social Welfare History Project article on controversy around The Races of Mankind](https://socialwelfare.library.vcu.edu/issues/discrimination/influence-controversy-races-mankind-brotherhood-man/)
+- [Vassar Encyclopedia's distinguished alumni biography of Benedict](http://vcencyclopedia.vassar.edu/alumni/ruth-benedict.html)
 
 ### Franz Boas
 
-1858-1942. The father of modern and/or American anthropology. He was the first professor of anthropology at Columbia and taught a lot of famous people in the field: Ruth Benedict, Margaret Mead, Alfred Koeber, Zora Neal Hurston etc. He conducted fieldwork on the Inuits of Baffin Island and the Kwaikiutl (now referred to as Kwakwaka'wakw) on Vancouver Island.
+1858-1942. The father of modern and/or American anthropology. He was the first professor of anthropology at Columbia and taught a lot of famous people in the field: Ruth Benedict, Margaret Mead, Alfred Koeber, Zora Neal Hurston, etc. He conducted fieldwork on the Inuits of Baffin Island and the Kwaikiutl (now referred to as Kwakwaka'wakw) on Vancouver Island.
+
+Franz Boas created the four-field approach, dividing anthropology into archaeology, linguistics, physical anthropology, and cultural anthropology ("stones", "tones", "bones", and "thrones"), because Boas believed cultures are too complex to be studied from a singular perspective.
+
+Franz Boas's display of the Northwest Coast Indian Hall at the American Museum of Natural History reflects his philosophy of organizing artifacts by cultural area.
+
+At the Chicago World's Fair, Boas made a model village for fourteen Kwakiutl from British Columbia.
+
+Boas claimed that "if the willingness of man to suffer should disappear", then man would too.
+
+Boas organized the Jessup North Pacific Expedition, sponsored by industrialist Morris Jesup, that investigated the peoples of the North Pacific for the American Museum of Natural History.
+
+Boas traveled to Baffin Island to investigate the impact of the physical environment on native Inuit migrations. Boas erroneously claimed that the Inuit have an unusually high number of words for types of snow.
+
+In the last chapter ("The Race Problem in Modern Society") of one Boas work, Boas decries "attempts to impress one pattern of thought upon whole nations".
+
+In a book that questions the conception of the white race as culturally and physically superior, Boas dismissed concerns about racial purity as "imaginary" in a discussion of miscegenation.
+
+In Boas' fieldwork on the Kwaikiutl people of Vancouver Island, he broke with Lewis Henry Morgan's theory of kinship. He concluded that human activity and thought must be understood in terms of the culture that originated them.
 
 The Central Eskimo
 
 - from his fieldwork on the Inuits of Baffin Island
 
-Fieldwork on the Kwaikiutl/Kwakwaka'wakw on Vancouver Island
-
-- broke with Henry Lewis Morgan's theory of kinship
-
 The Mind of Primitive Man
 
 - 1911
-- describes a gift-giving ceremony known as the "potlatch"
+- describes a gift-giving ceremony/ceremony for the distribution of property known as the "potlatch"
+- reproduced studies on the skull shapes of immigants and their children
+- promotes Boas' idea of methodological cultural relativism
+- attacked scientific racism
+- in the last chapter, "The Race Problem in Modern Society""
 
-[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-boas)
+For more information, see
 
-[For more info...](https://www.magazine.columbia.edu/article/genius-work-how-franz-boas-created-field-cultural-anthropology)
+- [Qwiz5 article on Boas](https://www.qwizbowl.com/post/qwiz5-quizbowl-boas)
+- [For more info...](https://www.magazine.columbia.edu/article/genius-work-how-franz-boas-created-field-cultural-anthropology)
+
+### Matti Bunzl
+
+Franz Boas and the Humboldtian Tradition
 
 ### Auguste Comte
 
@@ -83,47 +120,118 @@ The founder of positivism and sociology. He argued that society develops through
 
 ### Emile Durkheim
 
-He was a French sociologist in the Positivist tradition, a student of Auguste Comte. He wanted to make sociology its own superior field of independent study because he believed that societies cannot be reduced to component parts. He created the concept of "collective effervescence" which is communities coming together and sharing thoughts and actions.
+He was a French sociologist in the Positivist tradition, a student of Auguste Comte. He founded the journal L'annee sociologique He wanted to make sociology its own superior field of independent study because he believed that societies cannot be reduced to component parts. He created the concept of "collective effervescence" which is communities coming together and sharing thoughts and actions.
+
+He debated Jacques Doleris on sex education, drawing on his theory that incest taboos came from primitive beliefs about the power of menstrual blood.
 
 A central concept of Emile Durkheim's was *anomie*, which is a condition of social disintegration. *Anomie* is a state in which rules have lost authority and occurs when a society is in a state of drastic change; older societal norms fade and are not immediately replaced by new ones. In this state of normlessness, members of society are left confused and feeling outcast.
 
-On the Normality of Crime
-
-- says Socrates' independence of thought rendered a service to humanity
-
 The Division of Labor in Society
 
-- his doctoral dissertation
+- his doctoral dissertation, first major work
 - explores the transition from primitive societies to industrial ones
-- says primitive societies exhibit "mechanical solidarity"
+  - the "dynamic density" of a group is the level of socialization within it
+  - greater dynamic density is produced by an increase in population per area and degree of social interaction
+  - greater dynamic density precipitates a move from organic solidarity to mechanical solidarity
+- "primitive" homogenous societies exhibit "mechanical solidarity"
   - a cohesion between individuals based on their similarities, whether that be through kinship, familial ties, or religion
-- says modern industrial societies exhibit "organic solidarity"
+  - people socialize through, and social order is preseved by, homogeneity of lifestyle and work
+- modern industrial societies exhibit "organic solidarity"
   - individuals are tied together by the interdependence caused by the division of labor
+  - people socialize through and social order is preserved by workspaces
+  - allows individualism to persist in complex societies
+- distinguished between repressive law and restitutive law
+  - in repressive law, crimes are punished by the communnity
+  - in restitutive law, crimes are punished by the courts
+  - used the Twelve Tables, the Hebrew Torah, and the laws of Christian Europe to argue that civilization's laws have moved from being repressive to restitutive
+- urbanization weakened the power of guilds and increased the geographic span of political and economic institutions
+- the "collective conscience" is the mass of knowledge and beliefs of average members of a society
+- crime
+  - crime was a normal part of "primitive" society in which people share a collective conscience
+  - crime offends the states of the collective conscience
+  - the punishment of crime attempts to maintain mechanical solidarity
+  - crime "is only an anticipation of future morality - a step torward what will be"
 
 Rules of the Sociological Method
 
 - stressed the importance of having a specific object of study
 - the object of study for sociology is "social facts"
-- social facts are either normal (observed in majority of individuals) or pathological (observed in minority of individuals)
-- social facts are imposed on an individual from an outside source rather than the individual's own conscience.
+- social facts
+  - either normal (observed in majority of individuals) or pathological (observed in minority of individuals)
+  - states of the collective mind"
+  - consist of "manners of acting, thinking, and feeling eternal to the individual"
+  - certain actions, objects, and beliefs (external characteristics) that gain "facticity" and become coercive forces on individuals
+  - imposed on an individual from an outside source rather than the individual's own conscience
+- emphasized that sociologists should "treat social facts as things"
+- sociology must be brought into line as much as possible with the natural sciences by avoiding bias
+- advocated a rigorously scientific approach
 
 Suicide
 
 - he studies suicide as a social fact
+- helped standardize the sociological method
 - observes that suicide is more prevalent among Protestants than Catholics and higher in peacetime than in wartime
 - he divides the rationales for suicide into four categories
   - egoistic = individual does not feel fully integrated into society, "excessive individuation"
   - altruistic = individual's needs are subordinated to the needs of society, normlessness
-  - anomic = individual has a lack of certainty and a sense of moral confusion about one's place in society
+  - anomie = individual has a lack of certainty and a sense of moral confusion about one's place in society
   - fatalistic = society is so excessively regulated that an individual would rather die than live in it
+- other thinkers noticed a lack of the "question of art" in Suicide, which inspired Bataille and Derrida to note the "problem of the exxcess"
+- concluded that Tarde's law of imitation did not sufficiently explain suicide
+- deviance is a natural part of any society
 
 The Elementary Forms of Religious Life
 
-- explores religion as a social phenomenon
-- uses the rituals of the Aborigine people of Australia as an example
+- explores religion sui generis, as a social phenomenon
+- defines religion as beliefs and practices about the sacred, which creates a dichotomy of sacred and profane
+- religion is the interrelation of sacred things
+- uses the rituals and totemism of the Aborigine people of Australia as an example
 - argues that religion developed from totemism when the items became sacred which then led to a conception of God
+- in totemism, groups of people project the image of society on an object
+- concluded that society annd the god that it worships are functionally equivalent
+- defined God as "society writ large"
+- distinguished between "beliefs", states of opinions, and "rites", determined modes of action
+- theorizes that religion was a so-called "primordial matri" for culture, with collective representations
+- beliefs should be evaluated according to the four criteria of volume, intensity, rigidity, and content
+- examined the "collective effervescence" inherennt to communal behaviors that separated the sacred from everyday life
+- identified the security of collective belief
 
-[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-durkheim)
+On the Normality of Crime
+
+- says Socrates' independence of thought rendered a service to humanity
+- tiny trangressions would amount to deviance in a "society of saints"
+- crime is normal
+- functionalist argument that crime must eist in order to strengthenn thical norms
+- crime is a social fact
+
+Who Wanted War?
+
+- in collaboration with Ernest Denis
+- analysis of the causes of World War I
+
+Primitive Classification
+
+- with Marcel Mauss
+- described how the classification off things reflects social classifications
+
+Germany Above All
+
+- described the German mentality which led to World War I
+
+For more information, see...
+
+- [Qwiz5 article on Durkheim](https://www.qwizbowl.com/post/qwiz5-quizbowl-durkheim)
+- [ThoughtCo article on social deviance](https://www.thoughtco.com/structural-strain-theory-3026632)
+- [ThoughtCo article on Durkheim's legacy on sociology](https://www.thoughtco.com/emile-durkheim-relevance-to-sociology-today-3026482)
+- [Resilience Science article on critics of Durkhim](https://rs.resalliance.org/2014/02/25/classics-of-social-science-2-emile-durkheim)
+- [Alt Shift X video on Durkheim's mechanical and organical solidarity](https://www.youtube.com/watch?v=XGargZd9KkQ)
+- [Crash Course Sociology video on Durkheim, suicide, and society](https://www.youtube.com/watch?v=IZfGGF-YYzY)
+- Open Yale Courses' Foundations of Modern Social Theory
+  - [lecture on Durkheim and Types of Social Solidarity](https://oyc.yale.edu/sociology/socy-151/lecture-22)
+  - [lecture on Durkheim's Theory of Anomie](https://oyc.yale.edu/sociology/socy-151/lecture-23)
+  - [lecture on Durkheim on Suicide](https://oyc.yale.edu/sociology/socy-151/lecture-24)
+  - [lecture on Durkheim and Social Facts](https://oyc.yale.edu/sociology/socy-151/lecture-25)
+- [UvA Social Sciences video playlist on Durkheim](https://youtube.com/playlist?list=PLdqh3iVhzW1RP4qhVmDOEFLPUt8SUNZsu)
 
 ### Norbert Elias
 
@@ -181,6 +289,10 @@ In the Shadow of Man
 - chimpanzees can use tools, insert grass into termite holes to "fish" for termites
 
 [For more info...](http://www.janegoodall.org.uk/jane-goodall/biography)
+
+### Marvin Harris
+
+Claimed that Franz Boas practiced "historical particularism" in opposition to contemporary theories of cultural evolution.
 
 ### Thor Heyerdahl
 
