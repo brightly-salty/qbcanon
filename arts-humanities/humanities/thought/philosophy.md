@@ -338,6 +338,14 @@ Madness and Civilization
 
 "What is an Author?"
 
+### Betty Friedan
+
+The Second Sex
+
+- chapter "The Functional Freeze, the Feminine Protest, and Margaret Mead"
+  - argued that Mead went "a step beyond Freud" in highlighting that women are "unique human beings"
+  - criticized Mead's emphasis on gender essentialism
+
 ### George Wilhelm Friedrich Hegel
 
 German idealist Enlightenment philosopher
@@ -558,6 +566,8 @@ A British Utilitarian philosopher and economist.
 He rejected Kant's "intuitionism" in favor of empirical observation in one work.
 
 He noted that it was "better to be Socrates dissatisfied than a fool satisfied" in arguing for the superiority of intellectual pleasures, like reading Wordsworth, over physical pleasures.
+
+He wrote that one could distinguish between "good" and "bad" versions of Auguste Comte in response to System of Positive Polity.
 
 Essays on Some Unsettled Questions of Political Economy
 
