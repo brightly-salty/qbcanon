@@ -19,6 +19,12 @@ He was a Scholastic philosopher/theologian. He had a famous love affair with Hel
 
 Sic et Non
 
+### Theodor Adorno
+
+Against Epistemology
+
+- posited that Sigmund Freud and Edmund Husserl were "philosophical opposites"
+
 ### St. Anselm of Canterbury
 
 He was the founder of Scholasticism. He created the ontological argument for God's existence in his book
@@ -255,6 +261,16 @@ Analects
 
 [For more info...](http://plato.stanford.edu/entries/confucius/)
 
+### Gilles Deleuze
+
+Capitalism and Schizophrenia
+
+- with Guattari
+- critiqued Freud's writings on the memoris of Judge Schreber
+- "The Holy Family"
+  - one of Freud's theories is critiqued for its "familialism"
+- one of Freud's theories is critiqued as "theater" in favor of the "factory" model of desiring-production
+
 ### Democritus
 
 A Greek philosopher who is partly credited with the creation of the atomic theory (aka atomism). He was a student of Leucippus, who also gets some credit.
@@ -342,9 +358,24 @@ Madness and Civilization
 
 The Second Sex
 
+- 1963
 - chapter "The Functional Freeze, the Feminine Protest, and Margaret Mead"
   - argued that Mead went "a step beyond Freud" in highlighting that women are "unique human beings"
   - criticized Mead's emphasis on gender essentialism
+- attacked Freud's views that women were "a strange, inferior, less-than-human species"
+
+### Carlo Ginzburg
+
+"Morelli, Freud, and Sherlock Holmes: Clues and Scientific Method"
+
+- the use of "medical semantics" connected the art historian Giovanni Morelli, Sherlock Holmes, and Sigmund Freud
+
+### Adolf Grunbaum
+
+The Foundations of Psychoanalysis
+
+- calls psychoanalysis pseudo-scientific
+- blasts Popper's critique of Freud since Freud's claims are in fact falsifiable
 
 ### George Wilhelm Friedrich Hegel
 
@@ -907,6 +938,14 @@ The Old Regime and the Revolution
 
 - analyzed France under Louis XVI
 - written late in his career
+
+### Lionel Trilling
+
+The Liberal Imagination
+
+- "Freud and Literature"
+  - Freud's theories "naturalize poetry"
+  - describes Freud's theories as a culmination of Romantic literature
 
 ### Lao Tzu
 

@@ -190,6 +190,39 @@ For more information, see
 
 Franz Boas and the Humboldtian Tradition
 
+### Joseph Campbell
+
+Campbell popularized Adolf Bastian's theory of ethinc variations called "folk ideas" and universial "elementary ideas".
+
+In one work, Campbell used the image of a four-year old claiming that a burnt match is a witch to illustrate the play-acting nature of "primitive religion"
+
+Campbell filmed a PBS documentary with journalist Bill Moyers at George Lucas' Skywalker Ranch.
+
+A four-part work by Campbell concludes with a volume titled after the "creative" form of the central concept,which progresses through stages like "the way of the seeded earth" and the "way of the celestial lights".
+
+In the last of a series of six interviews, Campbell distinguished between Maslow's peak experiences and Joyce's aesthetic epiphanies as part of a larger discussion about God and the idea of eternity.
+
+The Hero with a Thousand Faces
+
+- cites Jung's theory of archetypes
+- developed the concept of the "monomyth"
+- the Hero's Journey
+  - exemplified by the journey in the Odyssey, also Cu Chulainn and Perseus
+  - name is derived from a passage in Finnegan's Wake
+  - 17-stage process, circle cut into two uneven parts
+  - "separation - iniation - return"
+  - "call to adventure"
+  - "refusal of the call"
+  - "crossing the threshold"
+  - "road of trials"
+  - "ultimate boon"
+
+The Masks of God
+
+With Henry Robinson, Campbell analyzed The Skin of our Teeth as an appropriation from Finnegan's Wake.
+
+Campbell used the phrase "Master of Two Worlds" to describe transcendental figures like Gautama and Jesus.
+
 ### Georges Canguilhelm
 
 The Normal and the Pathological
@@ -254,6 +287,12 @@ The Subjective Synthesis
 
 - with Walter Powell
 - titled for Weber's phrase "the iron cage"
+
+### Alan Dundes
+
+Sacred Narrative
+
+- argued that Joseph Campbell, "like most universalists [is] content to merely assert universality rather than bother to document it"
 
 ### Emile Durkheim
 
@@ -373,6 +412,10 @@ For more information, see...
 ### Norbert Elias
 
 Drew on Marcel Mauss's theory of the "technique of the body" to explain the concept of habitus
+
+### Dian Fossey
+
+A primatologist
 
 ### James George Frazer
 
@@ -518,6 +561,27 @@ For more information, see...
 
 - [this biography of Goodall on her website](http://www.janegoodall.org.uk/jane-goodall/biography)
 
+### Jurgen Habermas
+
+The Structural Transformation of the Public Sphere
+
+- discusses the emergence of the modern social welfare state
+- about the growth of a "literary" public sphere out of the "bourgeiois" public sphere
+
+The Theory of Communicative Action
+
+- the goal of communicative action is mutual understanding
+- challenged Max Weber's definition of rationalization
+- defines aesthetic, therapeutic, and explicative discourse
+
+Knowledge and Human Interest
+
+- claimed Freud's "scientific misunderstanding" tried to free humans from the causality of the natural world
+
+Legitimation Crisis
+
+- the elite keep power in capitalism by providing the public with "goodies"
+
 ### Marvin Harris
 
 American anthropologist.
@@ -571,6 +635,41 @@ The Gift: Creativity and the Artist in the Modern World
 ### Steven Kahlberg
 
 Agued that Max Weber actually had four definitions of one key concept.
+
+### Jomo Kenyatta
+
+The first president of Kenya, he was advised by Bronislaw Malinowski. He abandoned his Christian name, "Johnstone", after publishing Facing Mount Kenya.
+
+Kenyatta was expelled from the local Church of Scotland by Jon Arthur for alleged dishonest while talking about "irau" among the Kikuyu.
+
+Kenyatta demanded but never received a co-authorship for a Lilias Armstrong phonetics book based on his voice recordings.
+
+Facing Mount Kenya
+
+- introduction written by Bronislaw Malinowski
+- cover is Kenyatta holding a spear whiled dressed in skin
+- ethnography of the Kikuyu
+- defended traditional circumcision rites for men and women
+
+### Charle King
+
+Gods of the Upper Air
+
+- opens with a description of Margaret Mead on the Sonoma steamship
+
+### James Laidlaw
+
+Criticized Mauss's The Gift using the example of a Jainist religious practice.
+
+### Edmund Leach
+
+Leach was taught by Bronislaw Malinowski.
+
+Leach wrote a popular introduction to Claude Levi-Strauss.
+
+In the 1976 Radcliffe-Brown Lecture Series in Social Anthropology, Learch criticized Radcliffe-Brown's attempts to construct a "natural science of society", and suggested that a seashell metaphor used by Radcliffe-Brown in correspondance with a colleague was taken from D'Arcy Thompson's On Growth and Form.
+
+Political systems of highland Burma
 
 ### Claude Levi-Strauss
 
@@ -655,41 +754,6 @@ The Jealous Potter
 
 - discussed the Jivaro
 - referred to those living on Bansk Islands when discussing the "illusion" of the jealous potter
-
-### Jomo Kenyatta
-
-The first president of Kenya, he was advised by Bronislaw Malinowski. He abandoned his Christian name, "Johnstone", after publishing Facing Mount Kenya.
-
-Kenyatta was expelled from the local Church of Scotland by Jon Arthur for alleged dishonest while talking about "irau" among the Kikuyu.
-
-Kenyatta demanded but never received a co-authorship for a Lilias Armstrong phonetics book based on his voice recordings.
-
-Facing Mount Kenya
-
-- introduction written by Bronislaw Malinowski
-- cover is Kenyatta holding a spear whiled dressed in skin
-- ethnography of the Kikuyu
-- defended traditional circumcision rites for men and women
-
-### Charle King
-
-Gods of the Upper Air
-
-- opens with a description of Margaret Mead on the Sonoma steamship
-
-### James Laidlaw
-
-Criticized Mauss's The Gift using the example of a Jainist religious practice.
-
-### Edmund Leach
-
-Leach was taught by Bronislaw Malinowski.
-
-Leach wrote a popular introduction to Claude Levi-Strauss.
-
-In the 1976 Radcliffe-Brown Lecture Series in Social Anthropology, Learch criticized Radcliffe-Brown's attempts to construct a "natural science of society", and suggested that a seashell metaphor used by Radcliffe-Brown in correspondance with a colleague was taken from D'Arcy Thompson's On Growth and Form.
-
-Political systems of highland Burma
 
 ### Niklas Luhman
 
@@ -880,7 +944,11 @@ Merton's thesis on the origin of experimental science was inspired by Weber's wo
 
 ### Wilbert Moore
 
-Along with Kingsley Davis, both students of Talcott Parsons, created the theory of role allocation by expanding Parsons' education theories about people finding the appropriate job in society
+Along with Kingsley Davis, both students of Talcott Parsons, created the theory of role allocation by expanding Parsons' education theories about people finding the appropriate job in society.
+
+### Lewis Henry Morgan
+
+Ancient Society
 
 ### Martin Orans
 
@@ -964,11 +1032,15 @@ For more information, see...
 
 - [this Australain Dictionary of Biography article on Radcliffe-Brown](http://adb.anu.edu.au/biography/radcliffe-brown-alfred-reginald-8146)
 
-### Paul Riocoeur
+### Paul Ricoeur
 
 The Conflict of Interpretations
 
 - critiques Claude Levi-Strauss, discussing his concepts of diachrony and syncrhony
+
+Freud and Philosophy
+
+- calls Freud a "master of suspicion", along with Marx and Nietzsche
 
 ### George Ritzer
 

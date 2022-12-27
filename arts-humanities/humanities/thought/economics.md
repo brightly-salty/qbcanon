@@ -15,52 +15,177 @@ Some general resources:
 
 ### Kenneth Arrow
 
-Investigated the problems caused by asymmetric information in markets
+An American welfare economist that investigated the problems caused by asymmetric information in markets
+
+Arrow replaced differential calculus with convex set methods in his proofs of the first and second welfare theorems.
+
+In an article outlining Arrow's "learning by doing" growth model, Arrow cited improved efficiency of airframe production and the Horndal iron works.
+
+Arrow-Pratt securities are state-contingent claims which pay out a unit of commodity at a given date if state s is realized. Arrow-Pratt securities are used in analysis of security markets. They helped define measures of risk aversion.
+
+Arrow analyzed land development under uncertainty with Claude Henry and Anthony Fisher.
+
+Robert Lind's work with Arrow proved that under certain conditions, risky public projects should be evaluated solely on their expected net benefit since the social cost of the risk tends to zero.
+
+Along with Chenery, Arrow introduced a special case production function that applies when the substitution effect is continually elastic.
 
 Social Choice and Individual Values
 
-- Arrow's Impossibility Theorem:
-- the criteria of universal admissibility, unanimity, non-dictatorship, and irrelevance of independent alternatives cannot be satisfied by a rank-order voting system
+- Arrow Impossibility Theorem
+  - the criteria of universal admissibility, unanimity, non-dictatorship, and irrelevance of independent alternatives cannot be satisfied by a rank-order voting system
+  - an intransitive social preference could not be derived from a set of transitive preferences
+  - implies that a preference ranking cannot be perfectly converted into a ranked voting system
+  - showed the difficulty of a democratic social welfare function
+  - extended by the Duggan-Schwartz theorem to a set of results
+  - generalized by the Gibbard-Satterthwaite theorem
+
+The Limits of Organization
+
+- with Gerard Debreu
+- proved the existence of a competitive equilibrium, the Arrow-Debreu economy, which is crucial for General Equilibrium Theory (GET)
+- applied a fixed point theorem to prove that, if all agents have strictly convex preferences and endowments are strictly positive, there exists a competitive equilibrium
+- also with Lionel McKenzie?
+
+"Uncertainty and the Welfare Economics of Medical Care"
+
+- argued lack of information and moral hazard made health care especially prone to market failure
+- stated that the economic complexities of medical care can be explained as "adaptations" to ucertainty in disease prevalence and efficacy of treatment
+- concluded that "the laissez-faire solution for medicin is intolerable"
+
+Essays in the Theory of Risk-Bearing
+
+- describes the fundamental paradox that exists in the determination of demand for information
 
 ### Robert Barro
 
 Revived Ricardian equivalence, the idea that a change in taxes does not affect consumer behavior
 
+### Peter Boettke
+
+In a recent book on Hayek, Boettke emphasizes the role of the division of knowledge as part of his attempt to justify a cosmopolitan liberalism for the 21st century.
+
+### Guido Calabresi
+
+Wrote an article setting forth similar thoughts about liability rules in automobile accidents. It was published a few weeks after Coase's "The Problem Illustrated Anew"
+
 ### Ronald Coase
 
-A Nobel-Prize-winning economist.
-
-The Coase Theorem states that, given no transaction costs, bargaining will efficiently deal with the problem of externalities. It allows initial allocation of property rights to be ignored when arriving at mutually beneficial soultions.
-
-The Coase conjecture states that a monopoly cannot sell above marginal cost since consumers will usually wait for the lowest prices.
-
-He used the case of Struges v. Bridgmanto to illustrate how tort damages should be viewed as a bilateral problem.
+A Nobel-Prize-winning Chicago-school economist. Coase and fellow professor James Buchanan were allegedly forced out of UVA because of their conservative politics.
 
 "The Problem of Social Cost"
 
 - first outlined the Coase Theorem
+  - given no transaction costs, bargaining will efficiently deal with the problem of externalities
+  - allows initial allocation of property rights to be ignored when arriving at mutually beneficial soultions
+  - the efficiency of a company is independent of whether the party who created those externalities is liable for their costs
+  - often exemplified by considering a train whose sparks damage crops in a farm
+  - contradicted Pigou's theory about the role of the government in the economy
+  - posited that agents can internalize externalities through negotiation
+  - in the absence of transaction costs, any distribution of property rights leads to optimal resourec allocation
+  - named by George Stigler
+- used an example from Sturges v. Bridgman
+- noted that a cattle rancher who damages a farmer's land will privately work out the most economically efficient recompense in the absence of transaction costs
+
+"The Problem Illustrated Anew"
+
+- redevelops the Coase Theorem
+- also used an example from Struges v. Bridgman in which a confectioner's mortars and pestles caused vibrations that prevented a doctor from using a stethoscope to examine patients
+  - to illustrate how tort damages should be viewed as a bilateral problem
+- published a few weeks before a Guido Calabresi article setting forth similar thoughts about liability rules in automobile accidents
+
+"The Nature of the Firm"
+
+- develops the Coase conjecture
+  - monopoly cannot sell above marginal cost since consumers will usually wait for the lowest prices
+- discussed the interplay between monopolies which lower prices of durable goods after selling at the monopoly price and consumers who know that the lower price is coming
+- in a monopoly of durable goods, the seller will still have to lower their price to sell their product
+- the formation of the firm occurred to reduce transaction costs
+
+"The Federal Communications Commission"
+
+- used Frank Stanton's testimony to argue that the Supreme Court should allow the FCC to auction TV and radio bandwidth
+- compared airwave bandwith to Rembrandts
+
+"The Lighthouse in Economics"
+
+- investigated Trinity House's attack on the use of the lighthouse as an example of a public good
+
+### Robert Cooter
+
+The "Cost of" Ronald Coase
+
+- examines how one of Coase's papers is misleading
+
+### Robert Ellickson
+
+Wrote a paper about Ronald Coase "and cattle", analyzing a famous example of farmers and ranchers Coase used in one paper. It concludes that the way tresspass disputes werer resolved manifested as social norms
 
 ### Friedrich Engels
 
 Co-author of the Communist Manifesto. Supported Marx through the profits from his industrial factory.
 
-He labeled hunting and gathering as the last phase of political innocence.
+Engels analogized the phase transitions of water to explicate his law of "transition from quantity to quality" as a social evolutionary mechanism.
+
+Engels used notes of a colleague on Lewis Henry Morgan's Ancient Society to describe a four-stage development of the family, ending with "monogamous family".
+
+Engels labeled hunting and gathering as the last phase of political innocence.
+
+The Communist Manifesto (see Karl Marx)
+
+The Condition of the Working Class in England
+
+- inspired by the high morality rates from disease in Liverpool and Manchester
+
+Anti-Duhring
+
+- expanded "Prussian Vodka in the German Reichstag" into a critique of Duhring's "revolution in science"
+
+"Prussian Vodka in the German Reichstag"
+
+- polemical attack
+
+Dialectics of Nature
+
+- unfinished
+- developed ideas about science first articulated in "Prussian Vodka in the German Reichstag"
+
+"The Part Played by Labor in the Transition from Ape to Man"
+
+- speculated that the human brain evolved in conjunction with the transtion from apes using their feet and hands for different purposes in an oft-excerpted section
 
 ### Milton Friedman
 
-One of the most influential economists of the last century, he was a conservative economist and a student of the Chicago School of economics.
+One of the most influential economists of the last century. Friedman was a conservative neoliberal monetarist economist and a student of the Chicago School of economics.
 
-He advocated for laissez-faire government policy.
+After Richard Nixon took the dollar off the gold standard, he repeated Friedman's earlier remark that "we are all Keynesians now".
 
-He criticized the Phillips Curve with Edmund Phelps because it did account for the natural rate of unemployment. See [Edmund Phelps](#edmund-phelps) for Friedman and Phelps' theory on the natural rate of unemployment.
+Friedman hosted the public Free to Choose TV series to respond to another thinker's The Age of Uncertainty series.
 
-The Friedman Rule is monetary policy that would set nominal interest rates to zero.
+Friedman coined the term "helicopter drop" for a policy response suitable to times of crisis.
 
-He argued that licensing doctors resulted in the inflation of their incomes.
+Friedman taught the "Chicago Boys", Chilean students of the Chicago school who implemented Friedman's ideas with Pinochet in Chile. Protests broke out in 1976 when Friedman's Nobel Prize was awarded due to the "Chicago Boys"' work. Friedman coined the term of the resulting "miracle".
 
-One of his central theories is the permanent income hypothesis, which followed from his criticism of the Keynesian consumption function. According to the permanent income hypothesis, individuals spend money based on their estimate of their expected long-term average income. This is in contrast to Keynesian theory, which views consumption as dependent on after-tax income. There are policy ramifications or the permanent income hypothesis: if it is true, short-term increases in an individual's income will not substantially change their spending habits.
+During a congressional hearing, Friedman stated that multi-price auctions cost the treasury money and favor the dealer community which lead him advocating for uniforce price auctions. This viewpoint was largely invalidated by empirical studies conducted in the 1990s.
 
-He worked with Leonard Savage to theorize that the curve of an individual's utility function differs based on their wealth.
+Friedman advocated for laissez-faire government policy.
+
+Friedman criticized the Phillips Curve with Edmund Phelps because it did account for the natural rate of unemployment. See Edmund Phelps for more about Friedman and Phelps' theory on the natural rate of unemployment.
+
+Friedman's "doctrine" is the argument that as long as companies remain within the rules, they should only work to maximise profits of shareholders.
+
+In a paper with Leonard J. Savage, Friedman used Morgenstern and Von Neumann's analysis of consumer units participating in both gambling and insurance to deevelop restrictions on an expected-value utility function, an early explanation of the increased risk-taking and increased wealth in the Friedman-Savage utility function. The curve of an individual's utility function differs based on their wealth.
+
+Friedman's "twist" argument uses the analogy of asking an expert billiards player about their shots to argue that economic theories shouldn't be tested by the "realism" of their assumptions.
+
+In one paper, Friedman used the example of daylight savings time to argue for flexible exchange rates.
+
+With Simon Kuznets, Friedman looked at the income levels of professionals like lawyers and dentists and concluded that the presence of licensing by the American Medical Association helped artifically boost the salaries of doctors.
+
+Friedman criticized the Bretton Woods system, arguing that a floating exchange rate would be more effective.
+
+Friedman's non-parametric test involves ranking each item by subject and tallying the columns.
+
+Friedman argued that economic freedom is a necessary step for political freedom.
 
 Capitalism and Freedom
 
@@ -68,46 +193,160 @@ Capitalism and Freedom
 - advanced some of his most notable these
 - capitalism is a central aspect of American's liberal society
 - advocates for free market reforms to various aspects of society
-- policy proposals include an end to mandatory licensing for physicians, school vouchers, and a negative income test
+- proposed an end to mandatory licensing for doctors
+- proposed a flat negative income tax as an alternative to welfare payments
+- proposed school vouchers
 
 A Monetary History of the United States, 1867-1960
 
 - written with fellow economist Anna Schwartz
 - claimed the Great Depression resulted from the Federal Reserve's monetary policies
 - advocated for monetarism, a revised quantity theory of money, which states that the government can ensure economic stability by regulating the amount of money in circulation
+- argued for the Friedman Rule
+  - monetary policy
+  - would set nominal interest rates to zero
+  - the money supply should be increased annually at a fixed "k-perecent"
 
-[See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-friedman)
+Free to Choose
 
-### John Galbraith
+- written with his wife Rose
+- chapter "The Cure for Inflation"
 
-He was a Canadian-American liberal economist. He was the ambassador to India in the Kennedy administration. He emphasized public service and limitations of the marketplace.
+A Theory of the Consumption Function
+
+- developed the permanent income hypothesis
+  - followed from his criticism of the Keynesian consumption function
+  - Individuals spend money based on their estimate of their expected long-term average income
+  - in contrast to Keynesian theory, which views consumption as dependent on after-tax income
+  - if true, temporary/short-term increases in an individual's income will not substantially change their spending habits
+
+Essays in Positive Economics
+
+- "The Methodology of Positive Economics"
+  - proposed that the long-run Phillips curve is vertical at the natural rate of unemployment
+  - states that the science of economics should be free of value judgements
+  - used the example of cigarette firms' response to price controls in WWII as a rare example of imperfect competition
+- states that economic theories should not be judged by their tautological completeness but by their simplicity and fruitfulness
+
+Bright Promises, Dismal Performance
+
+- collection of newspaper columns by Friedman
+
+For more information, see...
+
+- [this Qwiz5 article on Friedman](https://www.qwizbowl.com/post/qwiz5-quizbowl-friedman)
+- [this Slate article on Chile's implementation of Friedman's ideas](https://slate.com/business/2016/01/in-chicago-boys-the-story-of-chilean-economists-who-studied-in-america-and-then-remade-their-country.html)
+- [this Daily Signal article on Friedman's proposal for the military](https://www.dailysignal.com/2012/07/31/milton-friedman-father-of-the-all-volunteer-military/)
+- [this Investopedia article on natural unemployment](https://www.investopedia.com/terms/n/naturalunemployment.asp)
+- [this Marginal Revolution University video on monetarism](https://www.youtube.com/watch?v=YWrWQ4TUVW0)
+
+### John Kenneth Galbraith
+
+He was a Canadian-American liberal economist. He was JFK's ambassador to India.
+
+Galbraith emphasized public service and limitations of the marketplace.
+
+According to Galbraith, the belief that financial crises are normal occurrences is part of the "central tradition" of economics.
+
+According to Galbraith, the protective purpose of the firm is survival, whereas the affirmative purpose of a firm is corporate growth.
+
+In one work, Galbraith wrote about the tension between "managerialism" and "socialism".
 
 The Affluent Society
 
+- originally titled Why the Poor are Poor
 - warns of a widening income disparity within post-WWII America
-- "conventional wisdom", "ideas which are esteemed at any time for their acceptability"
-- "the dependence effect", "the way wants depend on the process by which they are satisfied
+- predicted that post-WWII consumerism would lead to increased private sector wealth compared to the public sector
+- coined the phrase "conventional wisdom" for "ideas which are esteemed at any time for their acceptability"
+- in Galbraith's "revised sequence", producers create consumers' wants so that they buy certain goods
+  - "dependence effect"
+- advocated for a large increase in public works spending
+- argued that previous economic theories explained economies based on poverty
+- critiqued the use of GDP to measure prosperity
+- advocated investment in public schools and the "New Clafss" in order to create an affluent society
 
 The New Industrial State
 
+- argued that advertising and vertical integration by large corporations has replaced supply and demand and made perfect competition impossible
+- argued that shareholders are losing control of companies to upper-level "technostructures" that do not seek to maximize profit
+- sections "The Technostructure" and "A Digression on Socialism"
+- the US is not a fully free-enterprise based economy
+
+American Capitalism
+
+- described the role of "countervailing power" in allowing markets to find optimal solutions
+- argued that organized labor and the federal government will replace free market competition as the primary check on corporate power
+
+The Great Crash, 1929
+
+- described how leveraged banks prevented investment by their subsidiaries, exacerbating the Great Depression
+
+### Henry George
+
+A Progressive-Era economist.
+
+George's theories were the basis for Lizzie Magie's "The Landlord's Game", which inspired "Monopoly".
+
+Progress and Poverty
+
+- best-selling
+- argued for the imposition of a single tax on land values
+
+Protection or Free Trade
+
+- contrasted "revenue reform" with "true free trade"
+- the first book to be read into the Congressional Record in its entirety
+
 ### Friedrich von Hayek
 
-Austrian-born economist. He won the 1974 Nobel prize in Economics along with Gunnar Myrdal, primarily for his thesis tying central planning to social stagnation.
+Austrian-born Austrian-School economist. He won the 1974 Nobel prize in Economics along with Gunnar Myrdal, primarily for his thesis tying central planning to social stagnation.
+
+Hayek criticized "rationalist constructivism", the belief that institutions must be "deliberately designed" for human purposes.
+
+Hayek argued against positivism by arguing that a purely quantitative method is unsatisfactory for social science because we use limited numerical information to understand primarily group human action.
+
+Hayek proposed that a "spontaneous order" he termed "catallaxy" developed through the adjustment of many individual economies to the world market.
+
+In a letter to The Times, Hayek criticized the 1977 Lib-Lib Pact by stating "a party that keeps a socialist government in power has lost all title to the name 'Liberal'".
+
+Hayek called himself an "unrepentant old Whig".
 
 The Road to Serfdom
 
+- attacks central planning
 - argued that Nazism and Soviet totalitarianism have their origins in socialism
+- argues that every restrictive action a government takes reduces freedom
 - "Two Kinds of Security" chapter
   - distinguished between minimum sustenance and standard of life
+- popularized by a twenty-page version in Reader's Digest that condensed the argument that central planning inevitably leads to totalitarian forms of government
 
-The Constitution of Freedom
+The Fatal Conceit: The Errors of Socialism
 
-- appendix "Why I am Not a Conservative"
+- how the existence of spontaneous or extended orders shows that human-generated policy cannot be the most efficient
+- "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design"
 
 "On the Use of Knowledge in Society"
 
 - posited a "division of knowledge"
 - noted that price is a mechanism of communicating information
+- criticizes Oskar Lange's ideas by claiming that resource coordination in a state of "dispersed knowledge" can only  be achieved by the free market
+- closes by disputing Joseph Schumpeter's claim that consumers "ipso facto... evaluate the means of production" of goods
+
+The Constitution of Freedom
+
+- appendix "Why I am Not a Conservative"
+
+Law, Legislation, and Liberty
+
+- distinguished betwen "taxis" and "cosmos"
+
+The Sensory Order
+
+- human psychology favors "spontaneous orders"
+
+Price and Production
+
+- argued that increases in the money supply would cause "malinvestment" as businessmen receive distorted price signals
 
 ### John Hicks
 
@@ -148,6 +387,13 @@ Tract on Monetary Reform
 - supported the Cambridge cash-balance theory of money
 
 [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-keynes)
+
+### Naomi Klein
+
+The Shock Doctrine
+
+- introduction
+  - cites Friedman's claim that Hurricane Katrina was "a tragedy" but "also an opportunity"
 
 ### Thomas Malthus
 
@@ -214,8 +460,6 @@ The German Ideology
 
 Theses on Feuerbach
 
-### Lewis Henry Morgan
-
 ### Vilfredo Pareto
 
 He introduced the concept of "indifference curves".
@@ -235,6 +479,13 @@ Circulation of the Elites
 With Milton Friedman, he developed the theory of a natural rate of unemployment. The natural rate of unemployment is an equilibrium in the unemployment level. Friedman and Phelps argued that attempts to decrease unemployment beyond the natural rate would cause inflation. The theory challenged the orthodoxy of the Philips Curve: the theoretical negative relationship between inflation and unemployment. Phelps quantified the natural rate of unemployment with his NAIRU model (Non-Accelerating Inflation Rate of Unemployment).
 
 He was the originator of the Hysteresis hypothesis.
+
+### Eric Posner
+
+Radical Markets: Uprooting Capitalism and Democracy for a Just Society
+
+- with Eric Glen Weyl
+- critiques Henry George's "simpler, easier, and quieter way" of solving the monopoly problem of solving the monopoly problem with an example involving the Empire State Building
 
 ### Francois Quesnay
 
@@ -263,6 +514,10 @@ Principles of Political Economy and Taxation
   - because of opportunity cost, each party should specialize in what it doest best and then trade for everything else
   - used example of Britain's cloth industry and Portugal's wine industry
 - attempted to justify unfettered international trade through the above
+
+### Amartya Sen
+
+His "liberal pardox" builds off of the work of Arrow.
 
 ### Adam Smith
 
@@ -300,6 +555,14 @@ The Theory of Moral Sentiments
 Lectures of Jurisprudence
 
 [See Qwiz5's article for more information](https://www.qwizbowl.com/post/qwiz5-quizbowl-ricardo)
+
+### George Stigler
+
+Used "about four pages" from "The Problem of Social Cost" to name the Coase theorem.
+
+### Joseph Stiglitz
+
+Formulated the Henry George theorem, which posits that public investments will completely recoup their cost through tax revenue.
 
 ### Thorstein Veblen
 
